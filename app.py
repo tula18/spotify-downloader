@@ -1,68 +1,34 @@
-playlist_id = "2QTfJGAK3svKfuo2dhQHRq"
-
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
- 
-import json, urllib.request, re
+import json
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="4c58ade0e9a74181a9e648d7dd504c5d",
-                                                           client_secret="0a94e430ad87413da14e708b0901d0c2"))
+# Authentication - without user
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="3c1b217c1a6a49cea3789ab3b503d211", client_secret="38b6b43d6b6b46d3800a7322a93f5cf4"))
 
-curr = sp.current_user()
-track = sp.track("https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR")
-print(curr)
-# def get_playlist_tracks(playlist_id):
-#     tracks = []
-#     results = sp.playlist_tracks(playlist_id)
-#     while results['next']:
-#         tracks.extend(results['items'])
-#         results = sp.next(results)
-#     tracks.extend(results['items'])
-#     return tracks
+def get_all_show_episodes(show_id):
+    episodes = []
+    offset = 0
+    limit = 50  # Maximum allowed by Spotify
 
-# print(get_playlist_tracks(playlist_id)[0]["track"]["name"])
+    while True:
+        results = sp.show_episodes(show_id, offset=offset, limit=limit)
+        episodes.extend(results['items'])
+        if results['next'] is not None:
+            offset += limit
+        else:
+            break
 
-# json_object = json.dumps(get_playlist_tracks(playlist_id)[0]["track"], indent=4)
-# with open("sample.json", "a") as outfile:
-#     outfile.write(json_object)
+    return episodes
 
-# from pytube import YouTube 
-# import os 
-# inp = input("Enter the URL of the video you want to download: \n>> ")
-  
-# inp = inp.replace(" ", "+")
-# search_link = "https://www.youtube.com/results?search_query=" + inp
-# count = 0
-# while count < 3:
-#     try:
-#         response = urllib.request.urlopen(search_link)
-#         break
-#     except:
-#         count += 1
+# Example usage
+show_id = 'https://open.spotify.com/show/2hm3NRGFO5rRVDEhA0stZI?si=4c2cc90fbac9414a'  # Replace with the show's Spotify ID
+episodes = get_all_show_episodes(show_id)
+episodes_json = json.dumps(episodes, indent=4)  # Convert the list of episodes to a JSON string
 
-# search_res = re.findall(r"watch\?v=(\S{11})", response.read().decode())
-# first_vid = "https://www.youtube.com/watch?v=" + search_res[0]
-# print(first_vid)
+# Print or save the JSON
+print(episodes_json) 
+print(f"Found {len(episodes)} episodes.")
 
-
-# # url input from user 
-# # yt = YouTube( 
-# #     str(input("Enter the URL of the video you want to download: \n>> "))) 
-  
-# # # extract only audio 
-# # video = yt.streams.filter(only_audio=True).first() 
-  
-# # # check for destination to save file 
-# # print("Enter the destination (leave blank for current directory)") 
-# # destination = str(input(">> ")) or '.'
-  
-# # # download the file 
-# # out_file = video.download(output_path=destination) 
-  
-# # # save the file 
-# # base, ext = os.path.splitext(out_file) 
-# # new_file = base + '.mp3'
-# # os.rename(out_file, new_file) 
-  
-# # # result of success 
-# # print(yt.title + " has been successfully downloaded.")
+# Process the episodes as needed
+for episode in episodes:
+    print(episode['name'])  # Example: print each episode's name

@@ -1,0 +1,1703 @@
+[
+    {
+        "idx": 0,
+        "artist_name": "Ness",
+        "track_title": "\u05d7\u05e8\u05d1\u05d5 \u05d3\u05e8\u05d1\u05d5",
+        "track_number": 1,
+        "isrc": "il5842343332",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ded04378c9ec039050a14ff0",
+        "album_name": "\u05d7\u05e8\u05d1\u05d5 \u05d3\u05e8\u05d1\u05d5",
+        "release_date": "2023-11-14",
+        "artists": [
+            "Ness",
+            "\u05e1\u05d8\u05d9\u05dc\u05d4"
+        ]
+    },
+    {
+        "idx": 1,
+        "artist_name": "Hanan Ben Ari",
+        "track_title": "\u05e2\u05d8\u05dc\u05e3 \u05e2\u05d9\u05d5\u05d5\u05e8",
+        "track_number": 2,
+        "isrc": "IL1012300926",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0208388e18953c485514126aa9",
+        "album_name": "\u05d9\u05e9 \u05db\u05d0\u05df \u05d9\u05d5\u05ea\u05e8 \u05de\u05d6\u05d4",
+        "release_date": "2023-06-12",
+        "artists": [
+            "Hanan Ben Ari"
+        ]
+    },
+    {
+        "idx": 2,
+        "artist_name": "Assaf Amdursky",
+        "track_title": "\u05d1\u05e8\u05d0\u05e9\u05d9\u05ea",
+        "track_number": 12,
+        "isrc": "IL4070901607",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02646880df2a23f9d2eef0f7a2",
+        "album_name": "\u05d4\u05e8\u05d9 \u05d0\u05ea",
+        "release_date": "2008-01-01",
+        "artists": [
+            "Assaf Amdursky"
+        ]
+    },
+    {
+        "idx": 3,
+        "artist_name": "Carmella Gross & Wagner",
+        "track_title": "\u05e0\u05e9\u05dc \u05d4\u05e0\u05d7\u05e9",
+        "track_number": 12,
+        "isrc": "IL1049100964",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d985e22ed751f7a351e5f43a",
+        "album_name": "\u05e4\u05e8\u05d7 \u05e9\u05d7\u05d5\u05e8",
+        "release_date": "1991-08-02",
+        "artists": [
+            "Carmella Gross & Wagner",
+            "Eran Tzur"
+        ]
+    },
+    {
+        "idx": 4,
+        "artist_name": "Ralph McTell",
+        "track_title": "Streets of London",
+        "track_number": 1,
+        "isrc": "GBAJE6901117",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fc8fbaf0c03f26e2febc73f2",
+        "album_name": "Spiral Staircase (Expanded Edition)",
+        "release_date": "1969-01-01",
+        "artists": [
+            "Ralph McTell"
+        ]
+    },
+    {
+        "idx": 5,
+        "artist_name": "Bob Dylan",
+        "track_title": "Blowin' in the Wind",
+        "track_number": 1,
+        "isrc": "USSM19900534",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e027d214af8499aa95ad220f573",
+        "album_name": "The Freewheelin' Bob Dylan",
+        "release_date": "1963-05-27",
+        "artists": [
+            "Bob Dylan"
+        ]
+    },
+    {
+        "idx": 6,
+        "artist_name": "Jefferson Airplane",
+        "track_title": "White Rabbit",
+        "track_number": 10,
+        "isrc": "USRC10301017",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022dac7a01676ddb36c1d0ec05",
+        "album_name": "Surrealistic Pillow",
+        "release_date": "1967",
+        "artists": [
+            "Jefferson Airplane"
+        ]
+    },
+    {
+        "idx": 7,
+        "artist_name": "Leblanc",
+        "track_title": "Ouverture",
+        "track_number": 1,
+        "isrc": "CA5KR2316042",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0207bc7250e68df5a4c1127d59",
+        "album_name": "New Era",
+        "release_date": "2023-01-20",
+        "artists": [
+            "Leblanc"
+        ]
+    },
+    {
+        "idx": 8,
+        "artist_name": "Queen",
+        "track_title": "Killer Queen - Remastered 2011",
+        "track_number": 2,
+        "isrc": "GBUM71029606",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0209e2ec500166cf2d5ac21050",
+        "album_name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "release_date": "1974-11-08",
+        "artists": [
+            "Queen"
+        ]
+    },
+    {
+        "idx": 9,
+        "artist_name": "David Bowie",
+        "track_title": "The Man Who Sold the World - 2015 Remaster",
+        "track_number": 8,
+        "isrc": "USJT11500099",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0246926e777bd6665f03128d29",
+        "album_name": "The Man Who Sold the World (2015 Remaster)",
+        "release_date": "1970-11-04",
+        "artists": [
+            "David Bowie"
+        ]
+    },
+    {
+        "idx": 10,
+        "artist_name": "Queen",
+        "track_title": "I Want To Break Free - Remastered 2011",
+        "track_number": 6,
+        "isrc": "GBUM71106175",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025be5f807f6f0549e198a44b4",
+        "album_name": "The Works (2011 Remaster)",
+        "release_date": "1984-02-27",
+        "artists": [
+            "Queen"
+        ]
+    },
+    {
+        "idx": 11,
+        "artist_name": "Rufus Wainwright",
+        "track_title": "Going To A Town",
+        "track_number": 2,
+        "isrc": "USUM70725561",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028d118d4d724b23957acbcf18",
+        "album_name": "Release The Stars",
+        "release_date": "2007-01-01",
+        "artists": [
+            "Rufus Wainwright"
+        ]
+    },
+    {
+        "idx": 12,
+        "artist_name": "This Mortal Coil",
+        "track_title": "Song To The Siren - Remastered",
+        "track_number": 2,
+        "isrc": "GBAFL1000001",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02201a9af6d3296d20a205adb5",
+        "album_name": "It'll End In Tears (Remastered)",
+        "release_date": "1984-10-01",
+        "artists": [
+            "This Mortal Coil"
+        ]
+    },
+    {
+        "idx": 13,
+        "artist_name": "Yosi Horikawa",
+        "track_title": "Bubbles",
+        "track_number": 1,
+        "isrc": "GBMCZ0600601",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e027d09a384de0438a4ad206d13",
+        "album_name": "Wandering",
+        "release_date": "2012-06-18",
+        "artists": [
+            "Yosi Horikawa"
+        ]
+    },
+    {
+        "idx": 14,
+        "artist_name": "Michael Jackson",
+        "track_title": "Thriller",
+        "track_number": 4,
+        "isrc": "USSM19902989",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02822e06488f98e53e8743ff6b",
+        "album_name": "Thriller 40",
+        "release_date": "2022-11-18",
+        "artists": [
+            "Michael Jackson"
+        ]
+    },
+    {
+        "idx": 15,
+        "artist_name": "Ali Kh",
+        "track_title": "Oya - Alexander Ben Remix",
+        "track_number": 3,
+        "isrc": "TNA051900005",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fcfb062b8ecf66a46825ca06",
+        "album_name": "Oya (Remix's)",
+        "release_date": "2019-07-05",
+        "artists": [
+            "Ali Kh",
+            "Youssef Baklouti",
+            "Alexander Ben"
+        ]
+    },
+    {
+        "idx": 16,
+        "artist_name": "David Bowie",
+        "track_title": "Hallo Spaceboy (Remix) - 2021 Remaster",
+        "track_number": 13,
+        "isrc": "USJT12100026",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028b75d59ac3647f77e2507f66",
+        "album_name": "Brilliant Adventure (1992 \u2013 2001)",
+        "release_date": "2021-11-26",
+        "artists": [
+            "David Bowie",
+            "Chris Lowe",
+            "Neil Tennant",
+            "Pet Shop Boys"
+        ]
+    },
+    {
+        "idx": 17,
+        "artist_name": "Bob Marley & The Wailers",
+        "track_title": "Is This Love",
+        "track_number": 1,
+        "isrc": "USIR27800259",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02413a6c2c7b296d98171e5e21",
+        "album_name": "Legend - The Best Of Bob Marley And The Wailers",
+        "release_date": "2002-01-01",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ]
+    },
+    {
+        "idx": 18,
+        "artist_name": "Swedish House Mafia",
+        "track_title": "Moth To A Flame (with The Weeknd)",
+        "track_number": 17,
+        "isrc": "USUG12105524",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ade87e5f9c3764f0a1e5df64",
+        "album_name": "Dawn FM (Alternate World)",
+        "release_date": "2022-01-07",
+        "artists": [
+            "Swedish House Mafia",
+            "The Weeknd"
+        ]
+    },
+    {
+        "idx": 19,
+        "artist_name": "Bob Marley & The Wailers",
+        "track_title": "Could You Be Loved",
+        "track_number": 8,
+        "isrc": "USIR28000016",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021c40418d1c37d727e8e91b04",
+        "album_name": "Uprising",
+        "release_date": "1980",
+        "artists": [
+            "Bob Marley & The Wailers"
+        ]
+    },
+    {
+        "idx": 20,
+        "artist_name": "The Weeknd",
+        "track_title": "Gasoline",
+        "track_number": 2,
+        "isrc": "USUG12106682",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ade87e5f9c3764f0a1e5df64",
+        "album_name": "Dawn FM (Alternate World)",
+        "release_date": "2022-01-07",
+        "artists": [
+            "The Weeknd"
+        ]
+    },
+    {
+        "idx": 21,
+        "artist_name": "Parah Dice",
+        "track_title": "Breathe",
+        "track_number": 1,
+        "isrc": "ROTHR2000107",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0218ffe05cd434764cdfdb41ae",
+        "album_name": "Breathe",
+        "release_date": "2020-11-06",
+        "artists": [
+            "Parah Dice",
+            "Brianna"
+        ]
+    },
+    {
+        "idx": 22,
+        "artist_name": "Junona Boys",
+        "track_title": "Relax",
+        "track_number": 1,
+        "isrc": "RUB422000534",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02acbdeca7f3f3f10856ceb819",
+        "album_name": "Relax",
+        "release_date": "2020-05-01",
+        "artists": [
+            "Junona Boys"
+        ]
+    },
+    {
+        "idx": 23,
+        "artist_name": "Elton John",
+        "track_title": "Your Song",
+        "track_number": 1,
+        "isrc": "GBAMB9500072",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024b292ed7c7360a04d3d6b74a",
+        "album_name": "Elton John",
+        "release_date": "1970-04-10",
+        "artists": [
+            "Elton John"
+        ]
+    },
+    {
+        "idx": 24,
+        "artist_name": "Dire Straits",
+        "track_title": "On Every Street",
+        "track_number": 2,
+        "isrc": "GBF089601052",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0277491e0e159600ec88f591c0",
+        "album_name": "On Every Street",
+        "release_date": "1991-09-10",
+        "artists": [
+            "Dire Straits"
+        ]
+    },
+    {
+        "idx": 25,
+        "artist_name": "Queen",
+        "track_title": "The Show Must Go On - Remastered 2011",
+        "track_number": 16,
+        "isrc": "GBUM71029636",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f7c223721f1d860395444dbe",
+        "album_name": "Greatest Hits II (Remastered)",
+        "release_date": "1991-10-28",
+        "artists": [
+            "Queen"
+        ]
+    },
+    {
+        "idx": 26,
+        "artist_name": "Static",
+        "track_title": "\u05dc\u05d9\u05e8\u05d6",
+        "track_number": 1,
+        "isrc": "IL7192300056",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021e01c7a923e7d264998ce020",
+        "album_name": "\u05dc\u05d9\u05e8\u05d6",
+        "release_date": "2023-02-22",
+        "artists": [
+            "Static"
+        ]
+    },
+    {
+        "idx": 27,
+        "artist_name": "David Bowie",
+        "track_title": "Thursday's Child",
+        "track_number": 1,
+        "isrc": "USRF39900002",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02dba7b3327fa86adc1535edb2",
+        "album_name": "Hours... (Expanded Edition)",
+        "release_date": "1999-09-29",
+        "artists": [
+            "David Bowie"
+        ]
+    },
+    {
+        "idx": 28,
+        "artist_name": "David Bowie",
+        "track_title": "Life on Mars? - 2015 Remaster",
+        "track_number": 4,
+        "isrc": "USJT11500131",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e464904cc3fed2b40fc55120",
+        "album_name": "Hunky Dory (2015 Remaster)",
+        "release_date": "1971-12-17",
+        "artists": [
+            "David Bowie"
+        ]
+    },
+    {
+        "idx": 29,
+        "artist_name": "Lou Reed",
+        "track_title": "Perfect Day",
+        "track_number": 3,
+        "isrc": "USRC17201946",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e",
+        "album_name": "Transformer",
+        "release_date": "1972-12-01",
+        "artists": [
+            "Lou Reed"
+        ]
+    },
+    {
+        "idx": 30,
+        "artist_name": "Michael Jackson",
+        "track_title": "Billie Jean",
+        "track_number": 6,
+        "isrc": "USSM19902991",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+        "album_name": "Thriller 25 Super Deluxe Edition",
+        "release_date": "2008-02-08",
+        "artists": [
+            "Michael Jackson"
+        ]
+    },
+    {
+        "idx": 31,
+        "artist_name": "KC & The Sunshine Band",
+        "track_title": "Please Don't Go",
+        "track_number": 4,
+        "isrc": "GBAYE7900015",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026332e2da57a38ffee8e8fb41",
+        "album_name": "Do You Wanna Go Party",
+        "release_date": "1979",
+        "artists": [
+            "KC & The Sunshine Band"
+        ]
+    },
+    {
+        "idx": 32,
+        "artist_name": "Owl City",
+        "track_title": "Fireflies",
+        "track_number": 9,
+        "isrc": "USUM70972068",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02785d4e702802da500fc78b32",
+        "album_name": "Ocean Eyes",
+        "release_date": "2009-01-01",
+        "artists": [
+            "Owl City"
+        ]
+    },
+    {
+        "idx": 33,
+        "artist_name": "David Bowie",
+        "track_title": "Starman - 2012 Remaster",
+        "track_number": 4,
+        "isrc": "USJT11200004",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c41f4e1133b0e6c5fcf58680",
+        "album_name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "release_date": "1972-06-06",
+        "artists": [
+            "David Bowie"
+        ]
+    },
+    {
+        "idx": 34,
+        "artist_name": "Dire Straits",
+        "track_title": "Your Latest Trick - Remastered 1996",
+        "track_number": 4,
+        "isrc": "GBUM72102501",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023d15b942408bff9f507f189e",
+        "album_name": "Brothers In Arms (Remastered 1996)",
+        "release_date": "1985-05-13",
+        "artists": [
+            "Dire Straits"
+        ]
+    },
+    {
+        "idx": 35,
+        "artist_name": "Bumblebee Unlimited",
+        "track_title": "Lady Bug - Disco Mix",
+        "track_number": 2,
+        "isrc": "USRC10501825",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02946ca717ca116b27e94a038f",
+        "album_name": "Sting Like A Bee",
+        "release_date": "1979-03-01",
+        "artists": [
+            "Bumblebee Unlimited"
+        ]
+    },
+    {
+        "idx": 36,
+        "artist_name": "Gilbert O'Sullivan",
+        "track_title": "Alone Again (Naturally)",
+        "track_number": 15,
+        "isrc": "GBEQJ0400002",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022a17bb450e1326dbac8a456d",
+        "album_name": "Back to Front (Deluxe Edition)",
+        "release_date": "1972-01-01",
+        "artists": [
+            "Gilbert O'Sullivan"
+        ]
+    },
+    {
+        "idx": 37,
+        "artist_name": "Elton John",
+        "track_title": "Hold Me Closer",
+        "track_number": 1,
+        "isrc": "GBUM72205030",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025d872e7b0c1ba964541f07e8",
+        "album_name": "Hold Me Closer",
+        "release_date": "2022-08-26",
+        "artists": [
+            "Elton John",
+            "Britney Spears"
+        ]
+    },
+    {
+        "idx": 38,
+        "artist_name": "Blondie",
+        "track_title": "Rapture",
+        "track_number": 8,
+        "isrc": "USCH38700028",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ebc918cfb51e9ced7349f436",
+        "album_name": "Atomic/Atomix",
+        "release_date": "1999-01-01",
+        "artists": [
+            "Blondie"
+        ]
+    },
+    {
+        "idx": 39,
+        "artist_name": "Pink Floyd",
+        "track_title": "Brain Damage",
+        "track_number": 9,
+        "isrc": "GBN9Y1100140",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
+        "album_name": "The Dark Side of the Moon",
+        "release_date": "1973-03-01",
+        "artists": [
+            "Pink Floyd"
+        ]
+    },
+    {
+        "idx": 40,
+        "artist_name": "Alice In Chains",
+        "track_title": "Nutshell - Live at the Majestic Theatre, Brooklyn, NY - April 1996",
+        "track_number": 1,
+        "isrc": "USSM19601539",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f2b6bebda774909d71e0f796",
+        "album_name": "Unplugged",
+        "release_date": "1996-07-29",
+        "artists": [
+            "Alice In Chains"
+        ]
+    },
+    {
+        "idx": 41,
+        "artist_name": "Pearl Jam",
+        "track_title": "Alive",
+        "track_number": 3,
+        "isrc": "USSM19100003",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
+        "album_name": "Ten",
+        "release_date": "1991-08-27",
+        "artists": [
+            "Pearl Jam"
+        ]
+    },
+    {
+        "idx": 42,
+        "artist_name": "Eagles",
+        "track_title": "Hotel California - 2013 Remaster",
+        "track_number": 1,
+        "isrc": "USEE11300353",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
+        "album_name": "Hotel California (2013 Remaster)",
+        "release_date": "1976-12-08",
+        "artists": [
+            "Eagles"
+        ]
+    },
+    {
+        "idx": 43,
+        "artist_name": "Suede",
+        "track_title": "Saturday Night",
+        "track_number": 10,
+        "isrc": "GBL2J1000018",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0254a78359ef17a590ab24256c",
+        "album_name": "Coming Up - 20th Anniversary Edition (Audio Version)",
+        "release_date": "1996-09-03",
+        "artists": [
+            "Suede"
+        ]
+    },
+    {
+        "idx": 44,
+        "artist_name": "Twenty One Pilots",
+        "track_title": "Stressed Out",
+        "track_number": 2,
+        "isrc": "USAT21500597",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02352e5ec301a02278ffe53d14",
+        "album_name": "Blurryface",
+        "release_date": "2015-05-15",
+        "artists": [
+            "Twenty One Pilots"
+        ]
+    },
+    {
+        "idx": 45,
+        "artist_name": "Ralph McTell",
+        "track_title": "Streets of London",
+        "track_number": 1,
+        "isrc": "GBAJE6901117",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029c6d6ddbe54593e3bff61200",
+        "album_name": "Spiral Staircase (Expanded Edition)",
+        "release_date": "1969-01-01",
+        "artists": [
+            "Ralph McTell"
+        ]
+    },
+    {
+        "idx": 46,
+        "artist_name": "Yusuf / Cat Stevens",
+        "track_title": "Wild World",
+        "track_number": 3,
+        "isrc": "GBUM71905965",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e7248738c2f7ce3b5584b15d",
+        "album_name": "Tea For The Tillerman (Remastered 2020)",
+        "release_date": "1970-11-23",
+        "artists": [
+            "Yusuf / Cat Stevens"
+        ]
+    },
+    {
+        "idx": 47,
+        "artist_name": "Grace Jones",
+        "track_title": "I've Seen That Face Before (Libertango)",
+        "track_number": 6,
+        "isrc": "USIR28100272",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0275a8b4d86fb3a88401b38282",
+        "album_name": "Nightclubbing",
+        "release_date": "1981",
+        "artists": [
+            "Grace Jones"
+        ]
+    },
+    {
+        "idx": 48,
+        "artist_name": "Yusuf / Cat Stevens",
+        "track_title": "Morning Has Broken",
+        "track_number": 3,
+        "isrc": "GBAAN7100031",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028684345e7da39280144d06f3",
+        "album_name": "The Very Best Of Cat Stevens",
+        "release_date": "2003-10-13",
+        "artists": [
+            "Yusuf / Cat Stevens"
+        ]
+    },
+    {
+        "idx": 49,
+        "artist_name": "Galt MacDermot",
+        "track_title": "The Flesh Failures (Let the Sunshine In)",
+        "track_number": 27,
+        "isrc": "USRC17908245",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02aa85ad918996e1c01da64c7b",
+        "album_name": "Hair",
+        "release_date": "1979",
+        "artists": [
+            "Galt MacDermot",
+            "Tom Pierson"
+        ]
+    },
+    {
+        "idx": 50,
+        "artist_name": "Don McLean",
+        "track_title": "Vincent",
+        "track_number": 3,
+        "isrc": "USEM38600091",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020085dd4362653ef4c54ebbeb",
+        "album_name": "American Pie",
+        "release_date": "1971",
+        "artists": [
+            "Don McLean"
+        ]
+    },
+    {
+        "idx": 51,
+        "artist_name": "Galt MacDermot",
+        "track_title": "Aquarius",
+        "track_number": 1,
+        "isrc": "USRC17908218",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02aa85ad918996e1c01da64c7b",
+        "album_name": "Hair",
+        "release_date": "1979",
+        "artists": [
+            "Galt MacDermot",
+            "Tom Pierson"
+        ]
+    },
+    {
+        "idx": 52,
+        "artist_name": "Kate Bush",
+        "track_title": "Wuthering Heights",
+        "track_number": 6,
+        "isrc": "GBAYE7700223",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023c9aa0b150e1a982fd76b1c5",
+        "album_name": "The Kick Inside",
+        "release_date": "1978-02-17",
+        "artists": [
+            "Kate Bush"
+        ]
+    },
+    {
+        "idx": 53,
+        "artist_name": "Marvin Gaye",
+        "track_title": "Sexual Healing",
+        "track_number": 2,
+        "isrc": "USSM19803028",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0246e859872ed30a898160aeb2",
+        "album_name": "Midnight Love",
+        "release_date": "1982-10-01",
+        "artists": [
+            "Marvin Gaye"
+        ]
+    },
+    {
+        "idx": 54,
+        "artist_name": "Elton John",
+        "track_title": "Goodbye Yellow Brick Road - Remastered 2014",
+        "track_number": 4,
+        "isrc": "GBUM71304956",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f72f1e38e9bd48f18a17ed9b",
+        "album_name": "Goodbye Yellow Brick Road (Remastered)",
+        "release_date": "1973-10-05",
+        "artists": [
+            "Elton John"
+        ]
+    },
+    {
+        "idx": 55,
+        "artist_name": "The Animals",
+        "track_title": "House of the Rising Sun",
+        "track_number": 3,
+        "isrc": "GBAYE6400209",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02015c484a7aca592df1a77828",
+        "album_name": "The Singles Plus",
+        "release_date": "1987-10-19",
+        "artists": [
+            "The Animals"
+        ]
+    },
+    {
+        "idx": 56,
+        "artist_name": "Elton John",
+        "track_title": "Cold Heart - PNAU Remix",
+        "track_number": 1,
+        "isrc": "GBUM72104705",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029f5cce8304c42d3a5463fd23",
+        "album_name": "Cold Heart (PNAU Remix)",
+        "release_date": "2021-08-13",
+        "artists": [
+            "Elton John",
+            "Dua Lipa",
+            "PNAU"
+        ]
+    },
+    {
+        "idx": 57,
+        "artist_name": "Zager & Evans",
+        "track_title": "In the Year 2525 (Exordium & Terminus)",
+        "track_number": 1,
+        "isrc": "USRC19901100",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e64f40dfe27c93052a8e726d",
+        "album_name": "In the Year 2525 (Exordium Terminus)",
+        "release_date": "1969-07-01",
+        "artists": [
+            "Zager & Evans"
+        ]
+    },
+    {
+        "idx": 58,
+        "artist_name": "The Bangles",
+        "track_title": "Hazy Shade of Winter",
+        "track_number": 5,
+        "isrc": "USSM19802609",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e1b42720d47d64dea3e1b3d3",
+        "album_name": "We Are The '80s",
+        "release_date": "1984",
+        "artists": [
+            "The Bangles"
+        ]
+    },
+    {
+        "idx": 59,
+        "artist_name": "Earth & Fire",
+        "track_title": "Memories",
+        "track_number": 16,
+        "isrc": "NLC287200030",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025a72f4fb0efa23f943c4892b",
+        "album_name": "Earth & Fire",
+        "release_date": "1970-09-01",
+        "artists": [
+            "Earth & Fire"
+        ]
+    },
+    {
+        "idx": 60,
+        "artist_name": "Radiohead",
+        "track_title": "Lucky",
+        "track_number": 11,
+        "isrc": "GBAYE9701375",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+        "album_name": "OK Computer",
+        "release_date": "1997-05-28",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 61,
+        "artist_name": "Gnarls Barkley",
+        "track_title": "Crazy",
+        "track_number": 2,
+        "isrc": "GBAHT0600202",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ceb0b3423d21e3da43c58b0b",
+        "album_name": "St. Elsewhere",
+        "release_date": "2006-04-24",
+        "artists": [
+            "Gnarls Barkley"
+        ]
+    },
+    {
+        "idx": 62,
+        "artist_name": "Seal",
+        "track_title": "Kiss from a Rose",
+        "track_number": 6,
+        "isrc": "USWB19900917",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02419ef0b4e93476c41b7b3c89",
+        "album_name": "Seal",
+        "release_date": "1994-05-31",
+        "artists": [
+            "Seal"
+        ]
+    },
+    {
+        "idx": 63,
+        "artist_name": "Faith No More",
+        "track_title": "Easy",
+        "track_number": 14,
+        "isrc": "GBANC9200158",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0236842671366bfeb3d7c5f19e",
+        "album_name": "Angel Dust (Deluxe Edition)",
+        "release_date": "1992",
+        "artists": [
+            "Faith No More"
+        ]
+    },
+    {
+        "idx": 64,
+        "artist_name": "Coolio",
+        "track_title": "Gangsta's Paradise",
+        "track_number": 2,
+        "isrc": "USTB10400128",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c31d3c870a3dbaf7b53186cc",
+        "album_name": "Gangsta's Paradise",
+        "release_date": "1995-11-07",
+        "artists": [
+            "Coolio",
+            "L.V."
+        ]
+    },
+    {
+        "idx": 65,
+        "artist_name": "Elton John",
+        "track_title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+        "track_number": 5,
+        "isrc": "GBAMB7200006",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023009007708ab5134936a58b3",
+        "album_name": "Honky Chateau",
+        "release_date": "1972-05-19",
+        "artists": [
+            "Elton John"
+        ]
+    },
+    {
+        "idx": 66,
+        "artist_name": "Radiohead",
+        "track_title": "There, There",
+        "track_number": 9,
+        "isrc": "GBAYE0300722",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020da53e8f58e59f28a79c10c7",
+        "album_name": "Hail To the Thief",
+        "release_date": "2003-06-09",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 67,
+        "artist_name": "Freddie Mercury",
+        "track_title": "Living On My Own - No More Brothers Radio Mix",
+        "track_number": 8,
+        "isrc": "GBUM71107006",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023bdce4416294c1eafef7a71e",
+        "album_name": "Never Boring",
+        "release_date": "2019-10-11",
+        "artists": [
+            "Freddie Mercury",
+            "Serge Ramaekers",
+            "Carl Ward",
+            "Colin Peter"
+        ]
+    },
+    {
+        "idx": 68,
+        "artist_name": "Creedence Clearwater Revival",
+        "track_title": "I Put A Spell On You",
+        "track_number": 1,
+        "isrc": "USC4R0817577",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c1926353baa3c1d17ad29d22",
+        "album_name": "Creedence Clearwater Revival (Expanded Edition)",
+        "release_date": "1968-07-05",
+        "artists": [
+            "Creedence Clearwater Revival"
+        ]
+    },
+    {
+        "idx": 69,
+        "artist_name": "David Bowie",
+        "track_title": "The Man Who Sold the World - 1999 Remaster",
+        "track_number": 2,
+        "isrc": "USJT19900021",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023927530e993eaa92ef9f4a01",
+        "album_name": "Best of Bowie",
+        "release_date": "2002-10-21",
+        "artists": [
+            "David Bowie"
+        ]
+    },
+    {
+        "idx": 70,
+        "artist_name": "Radiohead",
+        "track_title": "Creep",
+        "track_number": 2,
+        "isrc": "GBAYE9200070",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02df55e326ed144ab4f5cecf95",
+        "album_name": "Pablo Honey",
+        "release_date": "1993-02-22",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 71,
+        "artist_name": "Lou Reed",
+        "track_title": "Satellite of Love",
+        "track_number": 7,
+        "isrc": "USRC17201950",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d55149748dca0e5a1f40778e",
+        "album_name": "Transformer",
+        "release_date": "1972-12-01",
+        "artists": [
+            "Lou Reed"
+        ]
+    },
+    {
+        "idx": 72,
+        "artist_name": "Earth, Wind & Fire",
+        "track_title": "Fantasy",
+        "track_number": 2,
+        "isrc": "USSM17700629",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f81891d2e28007ef6b918acd",
+        "album_name": "All 'N All",
+        "release_date": "1977-11-21",
+        "artists": [
+            "Earth, Wind & Fire"
+        ]
+    },
+    {
+        "idx": 73,
+        "artist_name": "Steve Miller Band",
+        "track_title": "Serenade",
+        "track_number": 4,
+        "isrc": "USCA28700719",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022fc23e78e87d793054bba090",
+        "album_name": "Fly Like An Eagle",
+        "release_date": "1976-01-01",
+        "artists": [
+            "Steve Miller Band"
+        ]
+    },
+    {
+        "idx": 74,
+        "artist_name": "Air",
+        "track_title": "Cherry Blossom Girl",
+        "track_number": 2,
+        "isrc": "FRS630300090",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026400fab74f28e90759ac8815",
+        "album_name": "Talkie Walkie",
+        "release_date": "2004-01-26",
+        "artists": [
+            "Air"
+        ]
+    },
+    {
+        "idx": 75,
+        "artist_name": "The Verve",
+        "track_title": "Bitter Sweet Symphony - Remastered 2016",
+        "track_number": 1,
+        "isrc": "GBUM71601816",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02707d13d3f87652e737e94d45",
+        "album_name": "Urban Hymns (Remastered 2016)",
+        "release_date": "1997-09-29",
+        "artists": [
+            "The Verve"
+        ]
+    },
+    {
+        "idx": 76,
+        "artist_name": "Bob Dylan",
+        "track_title": "Knockin' On Heaven's Door",
+        "track_number": 7,
+        "isrc": "USSM11304547",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026c86683d20c72e3874c11c6d",
+        "album_name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "release_date": "1973-07-13",
+        "artists": [
+            "Bob Dylan"
+        ]
+    },
+    {
+        "idx": 77,
+        "artist_name": "Eric Clapton",
+        "track_title": "Wonderful Tonight",
+        "track_number": 2,
+        "isrc": "NLF057790025",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025e7464d9d8a25b2bf74b782a",
+        "album_name": "Slowhand 35th Anniversary",
+        "release_date": "1977-11-01",
+        "artists": [
+            "Eric Clapton"
+        ]
+    },
+    {
+        "idx": 78,
+        "artist_name": "Susanne Sundf\u00f8r",
+        "track_title": "Delirious",
+        "track_number": 1,
+        "isrc": "NOAGW1400191",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02a50e3bd2454e7e558cd01217",
+        "album_name": "Delirious",
+        "release_date": "2015-01-12",
+        "artists": [
+            "Susanne Sundf\u00f8r"
+        ]
+    },
+    {
+        "idx": 79,
+        "artist_name": "Roberta Flack",
+        "track_title": "Killing Me Softly With His Song",
+        "track_number": 1,
+        "isrc": "USAT29901394",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e027ff730d1580c27bc461d0ccf",
+        "album_name": "Killing Me Softly",
+        "release_date": "1973-01-01",
+        "artists": [
+            "Roberta Flack"
+        ]
+    },
+    {
+        "idx": 80,
+        "artist_name": "Matt Simons",
+        "track_title": "Catch & Release - Deepend Remix Extended Version",
+        "track_number": 2,
+        "isrc": "NLE3T1400014",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0213011cb6b649a4eccddbdb04",
+        "album_name": "Catch & Release (Deepend Remix)",
+        "release_date": "2015-09-18",
+        "artists": [
+            "Matt Simons",
+            "Deepend"
+        ]
+    },
+    {
+        "idx": 81,
+        "artist_name": "The Doors",
+        "track_title": "People Are Strange",
+        "track_number": 7,
+        "isrc": "USEE19900740",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0286339e6cd71cc2a167451ee5",
+        "album_name": "Strange Days",
+        "release_date": "1967-09-25",
+        "artists": [
+            "The Doors"
+        ]
+    },
+    {
+        "idx": 82,
+        "artist_name": "Brad",
+        "track_title": "20th Century",
+        "track_number": 5,
+        "isrc": "USSM19300013",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e027e3a602488b2e653e512ba9c",
+        "album_name": "Shame",
+        "release_date": "1993-04-27",
+        "artists": [
+            "Brad"
+        ]
+    },
+    {
+        "idx": 83,
+        "artist_name": "Radiohead",
+        "track_title": "Paranoid Android",
+        "track_number": 2,
+        "isrc": "GBAYE9701376",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c8b444df094279e70d0ed856",
+        "album_name": "OK Computer",
+        "release_date": "1997-05-28",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 84,
+        "artist_name": "Dire Straits",
+        "track_title": "Sultans Of Swing",
+        "track_number": 6,
+        "isrc": "GBF089601041",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029dfee5404d5e0763998c958e",
+        "album_name": "Dire Straits",
+        "release_date": "1978-10-07",
+        "artists": [
+            "Dire Straits"
+        ]
+    },
+    {
+        "idx": 85,
+        "artist_name": "Blondie",
+        "track_title": "Atomic",
+        "track_number": 9,
+        "isrc": "USGHH1700001",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0244b45662755a96df78978fbd",
+        "album_name": "Eat To The Beat",
+        "release_date": "1979-09-28",
+        "artists": [
+            "Blondie"
+        ]
+    },
+    {
+        "idx": 86,
+        "artist_name": "Lulu",
+        "track_title": "To Sir With Love",
+        "track_number": 1,
+        "isrc": "GBAYE6700110",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b7bf82ba0f3a34ffdc972ad2",
+        "album_name": "Love Loves To Love Lulu",
+        "release_date": "1967-12-29",
+        "artists": [
+            "Lulu"
+        ]
+    },
+    {
+        "idx": 87,
+        "artist_name": "Simply Red",
+        "track_title": "Fairground",
+        "track_number": 91,
+        "isrc": "GBAHS9500357",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b302a7cb439071b77c3d942f",
+        "album_name": "100 Greatest Summer Songs",
+        "release_date": "2019-04-05",
+        "artists": [
+            "Simply Red"
+        ]
+    },
+    {
+        "idx": 88,
+        "artist_name": "Blood, Sweat & Tears",
+        "track_title": "I Love You More Than You'll Ever Know",
+        "track_number": 2,
+        "isrc": "USSM19917669",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e1834a6800cc0ed37c6bc5d6",
+        "album_name": "Child Is Father To The Man",
+        "release_date": "1968-02",
+        "artists": [
+            "Blood, Sweat & Tears"
+        ]
+    },
+    {
+        "idx": 89,
+        "artist_name": "Queens of the Stone Age",
+        "track_title": "Go With The Flow",
+        "track_number": 8,
+        "isrc": "USIR10211290",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029eec33b045d88f87b9b06e67",
+        "album_name": "Songs For The Deaf",
+        "release_date": "2002-01-01",
+        "artists": [
+            "Queens of the Stone Age"
+        ]
+    },
+    {
+        "idx": 90,
+        "artist_name": "Al Stewart",
+        "track_title": "Year of the Cat",
+        "track_number": 12,
+        "isrc": "GB01A0600657",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ce4b5708612624efe419a278",
+        "album_name": "Running Man - Introducing... Al Stewart",
+        "release_date": "2003",
+        "artists": [
+            "Al Stewart"
+        ]
+    },
+    {
+        "idx": 91,
+        "artist_name": "Alice In Chains",
+        "track_title": "Down In A Hole (2022 Remaster)",
+        "track_number": 4,
+        "isrc": "USSM10023130",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021cd131e5e9ad887ad8c1ecb7",
+        "album_name": "Dirt (2022 Remaster)",
+        "release_date": "1992-09-29",
+        "artists": [
+            "Alice In Chains"
+        ]
+    },
+    {
+        "idx": 92,
+        "artist_name": "Alice In Chains",
+        "track_title": "Would? (2022 Remaster)",
+        "track_number": 13,
+        "isrc": "USSM19200805",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021cd131e5e9ad887ad8c1ecb7",
+        "album_name": "Dirt (2022 Remaster)",
+        "release_date": "1992-09-29",
+        "artists": [
+            "Alice In Chains"
+        ]
+    },
+    {
+        "idx": 93,
+        "artist_name": "Muse",
+        "track_title": "Unintended",
+        "track_number": 7,
+        "isrc": "GBCVT9900015",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0234dd1b3a44cccef2d3c8bfce",
+        "album_name": "Showbiz",
+        "release_date": "1999",
+        "artists": [
+            "Muse"
+        ]
+    },
+    {
+        "idx": 94,
+        "artist_name": "Pearl Jam",
+        "track_title": "Jeremy",
+        "track_number": 6,
+        "isrc": "USSM19100674",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
+        "album_name": "Ten",
+        "release_date": "1991-08-27",
+        "artists": [
+            "Pearl Jam"
+        ]
+    },
+    {
+        "idx": 95,
+        "artist_name": "Nancy Sinatra",
+        "track_title": "These Boots Are Made For Walking",
+        "track_number": 4,
+        "isrc": "USUG11100434",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0239280b45b3afd15392d3421c",
+        "album_name": "The Mexican - Music From The Motion Picture",
+        "release_date": "2001-01-01",
+        "artists": [
+            "Nancy Sinatra"
+        ]
+    },
+    {
+        "idx": 96,
+        "artist_name": "Gerry Rafferty",
+        "track_title": "Right Down the Line",
+        "track_number": 3,
+        "isrc": "GBAYE7800544",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02dc60cf9a010f86354e6735dd",
+        "album_name": "City to City",
+        "release_date": "1978",
+        "artists": [
+            "Gerry Rafferty"
+        ]
+    },
+    {
+        "idx": 97,
+        "artist_name": "Jeff Wayne",
+        "track_title": "Forever Autumn",
+        "track_number": 3,
+        "isrc": "GBARL0700367",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c56f46daa1e5ee76ffa10a5b",
+        "album_name": "Highlights from Jeff Wayne's Musical Version of The War of The Worlds",
+        "release_date": "1978-06-12",
+        "artists": [
+            "Jeff Wayne"
+        ]
+    },
+    {
+        "idx": 98,
+        "artist_name": "Gotye",
+        "track_title": "Somebody That I Used To Know",
+        "track_number": 3,
+        "isrc": "AUZS21100040",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e028ac5768205ad97df3f4f4c0e",
+        "album_name": "Making Mirrors",
+        "release_date": "2011-01-01",
+        "artists": [
+            "Gotye",
+            "Kimbra"
+        ]
+    },
+    {
+        "idx": 99,
+        "artist_name": "Pearl Jam",
+        "track_title": "Black",
+        "track_number": 5,
+        "isrc": "USSM19100412",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d400d27cba05bb0545533864",
+        "album_name": "Ten",
+        "release_date": "1991-08-27",
+        "artists": [
+            "Pearl Jam"
+        ]
+    },
+    {
+        "idx": 100,
+        "artist_name": "The Motors",
+        "track_title": "Airport",
+        "track_number": 1,
+        "isrc": "GBAAA7800018",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0265d5a7842632354ea8017cf5",
+        "album_name": "Approved By The Motors",
+        "release_date": "1978-01-01",
+        "artists": [
+            "The Motors"
+        ]
+    },
+    {
+        "idx": 101,
+        "artist_name": "America",
+        "track_title": "Sister Golden Hair",
+        "track_number": 10,
+        "isrc": "USWB19901801",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0246105d5f640bd249a6ba1cf1",
+        "album_name": "Hearts",
+        "release_date": "1975",
+        "artists": [
+            "America"
+        ]
+    },
+    {
+        "idx": 102,
+        "artist_name": "10cc",
+        "track_title": "I'm Not In Love",
+        "track_number": 2,
+        "isrc": "GBF087500001",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d3e47e52f8f218c9ba12b8eb",
+        "album_name": "The Original Soundtrack",
+        "release_date": "1975",
+        "artists": [
+            "10cc"
+        ]
+    },
+    {
+        "idx": 103,
+        "artist_name": "The Alan Parsons Project",
+        "track_title": "Old and Wise",
+        "track_number": 10,
+        "isrc": "USAR19700022",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02182cfcd0cc42013557f64c89",
+        "album_name": "Eye In The Sky (Expanded Edition)",
+        "release_date": "1982",
+        "artists": [
+            "The Alan Parsons Project"
+        ]
+    },
+    {
+        "idx": 104,
+        "artist_name": "Donna Summer",
+        "track_title": "I Feel Love",
+        "track_number": 8,
+        "isrc": "USPR39402393",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02dfda0715a34f49501dfc97a0",
+        "album_name": "I Remember Yesterday",
+        "release_date": "1977-05-13",
+        "artists": [
+            "Donna Summer"
+        ]
+    },
+    {
+        "idx": 105,
+        "artist_name": "Radiohead",
+        "track_title": "High and Dry",
+        "track_number": 3,
+        "isrc": "GBAYE9400055",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        "album_name": "The Bends",
+        "release_date": "1995-03-13",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 106,
+        "artist_name": "Master KG",
+        "track_title": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
+        "track_number": 1,
+        "isrc": "ZA56E2002088",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026f8fc0d643e18b0ecc233b2b",
+        "album_name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) [Remix]",
+        "release_date": "2020-07-09",
+        "artists": [
+            "Master KG",
+            "Nomcebo Zikode",
+            "Burna Boy"
+        ]
+    },
+    {
+        "idx": 107,
+        "artist_name": "Al Stewart",
+        "track_title": "On the Border",
+        "track_number": 1,
+        "isrc": "GB01A0600680",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b8861239e4f62919843fc7bc",
+        "album_name": "The Best of Al Stewart - Centenary Collection",
+        "release_date": "1997-02-03",
+        "artists": [
+            "Al Stewart"
+        ]
+    },
+    {
+        "idx": 108,
+        "artist_name": "Justin Hayward",
+        "track_title": "Forever Autumn",
+        "track_number": 12,
+        "isrc": "GBBBN7802027",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029a48405b700e89d5225f69c1",
+        "album_name": "The Very Best Of The Moody Blues",
+        "release_date": "2014-01-01",
+        "artists": [
+            "Justin Hayward"
+        ]
+    },
+    {
+        "idx": 109,
+        "artist_name": "Gerry Rafferty",
+        "track_title": "Baker Street",
+        "track_number": 2,
+        "isrc": "GBAYE7800619",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02dc60cf9a010f86354e6735dd",
+        "album_name": "City to City",
+        "release_date": "1978",
+        "artists": [
+            "Gerry Rafferty"
+        ]
+    },
+    {
+        "idx": 110,
+        "artist_name": "K's Choice",
+        "track_title": "Everything For Free",
+        "track_number": 3,
+        "isrc": "BEH019800006",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b4bffb542ffd650bfea71228",
+        "album_name": "Cocoon Crash",
+        "release_date": "1998-06-02",
+        "artists": [
+            "K's Choice"
+        ]
+    },
+    {
+        "idx": 111,
+        "artist_name": "Radiohead",
+        "track_title": "Street Spirit (Fade Out)",
+        "track_number": 12,
+        "isrc": "GBAYE9400061",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        "album_name": "The Bends",
+        "release_date": "1995-03-13",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 112,
+        "artist_name": "Radiohead",
+        "track_title": "Fake Plastic Trees",
+        "track_number": 4,
+        "isrc": "GBAYE9400056",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12",
+        "album_name": "The Bends",
+        "release_date": "1995-03-13",
+        "artists": [
+            "Radiohead"
+        ]
+    },
+    {
+        "idx": 113,
+        "artist_name": "Simon & Garfunkel",
+        "track_title": "The Boxer",
+        "track_number": 6,
+        "isrc": "USSM16900831",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ba7fe7dd76cd4307e57dd75f",
+        "album_name": "Bridge Over Troubled Water",
+        "release_date": "1970-01-26",
+        "artists": [
+            "Simon & Garfunkel"
+        ]
+    },
+    {
+        "idx": 114,
+        "artist_name": "The Turtles",
+        "track_title": "You Showed Me",
+        "track_number": 9,
+        "isrc": "USA560587957",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f3126c1147d95ab91a85bbc3",
+        "album_name": "The Turtles Present The Battle of the Bands",
+        "release_date": "1968",
+        "artists": [
+            "The Turtles"
+        ]
+    },
+    {
+        "idx": 115,
+        "artist_name": "R.E.M.",
+        "track_title": "Shiny Happy People",
+        "track_number": 6,
+        "isrc": "USC4R1605377",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e2dd4e821bcc3f70dc0c8ffd",
+        "album_name": "Out Of Time (25th Anniversary Edition)",
+        "release_date": "1991-03-12",
+        "artists": [
+            "R.E.M."
+        ]
+    },
+    {
+        "idx": 116,
+        "artist_name": "Supertramp",
+        "track_title": "Breakfast In America - 2010 Remastered",
+        "track_number": 4,
+        "isrc": "USUM71021483",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+        "album_name": "Breakfast In America (Deluxe Edition)",
+        "release_date": "1979-03-29",
+        "artists": [
+            "Supertramp"
+        ]
+    },
+    {
+        "idx": 117,
+        "artist_name": "Pink Floyd",
+        "track_title": "The Happiest Days of Our Lives",
+        "track_number": 4,
+        "isrc": "GBN9Y1100098",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025d48e2f56d691f9a4e4b0bdf",
+        "album_name": "The Wall",
+        "release_date": "1979-11-30",
+        "artists": [
+            "Pink Floyd"
+        ]
+    },
+    {
+        "idx": 118,
+        "artist_name": "Tommy James & The Shondells",
+        "track_title": "Crimson & Clover",
+        "track_number": 19,
+        "isrc": "GBAYE6800094",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02716103d47a4f8fa9820c49ac",
+        "album_name": "Anthology",
+        "release_date": "1989",
+        "artists": [
+            "Tommy James & The Shondells"
+        ]
+    },
+    {
+        "idx": 119,
+        "artist_name": "The Mamas & The Papas",
+        "track_title": "California Dreamin' - Single Version",
+        "track_number": 7,
+        "isrc": "USMC16532697",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0208181b9f840a06e7a071cf72",
+        "album_name": "If You Can Believe Your Eyes & Ears",
+        "release_date": "1966-03",
+        "artists": [
+            "The Mamas & The Papas"
+        ]
+    },
+    {
+        "idx": 120,
+        "artist_name": "Otis Redding",
+        "track_title": "(Sittin' On) the Dock of the Bay",
+        "track_number": 1,
+        "isrc": "USAT21403443",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020acddc8ccf8d14858fbeddf5",
+        "album_name": "The Dock of the Bay (Mono)",
+        "release_date": "1968",
+        "artists": [
+            "Otis Redding"
+        ]
+    },
+    {
+        "idx": 121,
+        "artist_name": "Sting",
+        "track_title": "Englishman In New York",
+        "track_number": 3,
+        "isrc": "USAM18700040",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d0c7c131a979c9e5436f89ce",
+        "album_name": "...Nothing Like The Sun",
+        "release_date": "1987-01-01",
+        "artists": [
+            "Sting"
+        ]
+    },
+    {
+        "idx": 122,
+        "artist_name": "Dire Straits",
+        "track_title": "Six Blade Knife",
+        "track_number": 4,
+        "isrc": "GBF089601039",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029dfee5404d5e0763998c958e",
+        "album_name": "Dire Straits",
+        "release_date": "1978-10-07",
+        "artists": [
+            "Dire Straits"
+        ]
+    },
+    {
+        "idx": 123,
+        "artist_name": "Black Eyed Peas",
+        "track_title": "I Gotta Feeling",
+        "track_number": 5,
+        "isrc": "USUM70965169",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5",
+        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "release_date": "2009-01-01",
+        "artists": [
+            "Black Eyed Peas"
+        ]
+    },
+    {
+        "idx": 124,
+        "artist_name": "Sin\u00e9ad O'Connor",
+        "track_title": "Streets of London",
+        "track_number": 3,
+        "isrc": "GBAYK9400025",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025393245fa1f00d51a9425b3b",
+        "album_name": "Thank You for Hearing Me",
+        "release_date": "1994-01-01",
+        "artists": [
+            "Sin\u00e9ad O'Connor"
+        ]
+    },
+    {
+        "idx": 125,
+        "artist_name": "Jim Croce",
+        "track_title": "Time in a Bottle",
+        "track_number": 5,
+        "isrc": "USRHD0804163",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ddba5c9e9a2c3f8c0df774de",
+        "album_name": "Photographs & Memories: His Greatest Hits",
+        "release_date": "1974-09-26",
+        "artists": [
+            "Jim Croce"
+        ]
+    },
+    {
+        "idx": 126,
+        "artist_name": "Supertramp",
+        "track_title": "The Logical Song - Remastered 2010",
+        "track_number": 2,
+        "isrc": "USUM71021480",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025405ef9e393f5f1e53b4b42e",
+        "album_name": "Breakfast In America (Deluxe Edition)",
+        "release_date": "1979-03-29",
+        "artists": [
+            "Supertramp"
+        ]
+    },
+    {
+        "idx": 127,
+        "artist_name": "The Rolling Stones",
+        "track_title": "Angie - Remastered 2009",
+        "track_number": 5,
+        "isrc": "GBUM70909413",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fa3c4374e2cdd3cc1636c79b",
+        "album_name": "Goats Head Soup (Remastered 2009)",
+        "release_date": "1973-08-31",
+        "artists": [
+            "The Rolling Stones"
+        ]
+    },
+    {
+        "idx": 128,
+        "artist_name": "Besomage",
+        "track_title": "Hotel California",
+        "track_number": 1,
+        "isrc": "QZMEP2163924",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e023cec3ac8b22a2fafc34bf798",
+        "album_name": "Hotel California",
+        "release_date": "2021-10-01",
+        "artists": [
+            "Besomage",
+            "Meric Again",
+            "HALUNA"
+        ]
+    }
+]
