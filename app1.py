@@ -13,7 +13,7 @@ from mutagen.easyid3 import EasyID3
 from mutagen.id3 import APIC, ID3
 from pydub import AudioSegment
 import math
-
+import numpy as np
 
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="3c1b217c1a6a49cea3789ab3b503d211", client_secret="38b6b43d6b6b46d3800a7322a93f5cf4"))
 console = Console()
@@ -23,7 +23,7 @@ class Downloader:
         self.folder_name = "music"
         self.final_path = ""
         url = self.validate_url(input("Enter a spotify url: ").strip())
-        self.convert_to = "wav"
+        self.convert_to = "mp4"
         if "track" in url:
             print("-"*100)
             print("Starting operetion for Track link type")
@@ -46,6 +46,8 @@ class Downloader:
         self.create_folder_if_not_exists(self.folder_name)
         if self.convert_to == "wav":
             self.create_folder_if_not_exists(self.folder_name+' - WAV')
+        if self.convert_to == "mp4":
+            self.create_folder_if_not_exists(self.folder_name+' - MP4')
         for idx, track_info in enumerate(songs):
             search_term = f"{track_info['artist_name']} {track_info['track_title']} audio"
             video_link = self.find_youtube(search_term)
@@ -80,6 +82,23 @@ class Downloader:
                     print(f"Converting to WAV File in: {wav_file_path}")
                     self.convert_mp3_to_wav(self.final_path, wav_file_path)
                     self.set_metadata(track_info, self.final_path)
+            if self.convert_to == "mp4":
+                mp4_file_path = self.final_path.replace('.mp3', '.mp4')
+                mp4_file_path = mp4_file_path.replace(self.folder_name, self.folder_name+" - MP4")
+                # print(mp4_file_path)
+                song_title = os.path.basename(self.final_path).split(" - ")[2]  # Adjust the split logic based on your file naming convention
+                is_age_restricted = any(song['track_title'] in self.final_path for song in self.ageRestricted)
+                exists = os.path.exists(mp4_file_path)
+                if exists:
+                    print("This MP4 file already exists.")
+                elif is_age_restricted:
+                    print(f"{song_title} Is an Age Restricted song. Skipping")
+                elif not os.path.exists(self.final_path):
+                    print(f"{self.final_path} is not exist as an MP3 file. Skipping")
+                else:
+                    print(f"Converting to MP4 File in: {mp4_file_path}")
+                    self.convert_mp3_to_mp4(self.final_path, mp4_file_path)
+                    # self.set_metadata(track_info, self.final_path)
             pyautogui.press('shift')
         shutil.rmtree("./tmp")
         try:
@@ -127,6 +146,22 @@ class Downloader:
         
         # Export the audio file in WAV format
         audio.export(wav_file_path, format="wav")
+
+    def convert_mp3_to_mp4(self, mp3_file_path, mp4_file_path):
+        """
+        Converts an MP3 file to WAV format.
+        
+        Args:
+        - mp3_file_path: The path to the input MP3 file.
+        - wav_file_path: The path where the output WAV file will be saved.
+        """
+        audio_clip = AudioFileClip(mp3_file_path)
+        duration = audio_clip.duration
+        video_clip = ColorClip(size=(100, 100), color=(0, 0, 0), duration=duration)
+        video_clip = video_clip.set_audio(audio_clip)
+        video_clip.write_videofile(mp4_file_path, codec='libx264', fps=15, preset='ultrafast')
+        audio_clip.close()
+        video_clip.close()
     
 
     def find_youtube(self, query):

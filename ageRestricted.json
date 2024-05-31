@@ -1,19 +1,21 @@
 [
     {
-        "idx": 121,
-        "artist_name": "CeeLo Green",
-        "track_title": "Fuck You",
-        "track_number": 3,
-        "isrc": "USAT21001768",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026f50b3400595b123a916e0dc",
-        "album_name": "The Lady Killer",
-        "release_date": "2010-11-09",
+        "idx": 206,
+        "artist_name": "Lil Tjay",
+        "track_title": "Run It Up (feat. Offset & Moneybagg Yo)",
+        "track_number": 14,
+        "isrc": "USSM12101540",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025af0305457ff290e06dcc4c2",
+        "album_name": "Destined 2 Win",
+        "release_date": "2021-04-02",
         "artists": [
-            "CeeLo Green"
+            "Lil Tjay",
+            "Offset",
+            "Moneybagg Yo"
         ]
     },
     {
-        "idx": 372,
+        "idx": 360,
         "artist_name": "Drake",
         "track_title": "Too Good",
         "track_number": 16,
@@ -24,21 +26,6 @@
         "artists": [
             "Drake",
             "Rihanna"
-        ]
-    },
-    {
-        "idx": 481,
-        "artist_name": "Drake",
-        "track_title": "Pussy & Millions (feat. Travis Scott)",
-        "track_number": 10,
-        "isrc": "USUG12208607",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
-        "album_name": "Her Loss",
-        "release_date": "2022-11-04",
-        "artists": [
-            "Drake",
-            "21 Savage",
-            "Travis Scott"
         ]
     }
 ]
