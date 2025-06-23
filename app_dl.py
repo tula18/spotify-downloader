@@ -2,18 +2,23 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json, urllib.request, re
 import urllib.error
-from moviepy.editor import *
+from moviepy.video.VideoClip import TextClip, ImageClip  
+from moviepy.video.compositing import CompositeVideoClip
+from moviepy.video.io.VideoFileClip import VideoFileClip
 from pytube import YouTube 
 import os, requests, time
 from rich.console import Console
 from pytube.exceptions import AgeRestrictedError
-import pyautogui
+# import pyautogui
 import shutil
 from mutagen.easyid3 import EasyID3
 from mutagen.id3 import APIC, ID3
 import math
 import numpy as np
 import yt_dlp as youtube_dl
+from tqdm import tqdm
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="3c1b217c1a6a49cea3789ab3b503d211", client_secret="38b6b43d6b6b46d3800a7322a93f5cf4"))
 console = Console()
@@ -49,24 +54,20 @@ class Downloader:
             self.create_folder_if_not_exists(self.folder_name+' - WAV')
         if self.convert_to == "mp4":
             self.create_folder_if_not_exists(self.folder_name+' - MP4')
-        for idx, track_info in enumerate(songs):
-            search_term = f"{track_info['artist_name']} {track_info['track_title']} audio"
-            video_link = self.find_youtube(search_term)
-            console.print(
-                f"[magenta]({idx+1}/{len(songs)})[/magenta] Downloading '[cyan]{track_info['artist_name']} - {track_info['track_title']}[/cyan]'..."
-            )
-            audio = self.download_yt(video_link, idx, track_info)
-            if audio:
-                print(audio)
-                if self.convert_to == "mp3":
-                    self.set_metadata(track_info, audio)
-                console.print(
-                    "[blue]______________________________________________________________________"
-                )
-                downloaded += 1
-            else:
-                print("MP4 File exists. Skipping...")
-            pyautogui.press('shift')
+        total_songs = len(songs)
+        max_workers = 4  # You can adjust this number for more/less parallelism
+        downloaded = 0
+        with tqdm(total=total_songs, desc="Downloading songs", unit="song") as pbar:
+            with ThreadPoolExecutor(max_workers=max_workers) as executor:
+                futures = []
+                for idx, track_info in enumerate(songs):
+                    futures.append(executor.submit(
+                        self._download_song_with_progress, idx, track_info, total_songs
+                    ))
+                for future in as_completed(futures):
+                    if future.result():
+                        downloaded += 1
+                    pbar.update(1)
         shutil.rmtree("./tmp")
         try:
             with open('ageRestricted.json', 'r') as json_data:
@@ -148,31 +149,34 @@ class Downloader:
             return f"Folder already exists. {folder_path}"
 
     
-    def download_yt(self, yt_link, idx, track_info):
+    def download_yt(self, yt_link, idx, track_info, cookies_file="cookies.txt"):
         try:
             yt_opts = {
                 'format': 'bestvideo[height<=360][ext=mp4]+bestaudio[ext=m4a]/mp4',
                 'outtmpl': f'./{self.folder_name} - MP4/{idx + 1} - {track_info["artist_name"]} - {track_info["track_title"]}.%(ext)s',
                 'noplaylist': True,
-                'merge_output_format': 'mp4',  # Ensures merging results into MP4 format
-                'quiet': True,  # Set to True to suppress output if needed
+                'merge_output_format': 'mp4',
+                'quiet': True,
             }
+            if os.path.exists(cookies_file):
+                yt_opts['cookiefile'] = cookies_file
+            else:
+                print(f"[Warning] {cookies_file} not found. Some videos may not download due to restrictions.")
             with youtube_dl.YoutubeDL(yt_opts) as ydl:
-                ydl.download([yt_link])
-                final_path = yt_opts['outtmpl'] % {'ext': 'mp4'}
-                return final_path
+                info = ydl.extract_info(yt_link, download=True)
+                # Get the actual file path from info dict
+                if 'requested_downloads' in info and info['requested_downloads']:
+                    return info['requested_downloads'][0]['filepath']
+                elif 'filepath' in info:
+                    return info['filepath']
+                else:
+                    return None
         except Exception as e:
             print(f"An error occurred while downloading: {e}")
             return None
 
     def on_progress(self, stream, chunk, bytes_remaining):
-        total_size = stream.filesize
-        bytes_downloaded = total_size - bytes_remaining
-        percentage_of_completion = math.floor(bytes_downloaded / total_size * 100)
-        side_size = 100 - percentage_of_completion
-        mes_len = len(str(percentage_of_completion) + '%')
-        per_side_size = math.floor((5 - mes_len) / 2)
-        print(f"{percentage_of_completion}%{' ' * per_side_size} - |{'-' * percentage_of_completion}{' ' * side_size}|", end="\r")
+        pass  # Disable per-file progress output
 
     def get_playlist_info(self, sp_url):
         print("-"*100)
@@ -323,6 +327,20 @@ class Downloader:
                 encoding=3, mime="image/jpeg", type=3, desc="Cover", data=albumart.read()
             )
         audio.save(v2_version=3)
+
+    def _download_song_with_progress(self, idx, track_info, total_songs):
+        search_term = f"{track_info['artist_name']} {track_info['track_title']} audio"
+        video_link = self.find_youtube(search_term)
+        tqdm.write(f"Now downloading ({idx+1}/{total_songs}): {track_info['artist_name']} - {track_info['track_title']}")
+        audio = self.download_yt(video_link, idx, track_info)
+        if audio:
+            if self.convert_to == "mp3":
+                self.set_metadata(track_info, audio)
+            # console.print("[blue]______________________________________________________________________")
+            return True
+        else:
+            print("MP4 File exists. Skipping...")
+            return False
 
 if __name__ == "__main__":
     try:

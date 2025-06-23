@@ -766,7 +766,7 @@
     },
     {
         "idx": 57,
-        "artist_name": "Macklemore & Ryan Lewis",
+        "artist_name": "Macklemore",
         "track_title": "Can't Hold Us (feat. Ray Dalton)",
         "track_number": 2,
         "isrc": "GMM881200021",
@@ -774,9 +774,9 @@
         "album_name": "The Heist",
         "release_date": "2012-10-09",
         "artists": [
-            "Macklemore & Ryan Lewis",
             "Macklemore",
             "Ryan Lewis",
+            "Macklemore & Ryan Lewis",
             "Ray Dalton"
         ]
     },
@@ -1081,7 +1081,7 @@
         "isrc": "GBAYE0800265",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
         "album_name": "Viva La Vida or Death and All His Friends",
-        "release_date": "2008-05-26",
+        "release_date": "2008-06-06",
         "artists": [
             "Coldplay"
         ]
@@ -1147,7 +1147,7 @@
         "isrc": "GMM881200003",
         "album_art": "https://i.scdn.co/image/ab67616d00001e021cdc7eab166fcbfcaf8be8f6",
         "album_name": "Thrift Shop (feat. Wanz)",
-        "release_date": "2012-08-01",
+        "release_date": "2013-01-14",
         "artists": [
             "Macklemore & Ryan Lewis",
             "Macklemore",
@@ -1283,7 +1283,7 @@
         "track_number": 4,
         "isrc": "AULI01385760",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02a9929deb093a6617d2493b03",
-        "album_name": "Dream Your Life Away - Special Edition",
+        "album_name": "Dream Your Life Away (Special Edition)",
         "release_date": "2014-09-08",
         "artists": [
             "Vance Joy"
@@ -1583,7 +1583,7 @@
         "isrc": "GBAYE1400217",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02e5a95573f1b91234630fd2cf",
         "album_name": "Ghost Stories",
-        "release_date": "2014-05-19",
+        "release_date": "2014-05-16",
         "artists": [
             "Coldplay"
         ]
@@ -1718,7 +1718,7 @@
         "track_title": "XO Tour Llif3",
         "track_number": 16,
         "isrc": "USAT21703440",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0241b41e6f7924e530a9b00f9c",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352",
         "album_name": "Luv Is Rage 2",
         "release_date": "2017-08-25",
         "artists": [
@@ -1760,7 +1760,7 @@
         "isrc": "USWB10002407",
         "album_art": "https://i.scdn.co/image/ab67616d00001e026741ca6e9ba6fdc166037321",
         "album_name": "Hybrid Theory",
-        "release_date": "2000",
+        "release_date": "2000-10-24",
         "artists": [
             "Linkin Park"
         ]
@@ -1870,7 +1870,9 @@
         "album_name": "More Than You Know",
         "release_date": "2017-07-28",
         "artists": [
-            "Axwell /\\ Ingrosso"
+            "Axwell /\\ Ingrosso",
+            "Axwell",
+            "Sebastian Ingrosso"
         ]
     },
     {
@@ -1963,7 +1965,7 @@
         "isrc": "USRC11402647",
         "album_art": "https://i.scdn.co/image/ab67616d00001e021e340d1480e7bb29a45e3bd7",
         "album_name": "Globalization",
-        "release_date": "2014-11-21",
+        "release_date": "2014-11-24",
         "artists": [
             "Pitbull",
             "Ne-Yo"
@@ -2244,7 +2246,7 @@
         "track_title": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
         "track_number": 17,
         "isrc": "USRC11500811",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0281a6a2cafab2e7a4066b5eec",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0216b101f81a8284ec71048d91",
         "album_name": "AT.LONG.LAST.A$AP",
         "release_date": "2015-05-26",
         "artists": [
@@ -2709,7 +2711,7 @@
         "track_number": 4,
         "isrc": "USUM70967900",
         "album_art": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5",
-        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
+        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "release_date": "2009-01-01",
         "artists": [
             "Black Eyed Peas"
@@ -2749,7 +2751,7 @@
         "isrc": "USSM11300080",
         "album_art": "https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921",
         "album_name": "I Love You.",
-        "release_date": "2013-04-19",
+        "release_date": "2013-04-22",
         "artists": [
             "The Neighbourhood"
         ]
@@ -3088,7 +3090,7 @@
         "track_number": 3,
         "isrc": "USUM70967700",
         "album_art": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5",
-        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
+        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "release_date": "2009-01-01",
         "artists": [
             "Black Eyed Peas"
@@ -3138,7 +3140,7 @@
     {
         "idx": 232,
         "artist_name": "Kendrick Lamar",
-        "track_title": "All The Stars (with SZA)",
+        "track_title": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
         "track_number": 2,
         "isrc": "USUM71713947",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02c027ad28821777b00dcaa888",
@@ -4456,7 +4458,7 @@
         "track_title": "Neon Guts (feat. Pharrell Williams)",
         "track_number": 8,
         "isrc": "USAT21703432",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0241b41e6f7924e530a9b00f9c",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f23aee9d3be9fcbca1bc6352",
         "album_name": "Luv Is Rage 2",
         "release_date": "2017-08-25",
         "artists": [
@@ -4532,7 +4534,7 @@
     },
     {
         "idx": 336,
-        "artist_name": "Raviv Kaner",
+        "artist_name": "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8",
         "track_title": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
         "track_number": 1,
         "isrc": "FRX202060165",
@@ -4540,7 +4542,7 @@
         "album_name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
         "release_date": "2020-01-01",
         "artists": [
-            "Raviv Kaner"
+            "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8"
         ]
     },
     {
@@ -4605,7 +4607,7 @@
         "track_number": 1,
         "isrc": "USUM72119916",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02aa597e50829169e6994eb403",
-        "album_name": "Enemy (with JID) - from the series Arcane League of Legends",
+        "album_name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "release_date": "2021-10-28",
         "artists": [
             "Imagine Dragons",
@@ -4637,7 +4639,7 @@
         "track_number": 1,
         "isrc": "USUM70955624",
         "album_art": "https://i.scdn.co/image/ab67616d00001e020bd44f5ff9ecc99f7770acc5",
-        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) - Deluxe Version",
+        "album_name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
         "release_date": "2009-01-01",
         "artists": [
             "Black Eyed Peas"
@@ -5039,7 +5041,7 @@
         "track_title": "Mr. Blue Sky",
         "track_number": 13,
         "isrc": "USSM17200399",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e028c4e95986c803791125e8991",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ae954a17f0cfa013c364bb06",
         "album_name": "Out of the Blue",
         "release_date": "1977",
         "artists": [
@@ -5905,8 +5907,8 @@
         "track_title": "Juicy - 2005 Remaster",
         "track_number": 10,
         "isrc": "USBB40580814",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0233b3334a369aa539e6ccfc73",
-        "album_name": "Ready to Die - The Remaster",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830",
+        "album_name": "Ready to Die (The Remaster)",
         "release_date": "1994-09-13",
         "artists": [
             "The Notorious B.I.G."
@@ -6004,19 +6006,6 @@
     },
     {
         "idx": 444,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05e0\u05d5\u05e2\u05e6\u05ea \u05de\u05d1\u05d8",
-        "track_number": 7,
-        "isrc": "IL5301400103",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02319e8e036cb1186297ae747a",
-        "album_name": "\u05de\u05d5\u05d3\u05d4 \u05d0\u05e0\u05d9",
-        "release_date": "2015-08-01",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 445,
         "artist_name": "Flipp Dinero",
         "track_title": "Leave Me Alone",
         "track_number": 12,
@@ -6029,7 +6018,7 @@
         ]
     },
     {
-        "idx": 446,
+        "idx": 445,
         "artist_name": "YoungBoy Never Broke Again",
         "track_title": "Put It On Me",
         "track_number": 1,
@@ -6042,7 +6031,7 @@
         ]
     },
     {
-        "idx": 447,
+        "idx": 446,
         "artist_name": "Idan Rafael Haviv",
         "track_title": "\u05de\u05d7\u05db\u05d4",
         "track_number": 8,
@@ -6055,7 +6044,7 @@
         ]
     },
     {
-        "idx": 448,
+        "idx": 447,
         "artist_name": "Kendrick Lamar",
         "track_title": "Bitch, Don\u2019t Kill My Vibe",
         "track_number": 2,
@@ -6068,7 +6057,7 @@
         ]
     },
     {
-        "idx": 449,
+        "idx": 448,
         "artist_name": "Kendrick Lamar",
         "track_title": "Swimming Pools (Drank) - Extended Version",
         "track_number": 9,
@@ -6081,7 +6070,7 @@
         ]
     },
     {
-        "idx": 450,
+        "idx": 449,
         "artist_name": "21 Savage",
         "track_title": "Mr. Right Now (feat. Drake)",
         "track_number": 4,
@@ -6096,7 +6085,7 @@
         ]
     },
     {
-        "idx": 451,
+        "idx": 450,
         "artist_name": "Drake",
         "track_title": "Fair Trade (with Travis Scott)",
         "track_number": 6,
@@ -6110,7 +6099,7 @@
         ]
     },
     {
-        "idx": 452,
+        "idx": 451,
         "artist_name": "Migos",
         "track_title": "Having Our Way (feat. Drake)",
         "track_number": 2,
@@ -6124,7 +6113,7 @@
         ]
     },
     {
-        "idx": 453,
+        "idx": 452,
         "artist_name": "Lil Tjay",
         "track_title": "Top of My Game",
         "track_number": 14,
@@ -6137,7 +6126,7 @@
         ]
     },
     {
-        "idx": 454,
+        "idx": 453,
         "artist_name": "Travis Scott",
         "track_title": "STARGAZING",
         "track_number": 1,
@@ -6150,7 +6139,7 @@
         ]
     },
     {
-        "idx": 455,
+        "idx": 454,
         "artist_name": "Young Thug",
         "track_title": "Hot (Remix) [feat. Gunna and Travis Scott]",
         "track_number": 5,
@@ -6165,7 +6154,7 @@
         ]
     },
     {
-        "idx": 456,
+        "idx": 455,
         "artist_name": "Kanye West",
         "track_title": "Welcome To Heartbreak",
         "track_number": 2,
@@ -6179,7 +6168,7 @@
         ]
     },
     {
-        "idx": 457,
+        "idx": 456,
         "artist_name": "Kanye West",
         "track_title": "Paranoid",
         "track_number": 6,
@@ -6193,7 +6182,7 @@
         ]
     },
     {
-        "idx": 458,
+        "idx": 457,
         "artist_name": "Karolina",
         "track_title": "\u05d0\u05e3 \u05d0\u05d7\u05d3 \u05dc\u05d0 \u05d1\u05d0 \u05dc\u05d9",
         "track_number": 3,
@@ -6206,7 +6195,7 @@
         ]
     },
     {
-        "idx": 459,
+        "idx": 458,
         "artist_name": "Kanye West",
         "track_title": "Never Let Me Down",
         "track_number": 8,
@@ -6221,7 +6210,7 @@
         ]
     },
     {
-        "idx": 460,
+        "idx": 459,
         "artist_name": "Drake",
         "track_title": "Portland",
         "track_number": 11,
@@ -6236,7 +6225,7 @@
         ]
     },
     {
-        "idx": 461,
+        "idx": 460,
         "artist_name": "Kanye West",
         "track_title": "Blood On The Leaves",
         "track_number": 7,
@@ -6249,7 +6238,7 @@
         ]
     },
     {
-        "idx": 462,
+        "idx": 461,
         "artist_name": "Travis Scott",
         "track_title": "Pray 4 Love (feat. The Weeknd)",
         "track_number": 6,
@@ -6263,7 +6252,7 @@
         ]
     },
     {
-        "idx": 463,
+        "idx": 462,
         "artist_name": "Kanye West",
         "track_title": "Lost In The World",
         "track_number": 12,
@@ -6277,7 +6266,7 @@
         ]
     },
     {
-        "idx": 464,
+        "idx": 463,
         "artist_name": "Travis Scott",
         "track_title": "3500 (feat. Future & 2 Chainz)",
         "track_number": 3,
@@ -6292,7 +6281,7 @@
         ]
     },
     {
-        "idx": 465,
+        "idx": 464,
         "artist_name": "Drake",
         "track_title": "Pussy & Millions (feat. Travis Scott)",
         "track_number": 10,
@@ -6307,7 +6296,7 @@
         ]
     },
     {
-        "idx": 466,
+        "idx": 465,
         "artist_name": "Kanye West",
         "track_title": "Hurricane",
         "track_number": 5,
@@ -6320,7 +6309,7 @@
         ]
     },
     {
-        "idx": 467,
+        "idx": 466,
         "artist_name": "Kanye West",
         "track_title": "Follow God",
         "track_number": 3,
@@ -6333,7 +6322,7 @@
         ]
     },
     {
-        "idx": 468,
+        "idx": 467,
         "artist_name": "JAY-Z",
         "track_title": "Gotta Have It",
         "track_number": 5,
@@ -6347,7 +6336,7 @@
         ]
     },
     {
-        "idx": 469,
+        "idx": 468,
         "artist_name": "Lil Tjay",
         "track_title": "Resume",
         "track_number": 1,
@@ -6360,7 +6349,7 @@
         ]
     },
     {
-        "idx": 470,
+        "idx": 469,
         "artist_name": "Drake",
         "track_title": "Girls Want Girls (with Lil Baby)",
         "track_number": 3,
@@ -6374,7 +6363,7 @@
         ]
     },
     {
-        "idx": 471,
+        "idx": 470,
         "artist_name": "Playboi Carti",
         "track_title": "Sky",
         "track_number": 19,
@@ -6387,7 +6376,7 @@
         ]
     },
     {
-        "idx": 472,
+        "idx": 471,
         "artist_name": "Masego",
         "track_title": "Mystery Lady",
         "track_number": 3,
@@ -6401,7 +6390,7 @@
         ]
     },
     {
-        "idx": 473,
+        "idx": 472,
         "artist_name": "A Boogie Wit da Hoodie",
         "track_title": "Man in the Mirror",
         "track_number": 1,
@@ -6414,7 +6403,7 @@
         ]
     },
     {
-        "idx": 474,
+        "idx": 473,
         "artist_name": "Drake",
         "track_title": "IMY2 (with Kid Cudi)",
         "track_number": 19,
@@ -6428,7 +6417,7 @@
         ]
     },
     {
-        "idx": 475,
+        "idx": 474,
         "artist_name": "Drake",
         "track_title": "On BS",
         "track_number": 3,
@@ -6442,7 +6431,7 @@
         ]
     },
     {
-        "idx": 476,
+        "idx": 475,
         "artist_name": "Kanye West",
         "track_title": "Pure Souls",
         "track_number": 21,
@@ -6455,7 +6444,7 @@
         ]
     },
     {
-        "idx": 477,
+        "idx": 476,
         "artist_name": "Pusha T",
         "track_title": "Dreamin Of The Past (feat. Kanye West)",
         "track_number": 3,
@@ -6469,7 +6458,7 @@
         ]
     },
     {
-        "idx": 478,
+        "idx": 477,
         "artist_name": "Elai Botner",
         "track_title": "\u05e2\u05d5\u05d3 \u05d0\u05d7\u05d3 \u05e9\u05e9\u05e8 \u05dc\u05da",
         "track_number": 1,
@@ -6483,7 +6472,7 @@
         ]
     },
     {
-        "idx": 479,
+        "idx": 478,
         "artist_name": "Drake",
         "track_title": "Rich Flex",
         "track_number": 1,
@@ -6497,7 +6486,7 @@
         ]
     },
     {
-        "idx": 480,
+        "idx": 479,
         "artist_name": "Baby Keem",
         "track_title": "ROCKSTAR P",
         "track_number": 8,
@@ -6510,20 +6499,20 @@
         ]
     },
     {
-        "idx": 481,
+        "idx": 480,
         "artist_name": "Coldplay",
         "track_title": "Lost!",
         "track_number": 3,
         "isrc": "GBAYE0800255",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02e21cc1db05580b6f2d2a3b6e",
         "album_name": "Viva La Vida or Death and All His Friends",
-        "release_date": "2008-05-26",
+        "release_date": "2008-06-06",
         "artists": [
             "Coldplay"
         ]
     },
     {
-        "idx": 482,
+        "idx": 481,
         "artist_name": "Twenty One Pilots",
         "track_title": "Hometown",
         "track_number": 12,
@@ -6536,7 +6525,7 @@
         ]
     },
     {
-        "idx": 483,
+        "idx": 482,
         "artist_name": "Drake",
         "track_title": "Major Distribution",
         "track_number": 2,
@@ -6550,7 +6539,7 @@
         ]
     },
     {
-        "idx": 484,
+        "idx": 483,
         "artist_name": "Kanye West",
         "track_title": "Drive Slow",
         "track_number": 6,
@@ -6565,7 +6554,7 @@
         ]
     },
     {
-        "idx": 485,
+        "idx": 484,
         "artist_name": "Drake",
         "track_title": "Broke Boys",
         "track_number": 11,
@@ -6579,7 +6568,7 @@
         ]
     },
     {
-        "idx": 486,
+        "idx": 485,
         "artist_name": "Edward Maya",
         "track_title": "Stereo Love",
         "track_number": 1,
@@ -6593,7 +6582,7 @@
         ]
     },
     {
-        "idx": 487,
+        "idx": 486,
         "artist_name": "Kanye West",
         "track_title": "Heard 'Em Say",
         "track_number": 2,
@@ -6607,7 +6596,7 @@
         ]
     },
     {
-        "idx": 488,
+        "idx": 487,
         "artist_name": "Lil Peep",
         "track_title": "Falling Down - Bonus Track",
         "track_number": 12,
@@ -6621,20 +6610,20 @@
         ]
     },
     {
-        "idx": 489,
+        "idx": 488,
         "artist_name": "Juice WRLD",
         "track_title": "Empty",
         "track_number": 1,
         "isrc": "USUG11900318",
         "album_art": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
-        "album_name": "Death Race For Love - Bonus Track Version",
+        "album_name": "Death Race For Love (Bonus Track Version)",
         "release_date": "2019-03-08",
         "artists": [
             "Juice WRLD"
         ]
     },
     {
-        "idx": 490,
+        "idx": 489,
         "artist_name": "Juice WRLD",
         "track_title": "Conversations",
         "track_number": 2,
@@ -6647,7 +6636,7 @@
         ]
     },
     {
-        "idx": 491,
+        "idx": 490,
         "artist_name": "Kanye West",
         "track_title": "Bring Me Down",
         "track_number": 10,
@@ -6661,7 +6650,7 @@
         ]
     },
     {
-        "idx": 492,
+        "idx": 491,
         "artist_name": "Kanye West",
         "track_title": "We Major",
         "track_number": 14,
@@ -6676,7 +6665,7 @@
         ]
     },
     {
-        "idx": 493,
+        "idx": 492,
         "artist_name": "Kanye West",
         "track_title": "Diamonds From Sierra Leone - Remix",
         "track_number": 13,
@@ -6690,7 +6679,7 @@
         ]
     },
     {
-        "idx": 494,
+        "idx": 493,
         "artist_name": "Kanye West",
         "track_title": "Gone",
         "track_number": 19,
@@ -6705,7 +6694,7 @@
         ]
     },
     {
-        "idx": 495,
+        "idx": 494,
         "artist_name": "JAY-Z",
         "track_title": "Otis",
         "track_number": 4,
@@ -6720,7 +6709,7 @@
         ]
     },
     {
-        "idx": 496,
+        "idx": 495,
         "artist_name": "Drake",
         "track_title": "Circo Loco",
         "track_number": 9,
@@ -6734,7 +6723,7 @@
         ]
     },
     {
-        "idx": 497,
+        "idx": 496,
         "artist_name": "J. Cole",
         "track_title": "Can't Get Enough",
         "track_number": 3,
@@ -6748,7 +6737,7 @@
         ]
     },
     {
-        "idx": 498,
+        "idx": 497,
         "artist_name": "Bar Tzabary",
         "track_title": "\u05d2'\u05d5\u05e0\u05d9",
         "track_number": 1,
@@ -6761,7 +6750,7 @@
         ]
     },
     {
-        "idx": 499,
+        "idx": 498,
         "artist_name": "Nas",
         "track_title": "N.Y. State of Mind",
         "track_number": 2,
@@ -6774,7 +6763,7 @@
         ]
     },
     {
-        "idx": 500,
+        "idx": 499,
         "artist_name": "Drake",
         "track_title": "Gyalchester",
         "track_number": 9,
@@ -6787,7 +6776,7 @@
         ]
     },
     {
-        "idx": 501,
+        "idx": 500,
         "artist_name": "Nas",
         "track_title": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
         "track_number": 14,
@@ -6801,7 +6790,7 @@
         ]
     },
     {
-        "idx": 502,
+        "idx": 501,
         "artist_name": "Kanye West",
         "track_title": "30 Hours",
         "track_number": 16,
@@ -6814,7 +6803,7 @@
         ]
     },
     {
-        "idx": 503,
+        "idx": 502,
         "artist_name": "Tory Lanez",
         "track_title": "Broke In A Minute",
         "track_number": 7,
@@ -6827,7 +6816,7 @@
         ]
     },
     {
-        "idx": 504,
+        "idx": 503,
         "artist_name": "XXXTENTACION",
         "track_title": "Jocelyn Flores",
         "track_number": 2,
@@ -6840,7 +6829,7 @@
         ]
     },
     {
-        "idx": 505,
+        "idx": 504,
         "artist_name": "Juice WRLD",
         "track_title": "Smile (with The Weeknd)",
         "track_number": 1,
@@ -6854,7 +6843,7 @@
         ]
     },
     {
-        "idx": 506,
+        "idx": 505,
         "artist_name": "Drake",
         "track_title": "BackOutsideBoyz",
         "track_number": 4,
@@ -6867,12 +6856,12 @@
         ]
     },
     {
-        "idx": 507,
+        "idx": 506,
         "artist_name": "Lil Uzi Vert",
         "track_title": "Bigger Than Life",
         "track_number": 9,
         "isrc": "USAT22001362",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02d5f1bbe527fa685633339add",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02158b08c02c249bc651b3b47a",
         "album_name": "Eternal Atake",
         "release_date": "2020-03-06",
         "artists": [
@@ -6881,33 +6870,7 @@
         ]
     },
     {
-        "idx": 508,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05e0\u05e9\u05d9\u05e7\u05d5\u05ea",
-        "track_number": 3,
-        "isrc": "IL5301100018",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0238104b69954bc5915f0c0b76",
-        "album_name": "\u05d9\u05dc\u05d3 \u05d8\u05d5\u05d1 \u05d9\u05dc\u05d3 \u05e8\u05e2",
-        "release_date": "2012-01-30",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 509,
-        "artist_name": "Avraham Tal",
-        "track_title": "\u05d0\u05d5\u05e8\u05d5\u05ea",
-        "track_number": 1,
-        "isrc": "IL1000900314",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0278a3984029b13e1c3ec59929",
-        "album_name": "\u05d0\u05d5\u05e8\u05d5\u05ea",
-        "release_date": "2010-06-29",
-        "artists": [
-            "Avraham Tal"
-        ]
-    },
-    {
-        "idx": 510,
+        "idx": 507,
         "artist_name": "NLE Choppa",
         "track_title": "DO IT AGAIN (feat. 2Rare)",
         "track_number": 1,
@@ -6921,7 +6884,7 @@
         ]
     },
     {
-        "idx": 511,
+        "idx": 508,
         "artist_name": "Yoni Bloch",
         "track_title": "\u05d0\u05d7\u05e8\u05d9\u05d5\u05ea",
         "track_number": 3,
@@ -6934,7 +6897,7 @@
         ]
     },
     {
-        "idx": 512,
+        "idx": 509,
         "artist_name": "Kid Cudi",
         "track_title": "Show Out (with Skepta & Pop Smoke)",
         "track_number": 8,
@@ -6949,7 +6912,7 @@
         ]
     },
     {
-        "idx": 513,
+        "idx": 510,
         "artist_name": "Marvin Gaye",
         "track_title": "Ain't No Mountain High Enough",
         "track_number": 1,
@@ -6963,7 +6926,7 @@
         ]
     },
     {
-        "idx": 514,
+        "idx": 511,
         "artist_name": "Young Thug",
         "track_title": "Bubbly (with Drake & Travis Scott)",
         "track_number": 12,
@@ -6978,7 +6941,7 @@
         ]
     },
     {
-        "idx": 515,
+        "idx": 512,
         "artist_name": "Xavier Wulf",
         "track_title": "Psycho Pass",
         "track_number": 9,
@@ -6991,7 +6954,7 @@
         ]
     },
     {
-        "idx": 516,
+        "idx": 513,
         "artist_name": "Drake",
         "track_title": "Behind Barz - Bonus",
         "track_number": 1,
@@ -7004,7 +6967,7 @@
         ]
     },
     {
-        "idx": 517,
+        "idx": 514,
         "artist_name": "Dave",
         "track_title": "Starlight",
         "track_number": 1,
@@ -7017,7 +6980,7 @@
         ]
     },
     {
-        "idx": 518,
+        "idx": 515,
         "artist_name": "John Denver",
         "track_title": "Take Me Home, Country Roads",
         "track_number": 1,
@@ -7030,7 +6993,7 @@
         ]
     },
     {
-        "idx": 519,
+        "idx": 516,
         "artist_name": "Earth, Wind & Fire",
         "track_title": "September",
         "track_number": 7,
@@ -7043,12 +7006,12 @@
         ]
     },
     {
-        "idx": 520,
+        "idx": 517,
         "artist_name": "Dave",
         "track_title": "Thiago Silva",
         "track_number": 1,
         "isrc": "GBLFP1598248",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02263fee830189352a873d32fe",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d62b2ae12715851c28bebaa4",
         "album_name": "Thiago Silva",
         "release_date": "2016-05-13",
         "artists": [
@@ -7057,7 +7020,7 @@
         ]
     },
     {
-        "idx": 521,
+        "idx": 518,
         "artist_name": "Drake",
         "track_title": "Time Flies",
         "track_number": 7,
@@ -7070,7 +7033,7 @@
         ]
     },
     {
-        "idx": 522,
+        "idx": 519,
         "artist_name": "Dave",
         "track_title": "Verdansk",
         "track_number": 2,
@@ -7083,7 +7046,7 @@
         ]
     },
     {
-        "idx": 523,
+        "idx": 520,
         "artist_name": "Dave",
         "track_title": "Funky Friday",
         "track_number": 1,
@@ -7097,7 +7060,7 @@
         ]
     },
     {
-        "idx": 524,
+        "idx": 521,
         "artist_name": "Travis Scott",
         "track_title": "Pornography",
         "track_number": 1,
@@ -7110,7 +7073,7 @@
         ]
     },
     {
-        "idx": 525,
+        "idx": 522,
         "artist_name": "Travis Scott",
         "track_title": "WAKE UP",
         "track_number": 8,
@@ -7123,7 +7086,7 @@
         ]
     },
     {
-        "idx": 526,
+        "idx": 523,
         "artist_name": "Rihanna",
         "track_title": "Umbrella",
         "track_number": 1,
@@ -7137,7 +7100,7 @@
         ]
     },
     {
-        "idx": 527,
+        "idx": 524,
         "artist_name": "Metro Boomin",
         "track_title": "Raindrops (Insane) [with Travis Scott]",
         "track_number": 4,
@@ -7151,7 +7114,7 @@
         ]
     },
     {
-        "idx": 528,
+        "idx": 525,
         "artist_name": "Metro Boomin",
         "track_title": "Trance (with Travis Scott & Young Thug)",
         "track_number": 6,
@@ -7166,7 +7129,7 @@
         ]
     },
     {
-        "idx": 529,
+        "idx": 526,
         "artist_name": "Dave",
         "track_title": "Wanna Know Remix (feat. Drake)",
         "track_number": 1,
@@ -7180,7 +7143,7 @@
         ]
     },
     {
-        "idx": 530,
+        "idx": 527,
         "artist_name": "The Weeknd",
         "track_title": "Pray For Me",
         "track_number": 7,
@@ -7194,7 +7157,7 @@
         ]
     },
     {
-        "idx": 531,
+        "idx": 528,
         "artist_name": "Travis Scott",
         "track_title": "Oh My Dis Side (feat. Quavo)",
         "track_number": 2,
@@ -7208,7 +7171,7 @@
         ]
     },
     {
-        "idx": 532,
+        "idx": 529,
         "artist_name": "Drake",
         "track_title": "Sneakin\u2019",
         "track_number": 1,
@@ -7222,7 +7185,7 @@
         ]
     },
     {
-        "idx": 533,
+        "idx": 530,
         "artist_name": "Lil Tecca",
         "track_title": "REPEAT IT (with Gunna)",
         "track_number": 1,
@@ -7236,7 +7199,7 @@
         ]
     },
     {
-        "idx": 534,
+        "idx": 531,
         "artist_name": "Drake",
         "track_title": "0 To 100 / The Catch Up",
         "track_number": 1,
@@ -7249,7 +7212,7 @@
         ]
     },
     {
-        "idx": 535,
+        "idx": 532,
         "artist_name": "KIDS SEE GHOSTS",
         "track_title": "Reborn",
         "track_number": 5,
@@ -7262,7 +7225,7 @@
         ]
     },
     {
-        "idx": 536,
+        "idx": 533,
         "artist_name": "Lil Baby",
         "track_title": "Yes Indeed",
         "track_number": 5,
@@ -7276,7 +7239,7 @@
         ]
     },
     {
-        "idx": 537,
+        "idx": 534,
         "artist_name": "NAV",
         "track_title": "Never Sleep (with Lil Baby feat. Travis Scott)",
         "track_number": 1,
@@ -7291,7 +7254,7 @@
         ]
     },
     {
-        "idx": 538,
+        "idx": 535,
         "artist_name": "Flipp Dinero",
         "track_title": "No No No (feat. A Boogie Wit Da Hoodie)",
         "track_number": 1,
@@ -7305,7 +7268,7 @@
         ]
     },
     {
-        "idx": 539,
+        "idx": 536,
         "artist_name": "Kygo",
         "track_title": "Stargazing",
         "track_number": 1,
@@ -7319,7 +7282,7 @@
         ]
     },
     {
-        "idx": 540,
+        "idx": 537,
         "artist_name": "Travis Scott",
         "track_title": "ASTROTHUNDER",
         "track_number": 11,
@@ -7332,7 +7295,7 @@
         ]
     },
     {
-        "idx": 541,
+        "idx": 538,
         "artist_name": "Metro Boomin",
         "track_title": "Umbrella (with 21 Savage & Young Nudy)",
         "track_number": 5,
@@ -7347,7 +7310,7 @@
         ]
     },
     {
-        "idx": 542,
+        "idx": 539,
         "artist_name": "Kodak Black",
         "track_title": "Love & War",
         "track_number": 19,
@@ -7360,7 +7323,7 @@
         ]
     },
     {
-        "idx": 543,
+        "idx": 540,
         "artist_name": "Kid Cudi",
         "track_title": "Alive (Nightmare)",
         "track_number": 10,
@@ -7374,7 +7337,7 @@
         ]
     },
     {
-        "idx": 544,
+        "idx": 541,
         "artist_name": "Lynyrd Skynyrd",
         "track_title": "Sweet Home Alabama",
         "track_number": 1,
@@ -7387,7 +7350,7 @@
         ]
     },
     {
-        "idx": 545,
+        "idx": 542,
         "artist_name": "DJ Khaled",
         "track_title": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "track_number": 1,
@@ -7402,7 +7365,7 @@
         ]
     },
     {
-        "idx": 546,
+        "idx": 543,
         "artist_name": "Lilly Wood and The Prick",
         "track_title": "Prayer in C - Robin Schulz Radio Edit",
         "track_number": 1,
@@ -7416,7 +7379,7 @@
         ]
     },
     {
-        "idx": 547,
+        "idx": 544,
         "artist_name": "NAV",
         "track_title": "Turks (with Gunna & ft. Travis Scott)",
         "track_number": 4,
@@ -7431,7 +7394,7 @@
         ]
     },
     {
-        "idx": 548,
+        "idx": 545,
         "artist_name": "Beit Habubot",
         "track_title": "\u05e1\u05d9\u05d2\u05e4\u05d5",
         "track_number": 1,
@@ -7444,7 +7407,7 @@
         ]
     },
     {
-        "idx": 549,
+        "idx": 546,
         "artist_name": "BlocBoy JB",
         "track_title": "Look Alive (feat. Drake)",
         "track_number": 1,
@@ -7458,7 +7421,7 @@
         ]
     },
     {
-        "idx": 550,
+        "idx": 547,
         "artist_name": "Drake",
         "track_title": "Privileged Rappers",
         "track_number": 5,
@@ -7472,7 +7435,7 @@
         ]
     },
     {
-        "idx": 551,
+        "idx": 548,
         "artist_name": "Apocalipsa",
         "track_title": "\u05de\u05d5\u05d3\u05e2\u05d5\u05ea \u05e2\u05e6\u05de\u05d9\u05ea",
         "track_number": 17,
@@ -7485,7 +7448,7 @@
         ]
     },
     {
-        "idx": 552,
+        "idx": 549,
         "artist_name": "Apocalipsa",
         "track_title": "\u05d4\u05db\u05dc \u05d5\u05e8\u05d5\u05d3",
         "track_number": 1,
@@ -7498,7 +7461,7 @@
         ]
     },
     {
-        "idx": 553,
+        "idx": 550,
         "artist_name": "CIOZ",
         "track_title": "Dancing in the Night - Lucky Shot Mix",
         "track_number": 1,
@@ -7512,7 +7475,7 @@
         ]
     },
     {
-        "idx": 554,
+        "idx": 551,
         "artist_name": "Sandhog",
         "track_title": "Risotto",
         "track_number": 3,
@@ -7526,7 +7489,7 @@
         ]
     },
     {
-        "idx": 555,
+        "idx": 552,
         "artist_name": "Jimi Jules",
         "track_title": "My City's On Fire",
         "track_number": 4,
@@ -7539,7 +7502,7 @@
         ]
     },
     {
-        "idx": 556,
+        "idx": 553,
         "artist_name": "Mooki",
         "track_title": "\u05d9\u05dc\u05d3\u05d4 \u05e1\u05d5\u05db\u05e8",
         "track_number": 10,
@@ -7552,7 +7515,7 @@
         ]
     },
     {
-        "idx": 557,
+        "idx": 554,
         "artist_name": "The Weeknd",
         "track_title": "In Your Eyes",
         "track_number": 10,
@@ -7565,7 +7528,7 @@
         ]
     },
     {
-        "idx": 558,
+        "idx": 555,
         "artist_name": "Noir",
         "track_title": "Around - Solomun Vox",
         "track_number": 1,
@@ -7580,7 +7543,7 @@
         ]
     },
     {
-        "idx": 559,
+        "idx": 556,
         "artist_name": "Dimi Mechero",
         "track_title": "Ethernal",
         "track_number": 1,
@@ -7593,7 +7556,7 @@
         ]
     },
     {
-        "idx": 560,
+        "idx": 557,
         "artist_name": "Outkast",
         "track_title": "So Fresh, So Clean",
         "track_number": 4,
@@ -7606,7 +7569,7 @@
         ]
     },
     {
-        "idx": 561,
+        "idx": 558,
         "artist_name": "Tuna",
         "track_title": "\u05d0\u05d1\u05d5\u05d3\u05d9\u05dd \u05d1\u05d7\u05dc\u05dc",
         "track_number": 1,
@@ -7620,7 +7583,7 @@
         ]
     },
     {
-        "idx": 562,
+        "idx": 559,
         "artist_name": "Tuna",
         "track_title": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
         "track_number": 5,
@@ -7634,13 +7597,13 @@
         ]
     },
     {
-        "idx": 563,
+        "idx": 560,
         "artist_name": "Drake",
         "track_title": "Hold On, We're Going Home",
         "track_number": 8,
         "isrc": "USCM51300762",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
-        "album_name": "Nothing Was The Same - Deluxe",
+        "album_name": "Nothing Was The Same (Deluxe)",
         "release_date": "2013-01-01",
         "artists": [
             "Drake",
@@ -7648,7 +7611,7 @@
         ]
     },
     {
-        "idx": 564,
+        "idx": 561,
         "artist_name": "Eyal Golan",
         "track_title": "\u05db\u05dc \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
         "track_number": 3,
@@ -7661,7 +7624,7 @@
         ]
     },
     {
-        "idx": 565,
+        "idx": 562,
         "artist_name": "Gazoz",
         "track_title": "\u05d4\u05d9\u05d0 \u05dc\u05d0 \u05ea\u05d3\u05e2",
         "track_number": 2,
@@ -7674,7 +7637,7 @@
         ]
     },
     {
-        "idx": 566,
+        "idx": 563,
         "artist_name": "Mobb Deep",
         "track_title": "Survival of the Fittest",
         "track_number": 3,
@@ -7687,7 +7650,7 @@
         ]
     },
     {
-        "idx": 567,
+        "idx": 564,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05ea\u05e4\u05d5\u05e1 \u05d0\u05d5\u05ea\u05d9 \u05d0\u05dd \u05ea\u05d5\u05db\u05dc",
         "track_number": 11,
@@ -7702,7 +7665,7 @@
         ]
     },
     {
-        "idx": 568,
+        "idx": 565,
         "artist_name": "2Pac",
         "track_title": "All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)",
         "track_number": 2,
@@ -7719,7 +7682,7 @@
         ]
     },
     {
-        "idx": 569,
+        "idx": 566,
         "artist_name": "Snoop Dogg",
         "track_title": "Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",
         "track_number": 10,
@@ -7735,7 +7698,7 @@
         ]
     },
     {
-        "idx": 570,
+        "idx": 567,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05ea\u05d4\u05d9\u05dc\u05d4",
         "track_number": 3,
@@ -7745,11 +7708,11 @@
         "release_date": "2015-07-01",
         "artists": [
             "Ravid Plotnik",
-            "\u05e9\u05dc\u05d5\u05de\u05d9 \u05d0\u05dc\u05d5\u05df"
+            "Shlomi Alon"
         ]
     },
     {
-        "idx": 571,
+        "idx": 568,
         "artist_name": "Cookie Levanna",
         "track_title": "\u05d2\u05dd \u05d0\u05e0\u05d9",
         "track_number": 1,
@@ -7762,7 +7725,7 @@
         ]
     },
     {
-        "idx": 572,
+        "idx": 569,
         "artist_name": "Tuna",
         "track_title": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea",
         "track_number": 4,
@@ -7775,7 +7738,7 @@
         ]
     },
     {
-        "idx": 573,
+        "idx": 570,
         "artist_name": "Apocalipsa",
         "track_title": "\u05d7\u05d9\u05d5\u05da \u05e9\u05dc \u05d2\u05d5\u05e7\u05e8",
         "track_number": 15,
@@ -7788,7 +7751,7 @@
         ]
     },
     {
-        "idx": 574,
+        "idx": 571,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05dc\u05e4\u05e2\u05de\u05d9\u05dd",
         "track_number": 1,
@@ -7801,7 +7764,7 @@
         ]
     },
     {
-        "idx": 575,
+        "idx": 572,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d8\u05d5\u05d1\u05d4",
         "track_number": 6,
@@ -7814,7 +7777,7 @@
         ]
     },
     {
-        "idx": 576,
+        "idx": 573,
         "artist_name": "Moshik Afia",
         "track_title": "\u05d7\u05dc\u05d5\u05dd \u05de\u05ea\u05d5\u05e7",
         "track_number": 3,
@@ -7828,7 +7791,7 @@
         ]
     },
     {
-        "idx": 577,
+        "idx": 574,
         "artist_name": "George Benson",
         "track_title": "Give Me the Night",
         "track_number": 3,
@@ -7841,7 +7804,7 @@
         ]
     },
     {
-        "idx": 578,
+        "idx": 575,
         "artist_name": "2Pac",
         "track_title": "Hit 'Em Up - Single Version",
         "track_number": 12,
@@ -7855,7 +7818,7 @@
         ]
     },
     {
-        "idx": 579,
+        "idx": 576,
         "artist_name": "The Notorious B.I.G.",
         "track_title": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
         "track_number": 10,
@@ -7870,7 +7833,7 @@
         ]
     },
     {
-        "idx": 580,
+        "idx": 577,
         "artist_name": "The Notorious B.I.G.",
         "track_title": "Hypnotize - 2014 Remaster",
         "track_number": 3,
@@ -7883,20 +7846,20 @@
         ]
     },
     {
-        "idx": 581,
+        "idx": 578,
         "artist_name": "The Notorious B.I.G.",
         "track_title": "Big Poppa - 2005 Remaster",
         "track_number": 13,
         "isrc": "USBB40580817",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0233b3334a369aa539e6ccfc73",
-        "album_name": "Ready to Die - The Remaster",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020f51e29700232d57fe8a0830",
+        "album_name": "Ready to Die (The Remaster)",
         "release_date": "1994-09-13",
         "artists": [
             "The Notorious B.I.G."
         ]
     },
     {
-        "idx": 582,
+        "idx": 579,
         "artist_name": "Don Omar",
         "track_title": "Danza Kuduro",
         "track_number": 12,
@@ -7910,7 +7873,7 @@
         ]
     },
     {
-        "idx": 583,
+        "idx": 580,
         "artist_name": "Diddy",
         "track_title": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
         "track_number": 7,
@@ -7926,7 +7889,7 @@
         ]
     },
     {
-        "idx": 584,
+        "idx": 581,
         "artist_name": "2Pac",
         "track_title": "Only God Can Judge Me (ft. Rappin' 4-Tay)",
         "track_number": 10,
@@ -7940,9 +7903,9 @@
         ]
     },
     {
-        "idx": 585,
+        "idx": 582,
         "artist_name": "Pharrell Williams",
-        "track_title": "Frontin' (feat. Jay-Z) - Club Mix",
+        "track_title": "Frontin' (feat. JAY-Z) - Club Mix",
         "track_number": 5,
         "isrc": "USAR10300553",
         "album_art": "https://i.scdn.co/image/ab67616d00001e0231a1d15842b0e8a4e53dd3b0",
@@ -7954,7 +7917,7 @@
         ]
     },
     {
-        "idx": 586,
+        "idx": 583,
         "artist_name": "2Pac",
         "track_title": "Hail Mary",
         "track_number": 5,
@@ -7967,7 +7930,7 @@
         ]
     },
     {
-        "idx": 587,
+        "idx": 584,
         "artist_name": "Nate Dogg",
         "track_title": "Regulate - J. Period Remix",
         "track_number": 13,
@@ -7981,7 +7944,7 @@
         ]
     },
     {
-        "idx": 588,
+        "idx": 585,
         "artist_name": "2Pac",
         "track_title": "I Get Around",
         "track_number": 14,
@@ -7995,7 +7958,7 @@
         ]
     },
     {
-        "idx": 589,
+        "idx": 586,
         "artist_name": "Warren G",
         "track_title": "Regulate",
         "track_number": 1,
@@ -8009,7 +7972,7 @@
         ]
     },
     {
-        "idx": 590,
+        "idx": 587,
         "artist_name": "Drake",
         "track_title": "TSU",
         "track_number": 8,
@@ -8022,7 +7985,7 @@
         ]
     },
     {
-        "idx": 591,
+        "idx": 588,
         "artist_name": "Drake",
         "track_title": "Champagne Poetry",
         "track_number": 1,
@@ -8035,7 +7998,7 @@
         ]
     },
     {
-        "idx": 592,
+        "idx": 589,
         "artist_name": "Drake",
         "track_title": "No Friends In The Industry",
         "track_number": 12,
@@ -8048,7 +8011,7 @@
         ]
     },
     {
-        "idx": 593,
+        "idx": 590,
         "artist_name": "Toploader",
         "track_title": "Dancing in the Moonlight",
         "track_number": 2,
@@ -8061,7 +8024,7 @@
         ]
     },
     {
-        "idx": 594,
+        "idx": 591,
         "artist_name": "Sandhog",
         "track_title": "Helix",
         "track_number": 1,
@@ -8074,7 +8037,7 @@
         ]
     },
     {
-        "idx": 595,
+        "idx": 592,
         "artist_name": "Pop Smoke",
         "track_title": "War (feat. Lil Tjay) - Bonus",
         "track_number": 13,
@@ -8088,7 +8051,7 @@
         ]
     },
     {
-        "idx": 596,
+        "idx": 593,
         "artist_name": "Portugal. The Man",
         "track_title": "Live in the Moment",
         "track_number": 3,
@@ -8101,7 +8064,7 @@
         ]
     },
     {
-        "idx": 597,
+        "idx": 594,
         "artist_name": "Internet Money",
         "track_title": "I Remember (feat. Roddy Ricch & Kodak Black)",
         "track_number": 1,
@@ -8116,7 +8079,7 @@
         ]
     },
     {
-        "idx": 598,
+        "idx": 595,
         "artist_name": "Travis Scott",
         "track_title": "SKELETONS",
         "track_number": 7,
@@ -8129,7 +8092,7 @@
         ]
     },
     {
-        "idx": 599,
+        "idx": 596,
         "artist_name": "Kardinal Offishall",
         "track_title": "Dangerous",
         "track_number": 3,
@@ -8143,7 +8106,7 @@
         ]
     },
     {
-        "idx": 600,
+        "idx": 597,
         "artist_name": "Matthew Wilder",
         "track_title": "Break My Stride",
         "track_number": 1,
@@ -8156,7 +8119,7 @@
         ]
     },
     {
-        "idx": 601,
+        "idx": 598,
         "artist_name": "Wham!",
         "track_title": "Wake Me Up Before You Go-Go",
         "track_number": 1,
@@ -8169,7 +8132,7 @@
         ]
     },
     {
-        "idx": 602,
+        "idx": 599,
         "artist_name": "Portugal. The Man",
         "track_title": "So Young",
         "track_number": 7,
@@ -8182,7 +8145,7 @@
         ]
     },
     {
-        "idx": 603,
+        "idx": 600,
         "artist_name": "The Game",
         "track_title": "Hate It Or Love It",
         "track_number": 4,
@@ -8196,7 +8159,7 @@
         ]
     },
     {
-        "idx": 604,
+        "idx": 601,
         "artist_name": "Metro Boomin",
         "track_title": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
         "track_number": 2,
@@ -8211,7 +8174,7 @@
         ]
     },
     {
-        "idx": 605,
+        "idx": 602,
         "artist_name": "Metro Boomin",
         "track_title": "10 Freaky Girls (with 21 Savage)",
         "track_number": 6,
@@ -8225,7 +8188,7 @@
         ]
     },
     {
-        "idx": 606,
+        "idx": 603,
         "artist_name": "Drake",
         "track_title": "Overdrive",
         "track_number": 10,
@@ -8238,7 +8201,7 @@
         ]
     },
     {
-        "idx": 607,
+        "idx": 604,
         "artist_name": "Warren G",
         "track_title": "This D.J.",
         "track_number": 8,
@@ -8252,7 +8215,7 @@
         ]
     },
     {
-        "idx": 608,
+        "idx": 605,
         "artist_name": "2Pac",
         "track_title": "Skandalouz (ft. Nate Dogg)",
         "track_number": 3,
@@ -8266,7 +8229,7 @@
         ]
     },
     {
-        "idx": 609,
+        "idx": 606,
         "artist_name": "Dr. Dre",
         "track_title": "Xxplosive",
         "track_number": 6,
@@ -8283,7 +8246,7 @@
         ]
     },
     {
-        "idx": 610,
+        "idx": 607,
         "artist_name": "Snoop Dogg",
         "track_title": "Lay Low",
         "track_number": 9,
@@ -8300,7 +8263,7 @@
         ]
     },
     {
-        "idx": 611,
+        "idx": 608,
         "artist_name": "Mos Def",
         "track_title": "Oh No",
         "track_number": 2,
@@ -8315,7 +8278,7 @@
         ]
     },
     {
-        "idx": 612,
+        "idx": 609,
         "artist_name": "Ishay Ribo",
         "track_title": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
         "track_number": 1,
@@ -8328,7 +8291,7 @@
         ]
     },
     {
-        "idx": 613,
+        "idx": 610,
         "artist_name": "Meek Mill",
         "track_title": "Dreams and Nightmares",
         "track_number": 1,
@@ -8341,7 +8304,7 @@
         ]
     },
     {
-        "idx": 614,
+        "idx": 611,
         "artist_name": "Kanye West",
         "track_title": "Everything I Am",
         "track_number": 10,
@@ -8355,7 +8318,7 @@
         ]
     },
     {
-        "idx": 615,
+        "idx": 612,
         "artist_name": "Snoop Dogg",
         "track_title": "Outside The Box",
         "track_number": 11,
@@ -8369,7 +8332,7 @@
         ]
     },
     {
-        "idx": 616,
+        "idx": 613,
         "artist_name": "Drake",
         "track_title": "Lord Knows",
         "track_number": 11,
@@ -8383,7 +8346,7 @@
         ]
     },
     {
-        "idx": 617,
+        "idx": 614,
         "artist_name": "Marshmello",
         "track_title": "Project Dreams",
         "track_number": 1,
@@ -8397,7 +8360,7 @@
         ]
     },
     {
-        "idx": 618,
+        "idx": 615,
         "artist_name": "Tuna",
         "track_title": "\u05d3\u05d1\u05e8\u05d9\u05dd \u05d4\u05d5\u05dc\u05db\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05e0\u05d5\u05ea",
         "track_number": 7,
@@ -8411,7 +8374,7 @@
         ]
     },
     {
-        "idx": 619,
+        "idx": 616,
         "artist_name": "Warren G",
         "track_title": "Party We Will Throw Now!",
         "track_number": 1,
@@ -8426,7 +8389,7 @@
         ]
     },
     {
-        "idx": 620,
+        "idx": 617,
         "artist_name": "Shade Sheist",
         "track_title": "Where I Wanna Be",
         "track_number": 14,
@@ -8441,7 +8404,7 @@
         ]
     },
     {
-        "idx": 621,
+        "idx": 618,
         "artist_name": "Warren G",
         "track_title": "Nobody Does It Better",
         "track_number": 12,
@@ -8455,7 +8418,7 @@
         ]
     },
     {
-        "idx": 622,
+        "idx": 619,
         "artist_name": "Warren G",
         "track_title": "Do You See",
         "track_number": 2,
@@ -8469,7 +8432,7 @@
         ]
     },
     {
-        "idx": 623,
+        "idx": 620,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d9\u05d5\u05dd \u05e9\u05d9\u05e9\u05d9",
         "track_number": 13,
@@ -8483,7 +8446,7 @@
         ]
     },
     {
-        "idx": 624,
+        "idx": 621,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e9\u05de\u05e9",
         "track_number": 5,
@@ -8497,7 +8460,7 @@
         ]
     },
     {
-        "idx": 625,
+        "idx": 622,
         "artist_name": "Idan Raichel",
         "track_title": "\u05e8\u05d5\u05d1 \u05d4\u05e9\u05e2\u05d5\u05ea",
         "track_number": 8,
@@ -8510,7 +8473,7 @@
         ]
     },
     {
-        "idx": 626,
+        "idx": 623,
         "artist_name": "Shlomo Artzi",
         "track_title": "\u05d4\u05d9\u05d0 \u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea \u05de\u05d4 \u05e2\u05d5\u05d1\u05e8 \u05e2\u05dc\u05d9\u05d9",
         "track_number": 3,
@@ -8523,8 +8486,8 @@
         ]
     },
     {
-        "idx": 627,
-        "artist_name": "Raviv Kaner",
+        "idx": 624,
+        "artist_name": "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8",
         "track_title": "\u05e8\u05d5\u05e6\u05d4 \u05e9\u05dc\u05d5\u05dd",
         "track_number": 3,
         "isrc": "IL1012001040",
@@ -8532,11 +8495,11 @@
         "album_name": "\u05e8\u05e1\u05d9\u05e1\u05d9\u05dd",
         "release_date": "2022-04-10",
         "artists": [
-            "Raviv Kaner"
+            "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8"
         ]
     },
     {
-        "idx": 628,
+        "idx": 625,
         "artist_name": "Drake",
         "track_title": "Best I Ever Had",
         "track_number": 10,
@@ -8549,7 +8512,7 @@
         ]
     },
     {
-        "idx": 629,
+        "idx": 626,
         "artist_name": "Drake",
         "track_title": "Take Care",
         "track_number": 5,
@@ -8563,7 +8526,7 @@
         ]
     },
     {
-        "idx": 630,
+        "idx": 627,
         "artist_name": "Drake",
         "track_title": "Energy",
         "track_number": 2,
@@ -8576,7 +8539,7 @@
         ]
     },
     {
-        "idx": 631,
+        "idx": 628,
         "artist_name": "A Boogie Wit da Hoodie",
         "track_title": "Still Think About You",
         "track_number": 2,
@@ -8589,7 +8552,7 @@
         ]
     },
     {
-        "idx": 632,
+        "idx": 629,
         "artist_name": "Idan Raichel",
         "track_title": "\u05e9\u05d0\u05e8\u05d9\u05d5\u05ea \u05e9\u05dc \u05d4\u05d7\u05d9\u05d9\u05dd",
         "track_number": 3,
@@ -8602,7 +8565,7 @@
         ]
     },
     {
-        "idx": 633,
+        "idx": 630,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d6\u05de\u05df \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "track_number": 3,
@@ -8615,7 +8578,7 @@
         ]
     },
     {
-        "idx": 634,
+        "idx": 631,
         "artist_name": "Alma Zohar",
         "track_title": "\u05e9\u05d9\u05e8 \u05d0\u05d4\u05d1\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d9\u05d0\u05e0\u05d9 (\u05de\u05d9\u05d2\u05dc)",
         "track_number": 6,
@@ -8628,20 +8591,7 @@
         ]
     },
     {
-        "idx": 635,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05de\u05d1\u05d9\u05d8 \u05de\u05d4\u05e6\u05d3",
-        "track_number": 3,
-        "isrc": "IL5301700155",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02fffa82e73f25160bdc5cca89",
-        "album_name": "\u05d0\u05d7\u05e8\u05d9 \u05db\u05dc \u05d4\u05e9\u05e0\u05d9\u05dd",
-        "release_date": "2017-02-01",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 636,
+        "idx": 632,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
         "track_number": 8,
@@ -8654,7 +8604,7 @@
         ]
     },
     {
-        "idx": 637,
+        "idx": 633,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05ea\u05df \u05dc\u05d9 \u05de\u05e0\u05d2\u05d9\u05e0\u05d4",
         "track_number": 1,
@@ -8668,7 +8618,7 @@
         ]
     },
     {
-        "idx": 638,
+        "idx": 634,
         "artist_name": "N.W.A.",
         "track_title": "Chin Check",
         "track_number": 16,
@@ -8681,7 +8631,7 @@
         ]
     },
     {
-        "idx": 639,
+        "idx": 635,
         "artist_name": "N.W.A.",
         "track_title": "A Bitch Iz A Bitch",
         "track_number": 4,
@@ -8694,7 +8644,7 @@
         ]
     },
     {
-        "idx": 640,
+        "idx": 636,
         "artist_name": "Alon Eder",
         "track_title": "\u05e7\u05e6\u05ea \u05d0\u05d4\u05d1\u05d4 \u05dc\u05d0 \u05ea\u05d6\u05d9\u05e7",
         "track_number": 1,
@@ -8707,7 +8657,7 @@
         ]
     },
     {
-        "idx": 641,
+        "idx": 637,
         "artist_name": "Warren G",
         "track_title": "Keep on Hustlin' (feat. Young Jeezy, Bun B, Nate Dogg)",
         "track_number": 4,
@@ -8723,7 +8673,7 @@
         ]
     },
     {
-        "idx": 642,
+        "idx": 638,
         "artist_name": "Dr. Dre",
         "track_title": "The Next Episode",
         "track_number": 11,
@@ -8737,7 +8687,7 @@
         ]
     },
     {
-        "idx": 643,
+        "idx": 639,
         "artist_name": "Billy Joel",
         "track_title": "Vienna",
         "track_number": 5,
@@ -8750,7 +8700,7 @@
         ]
     },
     {
-        "idx": 644,
+        "idx": 640,
         "artist_name": "Mobb Deep",
         "track_title": "Hell on Earth (Front Lines)",
         "track_number": 11,
@@ -8763,7 +8713,7 @@
         ]
     },
     {
-        "idx": 645,
+        "idx": 641,
         "artist_name": "Ben E. King",
         "track_title": "Stand By Me",
         "track_number": 7,
@@ -8776,7 +8726,7 @@
         ]
     },
     {
-        "idx": 646,
+        "idx": 642,
         "artist_name": "Idan Amedi",
         "track_title": "\u05d7\u05dc\u05e7 \u05de\u05d4\u05d6\u05de\u05df",
         "track_number": 3,
@@ -8789,20 +8739,20 @@
         ]
     },
     {
-        "idx": 647,
+        "idx": 643,
         "artist_name": "Juice WRLD",
         "track_title": "Feeling",
         "track_number": 10,
         "isrc": "USUG11900388",
         "album_art": "https://i.scdn.co/image/ab67616d00001e028b27d35aa2c6dcf99895d664",
-        "album_name": "Death Race For Love - Bonus Track Version",
+        "album_name": "Death Race For Love (Bonus Track Version)",
         "release_date": "2019-03-08",
         "artists": [
             "Juice WRLD"
         ]
     },
     {
-        "idx": 648,
+        "idx": 644,
         "artist_name": "Apocalipsa",
         "track_title": "\u05e1\u05d8\u05dc\u05df \u05d9\u05e9\u05d9\u05d1\u05d5\u05ea",
         "track_number": 20,
@@ -8815,7 +8765,7 @@
         ]
     },
     {
-        "idx": 649,
+        "idx": 645,
         "artist_name": "E-Z",
         "track_title": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
         "track_number": 1,
@@ -8828,7 +8778,7 @@
         ]
     },
     {
-        "idx": 650,
+        "idx": 646,
         "artist_name": "Kodak Black",
         "track_title": "No Flockin'",
         "track_number": 1,
@@ -8841,12 +8791,12 @@
         ]
     },
     {
-        "idx": 651,
+        "idx": 647,
         "artist_name": "Lil Uzi Vert",
         "track_title": "Bean (Kobe) [feat. Chief Keef]",
         "track_number": 3,
         "isrc": "USAT22001631",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02dea510881ec1e506485303e4",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bd5f03953f9f1d3b833369c0",
         "album_name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "release_date": "2020-03-13",
         "artists": [
@@ -8855,12 +8805,12 @@
         ]
     },
     {
-        "idx": 652,
+        "idx": 648,
         "artist_name": "Lil Uzi Vert",
         "track_title": "Leaders (feat. NAV)",
         "track_number": 14,
         "isrc": "USAT22001642",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02dea510881ec1e506485303e4",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bd5f03953f9f1d3b833369c0",
         "album_name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "release_date": "2020-03-13",
         "artists": [
@@ -8869,20 +8819,7 @@
         ]
     },
     {
-        "idx": 653,
-        "artist_name": "Dudu Tassa",
-        "track_title": "\u05d0\u05e0\u05d9 \u05e8\u05e5",
-        "track_number": 2,
-        "isrc": "IL1000000346",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026bc2b93bc61854685e0423ef",
-        "album_name": "\u05de\u05ea\u05d5\u05da \u05d1\u05d7\u05d9\u05e8\u05d4",
-        "release_date": "2003-01-01",
-        "artists": [
-            "Dudu Tassa"
-        ]
-    },
-    {
-        "idx": 654,
+        "idx": 649,
         "artist_name": "Lil Skies",
         "track_title": "Lust",
         "track_number": 4,
@@ -8895,21 +8832,7 @@
         ]
     },
     {
-        "idx": 655,
-        "artist_name": "Dudu Tassa",
-        "track_title": "\u05de\u05e2\u05dc\u05d9\u05d5\u05ea",
-        "track_number": 9,
-        "isrc": "IL1000000331",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0207a2d9c3b82e2a0df151bd43",
-        "album_name": "\u05dc\u05d5\u05dc\u05d4",
-        "release_date": "2006-07-05",
-        "artists": [
-            "Dudu Tassa",
-            "Roni Alter"
-        ]
-    },
-    {
-        "idx": 656,
+        "idx": 650,
         "artist_name": "2Pac",
         "track_title": "2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)",
         "track_number": 6,
@@ -8923,7 +8846,7 @@
         ]
     },
     {
-        "idx": 657,
+        "idx": 651,
         "artist_name": "Warren G",
         "track_title": "I Want It All (feat. Mack 10)",
         "track_number": 5,
@@ -8937,7 +8860,7 @@
         ]
     },
     {
-        "idx": 658,
+        "idx": 652,
         "artist_name": "Bill Withers",
         "track_title": "Lovely Day",
         "track_number": 1,
@@ -8950,7 +8873,7 @@
         ]
     },
     {
-        "idx": 659,
+        "idx": 653,
         "artist_name": "Playboi Carti",
         "track_title": "Shoota (feat. Lil Uzi Vert)",
         "track_number": 6,
@@ -8964,7 +8887,7 @@
         ]
     },
     {
-        "idx": 660,
+        "idx": 654,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e2\u05d9\u05e8 \u05e0\u05de\u05dc",
         "track_number": 1,
@@ -8977,8 +8900,8 @@
         ]
     },
     {
-        "idx": 661,
-        "artist_name": "Peer Tasi",
+        "idx": 655,
+        "artist_name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
         "track_title": "\u05e2\u05e8\u05e7",
         "track_number": 1,
         "isrc": "IL1012200600",
@@ -8986,11 +8909,11 @@
         "album_name": "\u05e2\u05e8\u05e7",
         "release_date": "2022-05-01",
         "artists": [
-            "Peer Tasi"
+            "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9"
         ]
     },
     {
-        "idx": 662,
+        "idx": 656,
         "artist_name": "\u05e0\u05d9\u05d1 \u05d3\u05de\u05d9\u05e8\u05dc",
         "track_title": "\u05d4\u05e9\u05e2\u05d5\u05ea \u05d4\u05e7\u05d8\u05e0\u05d5\u05ea",
         "track_number": 6,
@@ -9003,7 +8926,7 @@
         ]
     },
     {
-        "idx": 663,
+        "idx": 657,
         "artist_name": "Uri Banai",
         "track_title": "\u05d4\u05d6\u05de\u05e0\u05d4 \u05dc\u05d7\u05ea\u05d5\u05e0\u05d4",
         "track_number": 4,
@@ -9016,7 +8939,7 @@
         ]
     },
     {
-        "idx": 664,
+        "idx": 658,
         "artist_name": "Gilad Segev",
         "track_title": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d8\u05d5\u05d1",
         "track_number": 1,
@@ -9029,7 +8952,7 @@
         ]
     },
     {
-        "idx": 665,
+        "idx": 659,
         "artist_name": "Idan Raichel",
         "track_title": "\u05d5\u05d0\u05dd \u05ea\u05d1\u05d5\u05d0\u05d9 \u05d0\u05dc\u05d9\u05d9",
         "track_number": 3,
@@ -9042,12 +8965,12 @@
         ]
     },
     {
-        "idx": 666,
+        "idx": 660,
         "artist_name": "Lil Uzi Vert",
         "track_title": "Lo Mein",
         "track_number": 2,
         "isrc": "USAT22001355",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02dea510881ec1e506485303e4",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bd5f03953f9f1d3b833369c0",
         "album_name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
         "release_date": "2020-03-13",
         "artists": [
@@ -9055,7 +8978,7 @@
         ]
     },
     {
-        "idx": 667,
+        "idx": 661,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e9\u05d9\u05e8\u05ea \u05d4\u05e1\u05d8\u05d9\u05e7\u05e8",
         "track_number": 3,
@@ -9068,7 +8991,7 @@
         ]
     },
     {
-        "idx": 668,
+        "idx": 662,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e9\u05d9\u05e8 \u05e0\u05d7\u05de\u05d4",
         "track_number": 4,
@@ -9081,7 +9004,7 @@
         ]
     },
     {
-        "idx": 669,
+        "idx": 663,
         "artist_name": "Red Band",
         "track_title": "Powerful",
         "track_number": 1,
@@ -9095,7 +9018,7 @@
         ]
     },
     {
-        "idx": 670,
+        "idx": 664,
         "artist_name": "The Revivo Project",
         "track_title": "\u05ea\u05df \u05dc\u05d6\u05de\u05df \u05dc\u05dc\u05db\u05ea",
         "track_number": 1,
@@ -9108,8 +9031,8 @@
         ]
     },
     {
-        "idx": 671,
-        "artist_name": "Peer Tasi",
+        "idx": 665,
+        "artist_name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
         "track_title": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d7\u05dc\u05d5\u05df",
         "track_number": 1,
         "isrc": "IL1012001323",
@@ -9117,11 +9040,11 @@
         "album_name": "\u05d7\u05d5\u05e8\u05e3 \u05d1\u05d7\u05dc\u05d5\u05df",
         "release_date": "2021-02-11",
         "artists": [
-            "Peer Tasi"
+            "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9"
         ]
     },
     {
-        "idx": 672,
+        "idx": 666,
         "artist_name": "Lost Frequencies",
         "track_title": "Where Are You Now",
         "track_number": 1,
@@ -9135,7 +9058,7 @@
         ]
     },
     {
-        "idx": 673,
+        "idx": 667,
         "artist_name": "Zakes Bantwini",
         "track_title": "Osama",
         "track_number": 1,
@@ -9149,7 +9072,7 @@
         ]
     },
     {
-        "idx": 674,
+        "idx": 668,
         "artist_name": "Shlomi Shabat",
         "track_title": "\u05d1\u05d7\u05d5\u05e3 \u05e9\u05dc \u05d8\u05e8\u05d0\u05e4\u05d8\u05d5\u05e0\u05d9",
         "track_number": 16,
@@ -9162,7 +9085,7 @@
         ]
     },
     {
-        "idx": 675,
+        "idx": 669,
         "artist_name": "Knesiyat Hasechel",
         "track_title": "\u05ea\u05d2\u05d9\u05d3\u05d9 \u05e9\u05d8\u05d5\u05d1",
         "track_number": 3,
@@ -9175,7 +9098,7 @@
         ]
     },
     {
-        "idx": 676,
+        "idx": 670,
         "artist_name": "Rodrigo Amarante",
         "track_title": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
         "track_number": 1,
@@ -9188,7 +9111,7 @@
         ]
     },
     {
-        "idx": 677,
+        "idx": 671,
         "artist_name": "Jorge Ben Jor",
         "track_title": "Mas Que Nada / De Manh\u00e3 - Medley",
         "track_number": 7,
@@ -9201,7 +9124,7 @@
         ]
     },
     {
-        "idx": 678,
+        "idx": 672,
         "artist_name": "Manu Chao",
         "track_title": "Me Gustas Tu",
         "track_number": 6,
@@ -9214,7 +9137,7 @@
         ]
     },
     {
-        "idx": 679,
+        "idx": 673,
         "artist_name": "Cl\u00fcb De Combat",
         "track_title": "Acid Tarim",
         "track_number": 1,
@@ -9228,7 +9151,7 @@
         ]
     },
     {
-        "idx": 680,
+        "idx": 674,
         "artist_name": "Dekel",
         "track_title": "Magneto",
         "track_number": 1,
@@ -9241,7 +9164,7 @@
         ]
     },
     {
-        "idx": 681,
+        "idx": 675,
         "artist_name": "Drake",
         "track_title": "Search & Rescue",
         "track_number": 1,
@@ -9254,7 +9177,7 @@
         ]
     },
     {
-        "idx": 682,
+        "idx": 676,
         "artist_name": "Nas",
         "track_title": "Life's a Bitch (feat. AZ & Olu Dara)",
         "track_number": 3,
@@ -9269,7 +9192,7 @@
         ]
     },
     {
-        "idx": 683,
+        "idx": 677,
         "artist_name": "Nas",
         "track_title": "Represent",
         "track_number": 9,
@@ -9282,7 +9205,7 @@
         ]
     },
     {
-        "idx": 684,
+        "idx": 678,
         "artist_name": "Nas",
         "track_title": "Purple",
         "track_number": 8,
@@ -9295,20 +9218,7 @@
         ]
     },
     {
-        "idx": 685,
-        "artist_name": "Dr. Dre",
-        "track_title": "Keep Their Heads Ringin'",
-        "track_number": 1,
-        "isrc": "USPO19550012",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e029330b3ab457779ed4137493b",
-        "album_name": "Keep Their Heads Ringin'",
-        "release_date": "1995-03-07",
-        "artists": [
-            "Dr. Dre"
-        ]
-    },
-    {
-        "idx": 686,
+        "idx": 679,
         "artist_name": "theAngelcy",
         "track_title": "Dreamer",
         "track_number": 13,
@@ -9321,7 +9231,7 @@
         ]
     },
     {
-        "idx": 687,
+        "idx": 680,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05de\u05e1\u05e4\u05e8\u05d9\u05dd",
         "track_number": 4,
@@ -9334,33 +9244,7 @@
         ]
     },
     {
-        "idx": 688,
-        "artist_name": "Dudu Tassa",
-        "track_title": "\u05d1\u05d0\u05ea \u05e2\u05dd \u05d4\u05e9\u05e7\u05d8",
-        "track_number": 5,
-        "isrc": "IL1000000349",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e026bc2b93bc61854685e0423ef",
-        "album_name": "\u05de\u05ea\u05d5\u05da \u05d1\u05d7\u05d9\u05e8\u05d4",
-        "release_date": "2003-01-01",
-        "artists": [
-            "Dudu Tassa"
-        ]
-    },
-    {
-        "idx": 689,
-        "artist_name": "Yehudit Ravitz",
-        "track_title": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d4\u05db\u05dc \u05d1\u05e1\u05d3\u05e8",
-        "track_number": 2,
-        "isrc": "IL1010004588",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02e1576fcd2484476da8216001",
-        "album_name": "\u05d2\u05dc\u05d5\u05d9 \u05d5\u05e0\u05e2\u05dc\u05dd",
-        "release_date": "1980-11-01",
-        "artists": [
-            "Yehudit Ravitz"
-        ]
-    },
-    {
-        "idx": 690,
+        "idx": 681,
         "artist_name": "\u05e9\u05d9\u05dc\u05d4 \u05d1\u05df \u05e1\u05e2\u05d3\u05d5\u05df",
         "track_title": "\u05e2\u05d9\u05e8 \u05de\u05e7\u05dc\u05d8",
         "track_number": 1,
@@ -9373,21 +9257,7 @@
         ]
     },
     {
-        "idx": 691,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05e1\u05d9\u05e4\u05d5\u05e8 \u05d9\u05e9\u05df",
-        "track_number": 8,
-        "isrc": "IL5301600149",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02fffa82e73f25160bdc5cca89",
-        "album_name": "\u05d0\u05d7\u05e8\u05d9 \u05db\u05dc \u05d4\u05e9\u05e0\u05d9\u05dd",
-        "release_date": "2017-02-01",
-        "artists": [
-            "Omer Adam",
-            "Liran Danino"
-        ]
-    },
-    {
-        "idx": 692,
+        "idx": 682,
         "artist_name": "\u05d1\u05d5\u05e2\u05d6 \u05de\u05e2\u05d5\u05d3\u05d4",
         "track_title": "\u05d9\u05dc\u05d3 \u05d4\u05e9\u05d3\u05d4",
         "track_number": 1,
@@ -9400,7 +9270,7 @@
         ]
     },
     {
-        "idx": 693,
+        "idx": 683,
         "artist_name": "Baby Keem",
         "track_title": "The Hillbillies",
         "track_number": 1,
@@ -9414,7 +9284,7 @@
         ]
     },
     {
-        "idx": 694,
+        "idx": 684,
         "artist_name": "Eviatar Banai",
         "track_title": "\u05e2\u05d3 \u05de\u05d7\u05e8",
         "track_number": 5,
@@ -9427,7 +9297,7 @@
         ]
     },
     {
-        "idx": 695,
+        "idx": 685,
         "artist_name": "Cohen",
         "track_title": "\u05e9\u05de\u05d9\u05e0\u05d9\u05d5\u05ea",
         "track_number": 7,
@@ -9440,7 +9310,7 @@
         ]
     },
     {
-        "idx": 696,
+        "idx": 686,
         "artist_name": "Gala",
         "track_title": "Freed From Desire - prod. Molella, Phil Jay",
         "track_number": 10,
@@ -9455,7 +9325,7 @@
         ]
     },
     {
-        "idx": 697,
+        "idx": 687,
         "artist_name": "Subliminal",
         "track_title": "\u05d7\u05dc\u05d5\u05dd \u05e9\u05dc \u05db\u05dc \u05d2\u05d1\u05e8",
         "track_number": 1,
@@ -9469,7 +9339,7 @@
         ]
     },
     {
-        "idx": 698,
+        "idx": 688,
         "artist_name": "Amir Ve Ben",
         "track_title": "\u05db\u05d5\u05db\u05d1",
         "track_number": 1,
@@ -9483,7 +9353,7 @@
         ]
     },
     {
-        "idx": 699,
+        "idx": 689,
         "artist_name": "Arik Einstein",
         "track_title": "\u05d9\u05e9 \u05d1\u05d9 \u05d0\u05d4\u05d1\u05d4",
         "track_number": 3,
@@ -9497,7 +9367,7 @@
         ]
     },
     {
-        "idx": 700,
+        "idx": 690,
         "artist_name": "Idan Yaniv",
         "track_title": "\u05d7\u05d5\u05e9\u05d1 \u05e2\u05dc\u05d9\u05d4",
         "track_number": 2,
@@ -9511,20 +9381,7 @@
         ]
     },
     {
-        "idx": 701,
-        "artist_name": "Dudu Tassa",
-        "track_title": "\u05d4\u05d2\u05d5\u05dc\u05d4",
-        "track_number": 3,
-        "isrc": "IL1001089383",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02ddf067941e2cc6c0d1421661",
-        "album_name": "\u05d4\u05d2\u05d5\u05dc\u05d4",
-        "release_date": "2016-01-01",
-        "artists": [
-            "Dudu Tassa"
-        ]
-    },
-    {
-        "idx": 702,
+        "idx": 691,
         "artist_name": "Wild Cherry",
         "track_title": "Play That Funky Music",
         "track_number": 1,
@@ -9537,7 +9394,7 @@
         ]
     },
     {
-        "idx": 703,
+        "idx": 692,
         "artist_name": "Bobby Caldwell",
         "track_title": "What You Won't Do for Love",
         "track_number": 6,
@@ -9550,7 +9407,7 @@
         ]
     },
     {
-        "idx": 704,
+        "idx": 693,
         "artist_name": "Sergio Mendes & Brasil '66",
         "track_title": "Mas Que Nada",
         "track_number": 3,
@@ -9563,7 +9420,7 @@
         ]
     },
     {
-        "idx": 705,
+        "idx": 694,
         "artist_name": "Drake",
         "track_title": "Still Here",
         "track_number": 10,
@@ -9576,7 +9433,7 @@
         ]
     },
     {
-        "idx": 706,
+        "idx": 695,
         "artist_name": "Nas",
         "track_title": "It Ain't Hard to Tell",
         "track_number": 10,
@@ -9589,7 +9446,7 @@
         ]
     },
     {
-        "idx": 707,
+        "idx": 696,
         "artist_name": "Subliminal",
         "track_title": "\u05d4\u05e4\u05d9\u05e0\u05d0\u05dc\u05d9",
         "track_number": 5,
@@ -9604,7 +9461,7 @@
         ]
     },
     {
-        "idx": 708,
+        "idx": 697,
         "artist_name": "Zeca Pagodinho",
         "track_title": "Camar\u00e3o Que Dorme a Onda Leva",
         "track_number": 13,
@@ -9636,7 +9493,7 @@
         ]
     },
     {
-        "idx": 709,
+        "idx": 698,
         "artist_name": "theAngelcy",
         "track_title": "The Call",
         "track_number": 7,
@@ -9649,7 +9506,7 @@
         ]
     },
     {
-        "idx": 710,
+        "idx": 699,
         "artist_name": "theAngelcy",
         "track_title": "Giant Heart",
         "track_number": 6,
@@ -9662,7 +9519,7 @@
         ]
     },
     {
-        "idx": 711,
+        "idx": 700,
         "artist_name": "Nas",
         "track_title": "The World Is Yours",
         "track_number": 4,
@@ -9675,7 +9532,7 @@
         ]
     },
     {
-        "idx": 712,
+        "idx": 701,
         "artist_name": "Nas",
         "track_title": "The Message",
         "track_number": 2,
@@ -9688,7 +9545,7 @@
         ]
     },
     {
-        "idx": 713,
+        "idx": 702,
         "artist_name": "Nas",
         "track_title": "Halftime",
         "track_number": 5,
@@ -9701,7 +9558,7 @@
         ]
     },
     {
-        "idx": 714,
+        "idx": 703,
         "artist_name": "Balkan Beat Box",
         "track_title": "Dancing with the Moon",
         "track_number": 5,
@@ -9714,7 +9571,7 @@
         ]
     },
     {
-        "idx": 715,
+        "idx": 704,
         "artist_name": "Dave",
         "track_title": "Sprinter",
         "track_number": 1,
@@ -9728,7 +9585,7 @@
         ]
     },
     {
-        "idx": 716,
+        "idx": 705,
         "artist_name": "Eyal Golan",
         "track_title": "\u05de\u05d6\u05dc",
         "track_number": 1,
@@ -9742,7 +9599,7 @@
         ]
     },
     {
-        "idx": 717,
+        "idx": 706,
         "artist_name": "Eyal Golan",
         "track_title": "\u05db\u05e9\u05d0\u05ea \u05d0\u05d9\u05ea\u05d5",
         "track_number": 1,
@@ -9755,7 +9612,7 @@
         ]
     },
     {
-        "idx": 718,
+        "idx": 707,
         "artist_name": "Sagol 59",
         "track_title": "\u05db\u05d4\u05e8\u05e3 \u05e2\u05d9\u05df",
         "track_number": 4,
@@ -9770,7 +9627,7 @@
         ]
     },
     {
-        "idx": 719,
+        "idx": 708,
         "artist_name": "Junior M.A.F.I.A.",
         "track_title": "Get Money",
         "track_number": 7,
@@ -9783,20 +9640,7 @@
         ]
     },
     {
-        "idx": 720,
-        "artist_name": "Dudu Tassa",
-        "track_title": "\u05d0\u05d9\u05d6\u05d4 \u05d9\u05d5\u05dd",
-        "track_number": 2,
-        "isrc": "IL1001086564",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0281ef21b7554aeed23900ad95",
-        "album_name": "\u05d1\u05e1\u05d5\u05e3 \u05de\u05ea\u05e8\u05d2\u05dc\u05d9\u05dd \u05dc\u05d4\u05db\u05dc",
-        "release_date": "2009-03-26",
-        "artists": [
-            "Dudu Tassa"
-        ]
-    },
-    {
-        "idx": 721,
+        "idx": 709,
         "artist_name": "Uri Banai",
         "track_title": "\u05e4\u05e8\u05e4\u05e8\u05d9\u05dd",
         "track_number": 1,
@@ -9809,7 +9653,7 @@
         ]
     },
     {
-        "idx": 722,
+        "idx": 710,
         "artist_name": "Bill Withers",
         "track_title": "Ain't No Sunshine",
         "track_number": 2,
@@ -9822,7 +9666,7 @@
         ]
     },
     {
-        "idx": 723,
+        "idx": 711,
         "artist_name": "Future",
         "track_title": "Solo",
         "track_number": 16,
@@ -9835,7 +9679,7 @@
         ]
     },
     {
-        "idx": 724,
+        "idx": 712,
         "artist_name": "50 Cent",
         "track_title": "In Da Club",
         "track_number": 5,
@@ -9848,7 +9692,7 @@
         ]
     },
     {
-        "idx": 725,
+        "idx": 713,
         "artist_name": "Young Thug",
         "track_title": "Oh U Went (feat. Drake)",
         "track_number": 9,
@@ -9862,7 +9706,7 @@
         ]
     },
     {
-        "idx": 726,
+        "idx": 714,
         "artist_name": "Lil Baby",
         "track_title": "Real As It Gets (feat. EST Gee)",
         "track_number": 1,
@@ -9876,7 +9720,7 @@
         ]
     },
     {
-        "idx": 727,
+        "idx": 715,
         "artist_name": "The Kinks",
         "track_title": "You Really Got Me",
         "track_number": 7,
@@ -9889,7 +9733,7 @@
         ]
     },
     {
-        "idx": 728,
+        "idx": 716,
         "artist_name": "The Revivo Project",
         "track_title": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05e8\u05d5\u05e0\u05d4",
         "track_number": 1,
@@ -9902,7 +9746,7 @@
         ]
     },
     {
-        "idx": 729,
+        "idx": 717,
         "artist_name": "Childish Gambino",
         "track_title": "This Is America",
         "track_number": 1,
@@ -9915,7 +9759,7 @@
         ]
     },
     {
-        "idx": 730,
+        "idx": 718,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d1\u05d0\u05ea\u05d9 \u05d0\u05dc\u05d9\u05d9\u05da",
         "track_number": 1,
@@ -9928,7 +9772,7 @@
         ]
     },
     {
-        "idx": 731,
+        "idx": 719,
         "artist_name": "theAngelcy",
         "track_title": "My Baby Boy",
         "track_number": 2,
@@ -9941,7 +9785,7 @@
         ]
     },
     {
-        "idx": 732,
+        "idx": 720,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e9\u05d9\u05e9\u05d9 \u05d1\u05e6\u05d4\u05e8\u05d9\u05d9\u05dd",
         "track_number": 2,
@@ -9954,7 +9798,7 @@
         ]
     },
     {
-        "idx": 733,
+        "idx": 721,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d5\u05d0\u05ea \u05d0\u05d9\u05e0\u05da",
         "track_number": 18,
@@ -9967,7 +9811,7 @@
         ]
     },
     {
-        "idx": 734,
+        "idx": 722,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d9\u05de\u05d9\u05dd \u05d9\u05d2\u05d9\u05d3\u05d5",
         "track_number": 7,
@@ -9980,7 +9824,7 @@
         ]
     },
     {
-        "idx": 735,
+        "idx": 723,
         "artist_name": "YNW Melly",
         "track_title": "Murder on My Mind",
         "track_number": 13,
@@ -9993,7 +9837,7 @@
         ]
     },
     {
-        "idx": 736,
+        "idx": 724,
         "artist_name": "\u05e9\u05d9\u05dc\u05d4 \u05d1\u05df \u05e1\u05e2\u05d3\u05d5\u05df",
         "track_title": "\u05dc\u05e8\u05d5\u05e5 \u05d0\u05d7\u05e8\u05d9\u05d9\u05da",
         "track_number": 1,
@@ -10006,7 +9850,7 @@
         ]
     },
     {
-        "idx": 737,
+        "idx": 725,
         "artist_name": "Omer Adam",
         "track_title": "\u05d1\u05d5\u05e7\u05e8\u05e9\u05d8",
         "track_number": 12,
@@ -10019,46 +9863,7 @@
         ]
     },
     {
-        "idx": 738,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05d0\u05d7\u05e8\u05d9 \u05db\u05dc \u05d4\u05e9\u05e0\u05d9\u05dd",
-        "track_number": 1,
-        "isrc": "IL5301600145",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02fffa82e73f25160bdc5cca89",
-        "album_name": "\u05d0\u05d7\u05e8\u05d9 \u05db\u05dc \u05d4\u05e9\u05e0\u05d9\u05dd",
-        "release_date": "2017-02-01",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 739,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05d0\u05e0\u05d9",
-        "track_number": 1,
-        "isrc": "IL1012201672",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e025afed1d629cca6f5fbe58bb2",
-        "album_name": "\u05e1\u05d5\u05e3 \u05d4\u05e2\u05d5\u05dc\u05dd",
-        "release_date": "2023-06-01",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 740,
-        "artist_name": "Omer Adam",
-        "track_title": "\u05d1\u05e1\u05d5\u05e3 \u05d4\u05db\u05dc \u05d7\u05d5\u05dc\u05e3",
-        "track_number": 13,
-        "isrc": "IL5301700165",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02fffa82e73f25160bdc5cca89",
-        "album_name": "\u05d0\u05d7\u05e8\u05d9 \u05db\u05dc \u05d4\u05e9\u05e0\u05d9\u05dd",
-        "release_date": "2017-02-01",
-        "artists": [
-            "Omer Adam"
-        ]
-    },
-    {
-        "idx": 741,
+        "idx": 726,
         "artist_name": "Moshiko Mor",
         "track_title": "\u05d0\u05d7\u05d9",
         "track_number": 5,
@@ -10072,7 +9877,7 @@
         ]
     },
     {
-        "idx": 742,
+        "idx": 727,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e7\u05e6\u05d1 \u05de\u05d6\u05e8\u05d7\u05d9",
         "track_number": 2,
@@ -10085,7 +9890,7 @@
         ]
     },
     {
-        "idx": 743,
+        "idx": 728,
         "artist_name": "Playboi Carti",
         "track_title": "Magnolia",
         "track_number": 2,
@@ -10098,7 +9903,7 @@
         ]
     },
     {
-        "idx": 744,
+        "idx": 729,
         "artist_name": "Drake",
         "track_title": "Started From the Bottom",
         "track_number": 3,
@@ -10111,7 +9916,7 @@
         ]
     },
     {
-        "idx": 745,
+        "idx": 730,
         "artist_name": "Technotronic",
         "track_title": "Pump Up The Jam",
         "track_number": 1,
@@ -10124,7 +9929,7 @@
         ]
     },
     {
-        "idx": 746,
+        "idx": 731,
         "artist_name": "Technotronic",
         "track_title": "Pump Up The Jam - Edit",
         "track_number": 1,
@@ -10137,7 +9942,7 @@
         ]
     },
     {
-        "idx": 747,
+        "idx": 732,
         "artist_name": "Flipp Dinero",
         "track_title": "How I Move (feat. Lil Baby)",
         "track_number": 2,
@@ -10151,7 +9956,7 @@
         ]
     },
     {
-        "idx": 748,
+        "idx": 733,
         "artist_name": "Gunna",
         "track_title": "fukumean",
         "track_number": 6,
@@ -10164,7 +9969,7 @@
         ]
     },
     {
-        "idx": 749,
+        "idx": 734,
         "artist_name": "Eyal Golan",
         "track_title": "\u05ea\u05d1\u05d5\u05d0\u05d9 \u05d4\u05d9\u05d5\u05dd",
         "track_number": 1,
@@ -10177,7 +9982,7 @@
         ]
     },
     {
-        "idx": 750,
+        "idx": 735,
         "artist_name": "Full Trunk",
         "track_title": "Hey Hey",
         "track_number": 4,
@@ -10190,7 +9995,7 @@
         ]
     },
     {
-        "idx": 751,
+        "idx": 736,
         "artist_name": "Drake",
         "track_title": "Over",
         "track_number": 4,
@@ -10203,7 +10008,7 @@
         ]
     },
     {
-        "idx": 752,
+        "idx": 737,
         "artist_name": "Drake",
         "track_title": "Marvins Room",
         "track_number": 6,
@@ -10216,7 +10021,7 @@
         ]
     },
     {
-        "idx": 753,
+        "idx": 738,
         "artist_name": "Drake",
         "track_title": "Jungle",
         "track_number": 16,
@@ -10229,7 +10034,7 @@
         ]
     },
     {
-        "idx": 754,
+        "idx": 739,
         "artist_name": "Drake",
         "track_title": "Childs Play",
         "track_number": 14,
@@ -10242,7 +10047,7 @@
         ]
     },
     {
-        "idx": 755,
+        "idx": 740,
         "artist_name": "Drake",
         "track_title": "Pop Style",
         "track_number": 15,
@@ -10255,7 +10060,7 @@
         ]
     },
     {
-        "idx": 756,
+        "idx": 741,
         "artist_name": "Drake",
         "track_title": "Blem",
         "track_number": 7,
@@ -10268,7 +10073,7 @@
         ]
     },
     {
-        "idx": 757,
+        "idx": 742,
         "artist_name": "Drake",
         "track_title": "Way 2 Sexy (with Future & Young Thug)",
         "track_number": 7,
@@ -10283,7 +10088,7 @@
         ]
     },
     {
-        "idx": 758,
+        "idx": 743,
         "artist_name": "Gozlan",
         "track_title": "ESTA",
         "track_number": 1,
@@ -10296,7 +10101,7 @@
         ]
     },
     {
-        "idx": 759,
+        "idx": 744,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05db\u05dc\u05d1 \u05de\u05d9 \u05e9\u05dc\u05d0 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da",
         "track_number": 6,
@@ -10306,11 +10111,11 @@
         "release_date": "2015-07-01",
         "artists": [
             "Ravid Plotnik",
-            "\u05e8\u05d5\u05df \u05d1\u05d5\u05e0\u05e7\u05e8"
+            "Ron Bunker"
         ]
     },
     {
-        "idx": 760,
+        "idx": 745,
         "artist_name": "The Mamas & The Papas",
         "track_title": "California Dreamin'",
         "track_number": 7,
@@ -10323,7 +10128,7 @@
         ]
     },
     {
-        "idx": 761,
+        "idx": 746,
         "artist_name": "Balkan Beat Box",
         "track_title": "Hermetico",
         "track_number": 2,
@@ -10336,7 +10141,7 @@
         ]
     },
     {
-        "idx": 762,
+        "idx": 747,
         "artist_name": "Curtis Mayfield",
         "track_title": "Move on Up - Single Edit",
         "track_number": 1,
@@ -10349,7 +10154,7 @@
         ]
     },
     {
-        "idx": 763,
+        "idx": 748,
         "artist_name": "\u05e0\u05d9\u05d1 \u05d0\u05d1\u05d5\u05d8\u05d1\u05d5\u05dc",
         "track_title": "\u05de\u05d7\u05e8\u05d5\u05d6\u05ea \u05d0\u05d5\u05dc\u05d5 \u05d0\u05d5\u05dc\u05d5",
         "track_number": 1,
@@ -10362,7 +10167,7 @@
         ]
     },
     {
-        "idx": 764,
+        "idx": 749,
         "artist_name": "Imagine Dragons",
         "track_title": "Follow You",
         "track_number": 11,
@@ -10375,7 +10180,7 @@
         ]
     },
     {
-        "idx": 765,
+        "idx": 750,
         "artist_name": "50 Cent",
         "track_title": "P.I.M.P.",
         "track_number": 11,
@@ -10388,7 +10193,7 @@
         ]
     },
     {
-        "idx": 766,
+        "idx": 751,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05dc\u05d0 \u05e4\u05e8\u05d0\u05d9\u05d9\u05e8\u05d9\u05dd",
         "track_number": 5,
@@ -10401,7 +10206,7 @@
         ]
     },
     {
-        "idx": 767,
+        "idx": 752,
         "artist_name": "Lil Baby",
         "track_title": "Never Recover (Lil Baby & Gunna, Drake)",
         "track_number": 13,
@@ -10416,7 +10221,7 @@
         ]
     },
     {
-        "idx": 768,
+        "idx": 753,
         "artist_name": "Mashina",
         "track_title": "\u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd \u05d3\u05d5\u05dc\u05e7\u05d9\u05dd \u05e2\u05dc \u05d0\u05e9 \u05e7\u05d8\u05e0\u05d4",
         "track_number": 3,
@@ -10429,7 +10234,7 @@
         ]
     },
     {
-        "idx": 769,
+        "idx": 754,
         "artist_name": "ANOTR",
         "track_title": "Relax My Eyes",
         "track_number": 1,
@@ -10443,7 +10248,7 @@
         ]
     },
     {
-        "idx": 770,
+        "idx": 755,
         "artist_name": "Bee Gees",
         "track_title": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
         "track_number": 5,
@@ -10456,7 +10261,7 @@
         ]
     },
     {
-        "idx": 771,
+        "idx": 756,
         "artist_name": "Karolina",
         "track_title": "\u05e6\u05e8 \u05dc\u05d9 \u05e6'\u05e8\u05dc\u05d9",
         "track_number": 4,
@@ -10469,7 +10274,7 @@
         ]
     },
     {
-        "idx": 772,
+        "idx": 757,
         "artist_name": "Drake",
         "track_title": "Legend",
         "track_number": 1,
@@ -10482,8 +10287,8 @@
         ]
     },
     {
-        "idx": 773,
-        "artist_name": "Raviv Kaner",
+        "idx": 758,
+        "artist_name": "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8",
         "track_title": "\u05de\u05d9\u05dd \u05e2\u05de\u05d5\u05e7\u05d9\u05dd",
         "track_number": 1,
         "isrc": "IL7532212613",
@@ -10491,11 +10296,11 @@
         "album_name": "\u05de\u05d9\u05dd \u05e2\u05de\u05d5\u05e7\u05d9\u05dd",
         "release_date": "2022-01-18",
         "artists": [
-            "Raviv Kaner"
+            "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8"
         ]
     },
     {
-        "idx": 774,
+        "idx": 759,
         "artist_name": "Drake",
         "track_title": "Crew Love",
         "track_number": 4,
@@ -10509,7 +10314,7 @@
         ]
     },
     {
-        "idx": 775,
+        "idx": 760,
         "artist_name": "Avihai Hollender",
         "track_title": "\u05d1\u05d5\u05d0\u05d9",
         "track_number": 1,
@@ -10522,7 +10327,7 @@
         ]
     },
     {
-        "idx": 776,
+        "idx": 761,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05dc\u05d0 \u05de\u05d5\u05d5\u05ea\u05e8",
         "track_number": 1,
@@ -10535,7 +10340,7 @@
         ]
     },
     {
-        "idx": 777,
+        "idx": 762,
         "artist_name": "Ishay Ribo",
         "track_title": "\u05e1\u05d9\u05d1\u05ea \u05d4\u05e1\u05d9\u05d1\u05d5\u05ea",
         "track_number": 1,
@@ -10548,7 +10353,7 @@
         ]
     },
     {
-        "idx": 778,
+        "idx": 763,
         "artist_name": "Danny Sanderson",
         "track_title": "\u05d4\u05dc\u05d0 \u05e0\u05d5\u05d3\u05e2",
         "track_number": 1,
@@ -10561,7 +10366,7 @@
         ]
     },
     {
-        "idx": 779,
+        "idx": 764,
         "artist_name": "Omer Adam",
         "track_title": "\u05e1\u05d8\u05dc\u05d5\u05ea",
         "track_number": 1,
@@ -10574,7 +10379,7 @@
         ]
     },
     {
-        "idx": 780,
+        "idx": 765,
         "artist_name": "Gazoz",
         "track_title": "\u05d7\u05dc\u05dc\u05d9\u05ea",
         "track_number": 11,
@@ -10587,20 +10392,7 @@
         ]
     },
     {
-        "idx": 781,
-        "artist_name": "Ravid Plotnik",
-        "track_title": "\u05e0\u05e2\u05e0\u05e2",
-        "track_number": 11,
-        "isrc": "IL4291002224",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e021ca01773a293ac400bb300fb",
-        "album_name": "\u05d5\u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05d7\u05dc\u05e7 \u05d4\u05d0\u05d5\u05de\u05e0\u05d5\u05ea\u05d9",
-        "release_date": "2019-06-30",
-        "artists": [
-            "Ravid Plotnik"
-        ]
-    },
-    {
-        "idx": 782,
+        "idx": 766,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05db\u05dc \u05d4\u05d6\u05de\u05df \u05d4\u05d6\u05d4",
         "track_number": 2,
@@ -10613,7 +10405,7 @@
         ]
     },
     {
-        "idx": 783,
+        "idx": 767,
         "artist_name": "Eyal Golan",
         "track_title": "\u05de\u05ea\u05d2\u05e2\u05d2\u05e2",
         "track_number": 6,
@@ -10626,7 +10418,7 @@
         ]
     },
     {
-        "idx": 784,
+        "idx": 768,
         "artist_name": "Ishay Ribo",
         "track_title": "\u05d4\u05dc\u05d1 \u05e9\u05dc\u05d9",
         "track_number": 5,
@@ -10639,7 +10431,7 @@
         ]
     },
     {
-        "idx": 785,
+        "idx": 769,
         "artist_name": "Nathan Goshen",
         "track_title": "\u05e0\u05d7\u05db\u05d4 \u05dc\u05da",
         "track_number": 8,
@@ -10653,7 +10445,7 @@
         ]
     },
     {
-        "idx": 786,
+        "idx": 770,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05db\u05e4\u05e8\u05d4 \u05e9\u05dc\u05d9",
         "track_number": 6,
@@ -10666,7 +10458,7 @@
         ]
     },
     {
-        "idx": 787,
+        "idx": 771,
         "artist_name": "Ishay Ribo",
         "track_title": "\u05ea\u05d5\u05db\u05d5 \u05e8\u05e6\u05d5\u05e3 \u05d0\u05d4\u05d1\u05d4",
         "track_number": 2,
@@ -10679,7 +10471,7 @@
         ]
     },
     {
-        "idx": 788,
+        "idx": 772,
         "artist_name": "Nathan Goshen",
         "track_title": "\u05d3\u05d1\u05e8\u05d9 \u05d0\u05d9\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
         "track_number": 3,
@@ -10692,7 +10484,7 @@
         ]
     },
     {
-        "idx": 789,
+        "idx": 773,
         "artist_name": "Idan Amedi",
         "track_title": "\u05d1\u05d6\u05de\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
         "track_number": 2,
@@ -10705,7 +10497,7 @@
         ]
     },
     {
-        "idx": 790,
+        "idx": 774,
         "artist_name": "Full Trunk",
         "track_title": "\u05d5\u05d5\u05d0\u05dc\u05e7",
         "track_number": 3,
@@ -10718,7 +10510,7 @@
         ]
     },
     {
-        "idx": 791,
+        "idx": 775,
         "artist_name": "Idan Yaniv",
         "track_title": "\u05d0\u05ea \u05d9\u05e4\u05d4",
         "track_number": 1,
@@ -10731,22 +10523,7 @@
         ]
     },
     {
-        "idx": 792,
-        "artist_name": "Aaron Smith",
-        "track_title": "Dancin (feat. Luvli) - Krono Remix",
-        "track_number": 1,
-        "isrc": "QMLA71400326",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02f7a3a5656060030a0d24855c",
-        "album_name": "Dancin (feat. Luvli) [Krono Remix]",
-        "release_date": "2014-11-07",
-        "artists": [
-            "Aaron Smith",
-            "Krono",
-            "Luvli"
-        ]
-    },
-    {
-        "idx": 793,
+        "idx": 776,
         "artist_name": "Nathan Goshen",
         "track_title": "\u05d6\u05d4 \u05e9\u05dc\u05e0\u05d5",
         "track_number": 4,
@@ -10759,7 +10536,7 @@
         ]
     },
     {
-        "idx": 794,
+        "idx": 777,
         "artist_name": "KALEO",
         "track_title": "Way down We Go",
         "track_number": 2,
@@ -10772,7 +10549,7 @@
         ]
     },
     {
-        "idx": 795,
+        "idx": 778,
         "artist_name": "Idan Rafael Haviv",
         "track_title": "\u05d0\u05d9\u05df \u05e4\u05d4 \u05de\u05e7\u05d5\u05dd",
         "track_number": 7,
@@ -10785,7 +10562,7 @@
         ]
     },
     {
-        "idx": 796,
+        "idx": 779,
         "artist_name": "Full Trunk",
         "track_title": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
         "track_number": 9,
@@ -10798,7 +10575,7 @@
         ]
     },
     {
-        "idx": 797,
+        "idx": 780,
         "artist_name": "Bakermat",
         "track_title": "Baian\u00e1",
         "track_number": 4,
@@ -10811,7 +10588,7 @@
         ]
     },
     {
-        "idx": 798,
+        "idx": 781,
         "artist_name": "Bakermat",
         "track_title": "One Day (Vandaag) - Radio Edit",
         "track_number": 1,
@@ -10824,7 +10601,7 @@
         ]
     },
     {
-        "idx": 799,
+        "idx": 782,
         "artist_name": "Peggy Gou",
         "track_title": "(It Goes Like) Nanana - Edit",
         "track_number": 1,
@@ -10837,7 +10614,7 @@
         ]
     },
     {
-        "idx": 800,
+        "idx": 783,
         "artist_name": "Mayor",
         "track_title": "\u05de\u05dc\u05d0\u05db\u05d9\u05dd",
         "track_number": 11,
@@ -10851,8 +10628,8 @@
         ]
     },
     {
-        "idx": 801,
-        "artist_name": "Raviv Kaner",
+        "idx": 784,
+        "artist_name": "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8",
         "track_title": "\u05d2\u05d5\u05dc\u05e0\u05d9 \u05e9\u05dc\u05d9",
         "track_number": 1,
         "isrc": "IL7532212750",
@@ -10860,11 +10637,11 @@
         "album_name": "\u05d2\u05d5\u05dc\u05e0\u05d9 \u05e9\u05dc\u05d9",
         "release_date": "2022-03-20",
         "artists": [
-            "Raviv Kaner"
+            "\u05e8\u05d1\u05d9\u05d1 \u05db\u05e0\u05e8"
         ]
     },
     {
-        "idx": 802,
+        "idx": 785,
         "artist_name": "Elai Botner",
         "track_title": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e2\u05d6\u05d5\u05d1",
         "track_number": 2,
@@ -10878,7 +10655,7 @@
         ]
     },
     {
-        "idx": 803,
+        "idx": 786,
         "artist_name": "Martina Camargo",
         "track_title": "Guataqu\u00ed - Berroche",
         "track_number": 3,
@@ -10891,7 +10668,7 @@
         ]
     },
     {
-        "idx": 804,
+        "idx": 787,
         "artist_name": "Tom Santa",
         "track_title": "Rainfall (Praise You)",
         "track_number": 1,
@@ -10904,7 +10681,7 @@
         ]
     },
     {
-        "idx": 805,
+        "idx": 788,
         "artist_name": "Hanan Ben Ari",
         "track_title": "\u05d0\u05de\u05d0 \u05d0\u05dd \u05d4\u05d9\u05d9\u05ea\u05d9",
         "track_number": 4,
@@ -10917,7 +10694,7 @@
         ]
     },
     {
-        "idx": 806,
+        "idx": 789,
         "artist_name": "Ariel Zilber",
         "track_title": "\u05d5\u05d0\u05d9\u05da \u05e9\u05dc\u05d0",
         "track_number": 9,
@@ -10930,7 +10707,7 @@
         ]
     },
     {
-        "idx": 807,
+        "idx": 790,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d3\u05d1\u05e9 \u05d1\u05e9\u05e4\u05ea\u05d9\u05d9\u05dd",
         "track_number": 4,
@@ -10940,11 +10717,11 @@
         "release_date": "2016-04-10",
         "artists": [
             "Eyal Golan",
-            "Ma Kashur"
+            "\u05de\u05d4 \u05e7\u05e9\u05d5\u05e8"
         ]
     },
     {
-        "idx": 808,
+        "idx": 791,
         "artist_name": "Avraham Tal",
         "track_title": "\u05de\u05d9 \u05dc\u05d0 \u05d9\u05d1\u05d5\u05d0",
         "track_number": 1,
@@ -10958,7 +10735,7 @@
         ]
     },
     {
-        "idx": 809,
+        "idx": 792,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e2\u05d5\u05d3 \u05d0\u05d7 \u05d0\u05d7\u05d3",
         "track_number": 6,
@@ -10971,7 +10748,7 @@
         ]
     },
     {
-        "idx": 810,
+        "idx": 793,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d1\u05e1\u05dc\u05d5\u05df \u05e9\u05dc \u05e1\u05dc\u05d5\u05de\u05d5\u05df",
         "track_number": 5,
@@ -10984,7 +10761,7 @@
         ]
     },
     {
-        "idx": 811,
+        "idx": 794,
         "artist_name": "Hanan Ben Ari",
         "track_title": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05e0\u05d5 \u05ea\u05d5\u05ea\u05d9\u05dd",
         "track_number": 8,
@@ -10997,7 +10774,7 @@
         ]
     },
     {
-        "idx": 812,
+        "idx": 795,
         "artist_name": "Hanan Ben Ari",
         "track_title": "\u05d5\u05d9\u05e7\u05d9\u05e4\u05d3\u05d9\u05d4",
         "track_number": 1,
@@ -11010,7 +10787,7 @@
         ]
     },
     {
-        "idx": 813,
+        "idx": 796,
         "artist_name": "Red Hot Chili Peppers",
         "track_title": "Californication",
         "track_number": 6,
@@ -11023,7 +10800,7 @@
         ]
     },
     {
-        "idx": 814,
+        "idx": 797,
         "artist_name": "Beit Habubot",
         "track_title": "\u05e9\u05d9\u05e8 \u05d1\u05e2\u05e4\u05e8\u05d5\u05df",
         "track_number": 7,
@@ -11036,7 +10813,7 @@
         ]
     },
     {
-        "idx": 815,
+        "idx": 798,
         "artist_name": "theAngelcy",
         "track_title": "Freedom Fighters",
         "track_number": 3,
@@ -11049,7 +10826,7 @@
         ]
     },
     {
-        "idx": 816,
+        "idx": 799,
         "artist_name": "Beit Habubot",
         "track_title": "\u05e2\u05d3 \u05e9\u05d1\u05d0\u05ea",
         "track_number": 5,
@@ -11062,7 +10839,7 @@
         ]
     },
     {
-        "idx": 817,
+        "idx": 800,
         "artist_name": "Mashina",
         "track_title": "\u05e8\u05db\u05d1\u05ea \u05dc\u05d9\u05dc\u05d4 \u05dc\u05e7\u05d4\u05d9\u05e8",
         "track_number": 2,
@@ -11075,7 +10852,7 @@
         ]
     },
     {
-        "idx": 818,
+        "idx": 801,
         "artist_name": "\u05e4\u05e8\u05d9\u05e9\u05de\u05df \u05d5\u05d4\u05d7\u05dc\u05d5\u05e6\u05d9\u05dd",
         "track_title": "\u05d9\u05d0\u05dc\u05dc\u05d4 \u05d9\u05d0 \u05e0\u05e1\u05e8\u05d0\u05dc\u05dc\u05d4",
         "track_number": 2,
@@ -11088,7 +10865,7 @@
         ]
     },
     {
-        "idx": 819,
+        "idx": 802,
         "artist_name": "Edward Sharpe & The Magnetic Zeros",
         "track_title": "Home",
         "track_number": 6,
@@ -11101,20 +10878,20 @@
         ]
     },
     {
-        "idx": 820,
+        "idx": 803,
         "artist_name": "Logic",
         "track_title": "Buried Alive",
         "track_number": 5,
         "isrc": "USUM71414218",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02a4c35326f6fe6676c10e31ac",
-        "album_name": "Under Pressure - Deluxe",
+        "album_name": "Under Pressure (Deluxe)",
         "release_date": "2014-10-21",
         "artists": [
             "Logic"
         ]
     },
     {
-        "idx": 821,
+        "idx": 804,
         "artist_name": "Beit Habubot",
         "track_title": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05d9\u05d9\u05ea",
         "track_number": 1,
@@ -11127,7 +10904,7 @@
         ]
     },
     {
-        "idx": 822,
+        "idx": 805,
         "artist_name": "Idan Raichel",
         "track_title": "\u05de\u05de\u05e2\u05de\u05e7\u05d9\u05dd",
         "track_number": 5,
@@ -11140,7 +10917,7 @@
         ]
     },
     {
-        "idx": 823,
+        "idx": 806,
         "artist_name": "Doli & Penn",
         "track_title": "\u05ea\u05e8\u05d5\u05e6\u05d9 \u05d0\u05dc\u05d9\u05d5",
         "track_number": 3,
@@ -11155,7 +10932,7 @@
         ]
     },
     {
-        "idx": 824,
+        "idx": 807,
         "artist_name": "2Pac",
         "track_title": "How Do U Want It (ft. K-Ci & JoJo)",
         "track_number": 5,
@@ -11169,7 +10946,7 @@
         ]
     },
     {
-        "idx": 825,
+        "idx": 808,
         "artist_name": "Moby",
         "track_title": "Extreme Ways",
         "track_number": 9,
@@ -11182,12 +10959,12 @@
         ]
     },
     {
-        "idx": 826,
+        "idx": 809,
         "artist_name": "Moby",
         "track_title": "Porcelain",
         "track_number": 3,
         "isrc": "GBAJH9900036",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0217060254037dd8541abb17c5",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f675ddc7a8c113362f983f8b",
         "album_name": "Play",
         "release_date": "1999-05-17",
         "artists": [
@@ -11195,7 +10972,7 @@
         ]
     },
     {
-        "idx": 827,
+        "idx": 810,
         "artist_name": "Creedence Clearwater Revival",
         "track_title": "Have You Ever Seen The Rain",
         "track_number": 4,
@@ -11208,7 +10985,7 @@
         ]
     },
     {
-        "idx": 828,
+        "idx": 811,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05de\u05de\u05e9\u05dc\u05d4 \u05d6\u05d4 \u05e4\u05e9\u05e2 \u05de\u05d0\u05d5\u05e8\u05d2\u05df",
         "track_number": 10,
@@ -11221,7 +10998,7 @@
         ]
     },
     {
-        "idx": 829,
+        "idx": 812,
         "artist_name": "Berry Sakharof",
         "track_title": "\u05db\u05db\u05d4 \u05d6\u05d4 (\u05dc\u05d0\u05d4\u05d5\u05d1 \u05d0\u05d5\u05ea\u05da)",
         "track_number": 1,
@@ -11234,7 +11011,7 @@
         ]
     },
     {
-        "idx": 830,
+        "idx": 813,
         "artist_name": "Idan Amedi",
         "track_title": "\u05ea\u05e1\u05ea\u05db\u05dc\u05d9 \u05dc\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
         "track_number": 7,
@@ -11247,7 +11024,7 @@
         ]
     },
     {
-        "idx": 831,
+        "idx": 814,
         "artist_name": "Idan Raichel",
         "track_title": "\u05d7\u05dc\u05d5\u05de\u05d5\u05ea \u05e9\u05dc \u05d0\u05d7\u05e8\u05d9\u05dd",
         "track_number": 5,
@@ -11260,7 +11037,7 @@
         ]
     },
     {
-        "idx": 832,
+        "idx": 815,
         "artist_name": "Oliver Anthony Music",
         "track_title": "Rich Men North of Richmond",
         "track_number": 1,
@@ -11273,7 +11050,7 @@
         ]
     },
     {
-        "idx": 833,
+        "idx": 816,
         "artist_name": "Gunter Kallmann Choir",
         "track_title": "Daydream",
         "track_number": 1,
@@ -11286,7 +11063,7 @@
         ]
     },
     {
-        "idx": 834,
+        "idx": 817,
         "artist_name": "Kanye West",
         "track_title": "Last Call",
         "track_number": 21,
@@ -11299,7 +11076,7 @@
         ]
     },
     {
-        "idx": 835,
+        "idx": 818,
         "artist_name": "George Michael",
         "track_title": "Careless Whisper",
         "track_number": 3,
@@ -11312,7 +11089,7 @@
         ]
     },
     {
-        "idx": 836,
+        "idx": 819,
         "artist_name": "Danny Sanderson",
         "track_title": "\u05d6\u05d0\u05ea \u05e9\u05de\u05e2\u05dc \u05dc\u05de\u05e6\u05d5\u05e4\u05d4",
         "track_number": 13,
@@ -11326,7 +11103,7 @@
         ]
     },
     {
-        "idx": 837,
+        "idx": 820,
         "artist_name": "Kanye West",
         "track_title": "Get Em High",
         "track_number": 9,
@@ -11341,7 +11118,7 @@
         ]
     },
     {
-        "idx": 838,
+        "idx": 821,
         "artist_name": "Kanye West",
         "track_title": "Breathe In Breathe Out",
         "track_number": 13,
@@ -11355,7 +11132,7 @@
         ]
     },
     {
-        "idx": 839,
+        "idx": 822,
         "artist_name": "Avraham Tal",
         "track_title": "\u05e9\u05d1\u05d5\u05e2 \u05d8\u05d5\u05d1",
         "track_number": 1,
@@ -11368,7 +11145,7 @@
         ]
     },
     {
-        "idx": 840,
+        "idx": 823,
         "artist_name": "Beach House",
         "track_title": "Space Song",
         "track_number": 3,
@@ -11381,7 +11158,7 @@
         ]
     },
     {
-        "idx": 841,
+        "idx": 824,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05e1\u05d1\u05d1\u05d4",
         "track_number": 4,
@@ -11394,7 +11171,7 @@
         ]
     },
     {
-        "idx": 842,
+        "idx": 825,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05de\u05dc\u05da \u05d4\u05e8\u05d0\u05e4 \u05e9\u05dc \u05d4\u05de\u05d6\u05e8\u05d7 \u05d4\u05ea\u05d9\u05db\u05d5\u05df",
         "track_number": 5,
@@ -11407,7 +11184,7 @@
         ]
     },
     {
-        "idx": 843,
+        "idx": 826,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05de\u05d4 \u05e9\u05d1\u05d0 \u05d1\u05d0",
         "track_number": 3,
@@ -11420,7 +11197,7 @@
         ]
     },
     {
-        "idx": 844,
+        "idx": 827,
         "artist_name": "Ravid Plotnik",
         "track_title": "\u05d0\u05dc\u05e2\u05d3",
         "track_number": 5,
@@ -11433,7 +11210,7 @@
         ]
     },
     {
-        "idx": 845,
+        "idx": 828,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d4\u05e0\u05d4 \u05d0\u05e0\u05d9 \u05d1\u05d0",
         "track_number": 4,
@@ -11446,7 +11223,7 @@
         ]
     },
     {
-        "idx": 846,
+        "idx": 829,
         "artist_name": "Blue Swede",
         "track_title": "Hooked On A Feeling",
         "track_number": 1,
@@ -11460,7 +11237,7 @@
         ]
     },
     {
-        "idx": 847,
+        "idx": 830,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d0\u05e0\u05d9 \u05de\u05d0\u05de\u05d9\u05df",
         "track_number": 2,
@@ -11473,7 +11250,7 @@
         ]
     },
     {
-        "idx": 848,
+        "idx": 831,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4",
         "track_number": 7,
@@ -11486,7 +11263,7 @@
         ]
     },
     {
-        "idx": 849,
+        "idx": 832,
         "artist_name": "50 Cent",
         "track_title": "21 Questions",
         "track_number": 14,
@@ -11500,7 +11277,7 @@
         ]
     },
     {
-        "idx": 850,
+        "idx": 833,
         "artist_name": "Eyal Golan",
         "track_title": "\u05dc\u05e7\u05e0\u05d5\u05ea \u05dc\u05da \u05d9\u05d4\u05dc\u05d5\u05dd",
         "track_number": 2,
@@ -11513,7 +11290,7 @@
         ]
     },
     {
-        "idx": 851,
+        "idx": 834,
         "artist_name": "2Pac",
         "track_title": "Picture Me Rollin'",
         "track_number": 7,
@@ -11529,7 +11306,7 @@
         ]
     },
     {
-        "idx": 852,
+        "idx": 835,
         "artist_name": "2Pac",
         "track_title": "Can't C Me",
         "track_number": 1,
@@ -11542,7 +11319,7 @@
         ]
     },
     {
-        "idx": 853,
+        "idx": 836,
         "artist_name": "Eiffel 65",
         "track_title": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
         "track_number": 2,
@@ -11556,7 +11333,7 @@
         ]
     },
     {
-        "idx": 854,
+        "idx": 837,
         "artist_name": "Asaf Avidan",
         "track_title": "Reckoning Song",
         "track_number": 5,
@@ -11570,7 +11347,7 @@
         ]
     },
     {
-        "idx": 855,
+        "idx": 838,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05dc\u05d6\u05d5\u05d6",
         "track_number": 2,
@@ -11584,7 +11361,7 @@
         ]
     },
     {
-        "idx": 856,
+        "idx": 839,
         "artist_name": "Full Trunk",
         "track_title": "I Know the Way",
         "track_number": 1,
@@ -11597,7 +11374,7 @@
         ]
     },
     {
-        "idx": 857,
+        "idx": 840,
         "artist_name": "Efraim Shamir",
         "track_title": "\u05e2\u05e8\u05d1 \u05e9\u05dc \u05d9\u05d5\u05dd \u05d1\u05d4\u05d9\u05e8",
         "track_number": 1,
@@ -11610,7 +11387,7 @@
         ]
     },
     {
-        "idx": 858,
+        "idx": 841,
         "artist_name": "Catfish and the Bottlemen",
         "track_title": "Cocoon",
         "track_number": 3,
@@ -11623,7 +11400,7 @@
         ]
     },
     {
-        "idx": 859,
+        "idx": 842,
         "artist_name": "Timbaland",
         "track_title": "The Way I Are",
         "track_number": 4,
@@ -11638,7 +11415,7 @@
         ]
     },
     {
-        "idx": 860,
+        "idx": 843,
         "artist_name": "Simon & Garfunkel",
         "track_title": "The Sound of Silence",
         "track_number": 4,
@@ -11651,7 +11428,7 @@
         ]
     },
     {
-        "idx": 861,
+        "idx": 844,
         "artist_name": "Danny Sanderson",
         "track_title": "\u05d6\u05d4 \u05d4\u05db\u05dc \u05d1\u05e9\u05d1\u05d9\u05dc\u05da",
         "track_number": 10,
@@ -11665,7 +11442,7 @@
         ]
     },
     {
-        "idx": 862,
+        "idx": 845,
         "artist_name": "Timbaland",
         "track_title": "Apologize",
         "track_number": 16,
@@ -11679,12 +11456,12 @@
         ]
     },
     {
-        "idx": 863,
+        "idx": 846,
         "artist_name": "Sean Paul",
         "track_title": "Temperature",
         "track_number": 11,
         "isrc": "USAT20505520",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0269ba684e533706bafe248ef3",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d98221377ef3b1a7ad0a5d33",
         "album_name": "The Trinity",
         "release_date": "2005-09-27",
         "artists": [
@@ -11692,7 +11469,7 @@
         ]
     },
     {
-        "idx": 864,
+        "idx": 847,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e7\u05dc\u05d9\u05e4\u05d5\u05e8\u05e0\u05d9\u05d4",
         "track_number": 2,
@@ -11705,7 +11482,7 @@
         ]
     },
     {
-        "idx": 865,
+        "idx": 848,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05db\u05dc \u05d4\u05e6'\u05d5\u05e6'\u05d5\u05ea",
         "track_number": 5,
@@ -11718,7 +11495,7 @@
         ]
     },
     {
-        "idx": 866,
+        "idx": 849,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d4\u05db\u05dc \u05d9\u05e1\u05ea\u05d3\u05e8",
         "track_number": 8,
@@ -11732,7 +11509,7 @@
         ]
     },
     {
-        "idx": 867,
+        "idx": 850,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d7\u05dc\u05d9\u05e4\u05d5\u05ea",
         "track_number": 4,
@@ -11745,7 +11522,7 @@
         ]
     },
     {
-        "idx": 868,
+        "idx": 851,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
         "track_number": 3,
@@ -11758,7 +11535,7 @@
         ]
     },
     {
-        "idx": 869,
+        "idx": 852,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e7\u05de\u05ea\u05d9",
         "track_number": 1,
@@ -11772,7 +11549,7 @@
         ]
     },
     {
-        "idx": 870,
+        "idx": 853,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05e9\u05dc\u05d5\u05dd, \u05e1\u05dc\u05d0\u05dd, \u05e4\u05d9\u05e1",
         "track_number": 3,
@@ -11785,7 +11562,7 @@
         ]
     },
     {
-        "idx": 871,
+        "idx": 854,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05d4\u05db\u05d0\u05e4\u05d4 \u05d4\u05de\u05e6\u05dc\u05e6\u05dc\u05ea",
         "track_number": 6,
@@ -11798,7 +11575,7 @@
         ]
     },
     {
-        "idx": 872,
+        "idx": 855,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05dc\u05d0 \u05de\u05d4 \u05e9\u05d9\u05e4\u05d9\u05dc \u05d0\u05d5\u05ea\u05d9",
         "track_number": 6,
@@ -11812,7 +11589,7 @@
         ]
     },
     {
-        "idx": 873,
+        "idx": 856,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05de\u05d4\u05d1\u05de\u05d4 \u05dc\u05d4\u05e4\u05e6\u05d9\u05e5",
         "track_number": 9,
@@ -11825,7 +11602,7 @@
         ]
     },
     {
-        "idx": 874,
+        "idx": 857,
         "artist_name": "Tyler, The Creator",
         "track_title": "EARFQUAKE",
         "track_number": 2,
@@ -11838,7 +11615,7 @@
         ]
     },
     {
-        "idx": 875,
+        "idx": 858,
         "artist_name": "Tyler, The Creator",
         "track_title": "See You Again (feat. Kali Uchis)",
         "track_number": 4,
@@ -11852,7 +11629,7 @@
         ]
     },
     {
-        "idx": 876,
+        "idx": 859,
         "artist_name": "Peggy March",
         "track_title": "I Will Follow Him",
         "track_number": 1,
@@ -11865,7 +11642,7 @@
         ]
     },
     {
-        "idx": 877,
+        "idx": 860,
         "artist_name": "Mashina",
         "track_title": "\u05d4\u05d9\u05d0 \u05d4\u05ea\u05d5\u05d5\u05db\u05d7\u05d4 \u05d0\u05d9\u05ea\u05d5 \u05e9\u05e2\u05d5\u05ea",
         "track_number": 10,
@@ -11878,7 +11655,7 @@
         ]
     },
     {
-        "idx": 878,
+        "idx": 861,
         "artist_name": "Kenny Loggins",
         "track_title": "Danger Zone - From \"Top Gun\" Original Soundtrack",
         "track_number": 5,
@@ -11891,7 +11668,7 @@
         ]
     },
     {
-        "idx": 879,
+        "idx": 862,
         "artist_name": "Danny Robas",
         "track_title": "\u05dc\u05d0 \u05e0\u05e8\u05d3\u05de\u05ea \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
         "track_number": 3,
@@ -11904,7 +11681,7 @@
         ]
     },
     {
-        "idx": 880,
+        "idx": 863,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d9\u05e4\u05d9\u05d5\u05e4\u05d4",
         "track_number": 10,
@@ -11917,20 +11694,20 @@
         ]
     },
     {
-        "idx": 881,
+        "idx": 864,
         "artist_name": "Wings",
         "track_title": "Live And Let Die - 2018 Remaster",
         "track_number": 6,
         "isrc": "GBCCS1800097",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02395734c8512bd160c6ee3f56",
-        "album_name": "Red Rose Speedway - Archive Collection",
+        "album_name": "Red Rose Speedway (Archive Collection)",
         "release_date": "1973-04-30",
         "artists": [
             "Wings"
         ]
     },
     {
-        "idx": 882,
+        "idx": 865,
         "artist_name": "Moshik Afia",
         "track_title": "\u05ea\u05df \u05dc\u05d4",
         "track_number": 3,
@@ -11943,7 +11720,7 @@
         ]
     },
     {
-        "idx": 883,
+        "idx": 866,
         "artist_name": "Cidinho",
         "track_title": "Rap Das Armas",
         "track_number": 1,
@@ -11957,7 +11734,7 @@
         ]
     },
     {
-        "idx": 884,
+        "idx": 867,
         "artist_name": "Donna Summer",
         "track_title": "Hot Stuff",
         "track_number": 1,
@@ -11970,7 +11747,7 @@
         ]
     },
     {
-        "idx": 885,
+        "idx": 868,
         "artist_name": "Herbie Mann",
         "track_title": "Superman",
         "track_number": 1,
@@ -11983,7 +11760,7 @@
         ]
     },
     {
-        "idx": 886,
+        "idx": 869,
         "artist_name": "Mashina",
         "track_title": "\u05de\u05e9\u05d4\u05d5 \u05e7\u05d8\u05df \u05d5\u05d8\u05d5\u05d1",
         "track_number": 5,
@@ -11996,7 +11773,7 @@
         ]
     },
     {
-        "idx": 887,
+        "idx": 870,
         "artist_name": "Boys Town Gang",
         "track_title": "Can't Take My Eyes Off You - Original Extended Version",
         "track_number": 1,
@@ -12009,7 +11786,7 @@
         ]
     },
     {
-        "idx": 888,
+        "idx": 871,
         "artist_name": "Moshik Afia",
         "track_title": "\u05d0\u05d9\u05df \u05d4\u05d2\u05d9\u05d5\u05df \u05d1\u05d0\u05d4\u05d1\u05d4",
         "track_number": 5,
@@ -12022,7 +11799,7 @@
         ]
     },
     {
-        "idx": 889,
+        "idx": 872,
         "artist_name": "Ehud Banai",
         "track_title": "\u05d1\u05dc\u05d5\u05d6 \u05db\u05e0\u05e2\u05e0\u05d9",
         "track_number": 10,
@@ -12035,7 +11812,7 @@
         ]
     },
     {
-        "idx": 890,
+        "idx": 873,
         "artist_name": "Whigfield",
         "track_title": "Be My Baby",
         "track_number": 1,
@@ -12048,7 +11825,7 @@
         ]
     },
     {
-        "idx": 891,
+        "idx": 874,
         "artist_name": "Survivor",
         "track_title": "Eye of the Tiger",
         "track_number": 4,
@@ -12061,7 +11838,7 @@
         ]
     },
     {
-        "idx": 892,
+        "idx": 875,
         "artist_name": "Moshik Afia",
         "track_title": "\u05d4\u05e9\u05de\u05d9\u05dd \u05de\u05e2\u05dc\u05d9\u05e0\u05d5",
         "track_number": 8,
@@ -12074,7 +11851,7 @@
         ]
     },
     {
-        "idx": 893,
+        "idx": 876,
         "artist_name": "The High Windows",
         "track_title": "\u05d0\u05d9\u05e0\u05da \u05d9\u05db\u05d5\u05dc\u05d4",
         "track_number": 2,
@@ -12087,7 +11864,7 @@
         ]
     },
     {
-        "idx": 894,
+        "idx": 877,
         "artist_name": "Bill Conti",
         "track_title": "Gonna Fly Now - Theme From \"Rocky\"",
         "track_number": 1,
@@ -12100,7 +11877,7 @@
         ]
     },
     {
-        "idx": 895,
+        "idx": 878,
         "artist_name": "Monica Sex",
         "track_title": "\u05d2\u05e9\u05dd \u05d7\u05d6\u05e7",
         "track_number": 9,
@@ -12113,7 +11890,7 @@
         ]
     },
     {
-        "idx": 896,
+        "idx": 879,
         "artist_name": "Mashina",
         "track_title": "\u05e9\u05dc\u05d7 \u05dc\u05d9 \u05de\u05dc\u05d0\u05da",
         "track_number": 2,
@@ -12126,7 +11903,7 @@
         ]
     },
     {
-        "idx": 897,
+        "idx": 880,
         "artist_name": "Gary Glitter",
         "track_title": "Rock 'n' Roll (Part 2)",
         "track_number": 12,
@@ -12139,7 +11916,7 @@
         ]
     },
     {
-        "idx": 898,
+        "idx": 881,
         "artist_name": "Monica Sex",
         "track_title": "\u05de\u05db\u05d4 \u05d0\u05e4\u05d5\u05e8\u05d4",
         "track_number": 1,
@@ -12152,20 +11929,20 @@
         ]
     },
     {
-        "idx": 899,
+        "idx": 882,
         "artist_name": "Frank Sinatra",
         "track_title": "Come Fly With Me - 2008 Remastered",
         "track_number": 1,
         "isrc": "USRH10723022",
         "album_art": "https://i.scdn.co/image/ab67616d00001e02b81d66d1416afa139d12767b",
-        "album_name": "Nothing But The Best - 2008 Remastered",
+        "album_name": "Nothing But The Best (2008 Remastered)",
         "release_date": "2008-05-13",
         "artists": [
             "Frank Sinatra"
         ]
     },
     {
-        "idx": 900,
+        "idx": 883,
         "artist_name": "Galt MacDermot",
         "track_title": "Hair",
         "track_number": 13,
@@ -12179,7 +11956,7 @@
         ]
     },
     {
-        "idx": 901,
+        "idx": 884,
         "artist_name": "Bill Conti",
         "track_title": "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006",
         "track_number": 3,
@@ -12192,7 +11969,7 @@
         ]
     },
     {
-        "idx": 902,
+        "idx": 885,
         "artist_name": "Frank Sinatra",
         "track_title": "Fly Me To The Moon (In Other Words)",
         "track_number": 11,
@@ -12206,7 +11983,7 @@
         ]
     },
     {
-        "idx": 903,
+        "idx": 886,
         "artist_name": "Ennio Morricone",
         "track_title": "A Fistful of Dollars - Titles",
         "track_number": 1,
@@ -12219,7 +11996,7 @@
         ]
     },
     {
-        "idx": 904,
+        "idx": 887,
         "artist_name": "Lehakat Pikud Merkaz",
         "track_title": "\u05e9\u05d5\u05de\u05e8 \u05d4\u05d7\u05d5\u05de\u05d5\u05ea",
         "track_number": 16,
@@ -12232,7 +12009,7 @@
         ]
     },
     {
-        "idx": 905,
+        "idx": 888,
         "artist_name": "Moshe Peretz",
         "track_title": "\u05d0\u05dc\u05d9\u05d9\u05da",
         "track_number": 6,
@@ -12245,7 +12022,7 @@
         ]
     },
     {
-        "idx": 906,
+        "idx": 889,
         "artist_name": "Dolly Parton",
         "track_title": "9 to 5",
         "track_number": 8,
@@ -12258,13 +12035,13 @@
         ]
     },
     {
-        "idx": 907,
+        "idx": 890,
         "artist_name": "Gwen Stefani",
-        "track_title": "Rich Girl",
+        "track_title": "Rich Girl - Remastered 2019",
         "track_number": 2,
         "isrc": "USUM71923373",
         "album_art": "https://i.scdn.co/image/ab67616d00001e024f87438d5cbe031112279bd0",
-        "album_name": "Love Angel Music Baby - 15th Anniversary Edition",
+        "album_name": "Love. Angel. Music. Baby. (15th Anniversary Edition / Remastered 2019)",
         "release_date": "2019-11-22",
         "artists": [
             "Gwen Stefani",
@@ -12272,7 +12049,7 @@
         ]
     },
     {
-        "idx": 908,
+        "idx": 891,
         "artist_name": "Hozier",
         "track_title": "Too Sweet",
         "track_number": 1,
@@ -12285,7 +12062,7 @@
         ]
     },
     {
-        "idx": 909,
+        "idx": 892,
         "artist_name": "Hadag Nahash",
         "track_title": "\u05de\u05d4 \u05e0\u05e2\u05e9\u05d4?",
         "track_number": 13,
@@ -12298,7 +12075,7 @@
         ]
     },
     {
-        "idx": 910,
+        "idx": 893,
         "artist_name": "Eyal Golan",
         "track_title": "\u05de\u05ea\u05d9 \u05d0\u05ea \u05d7\u05d5\u05d6\u05e8\u05ea",
         "track_number": 7,
@@ -12311,7 +12088,7 @@
         ]
     },
     {
-        "idx": 911,
+        "idx": 894,
         "artist_name": "Survivor",
         "track_title": "Burning Heart - From \"Rocky IV\" Soundtrack",
         "track_number": 3,
@@ -12324,7 +12101,7 @@
         ]
     },
     {
-        "idx": 912,
+        "idx": 895,
         "artist_name": "Assaf Amdursky",
         "track_title": "\u05e8\u05db\u05d1\u05ea \u05dc\u05e6\u05e4\u05d5\u05df",
         "track_number": 1,
@@ -12337,7 +12114,7 @@
         ]
     },
     {
-        "idx": 913,
+        "idx": 896,
         "artist_name": "Full Trunk",
         "track_title": "\u05e8\u05d1\u05e2 \u05e9\u05e2\u05d4",
         "track_number": 1,
@@ -12350,7 +12127,7 @@
         ]
     },
     {
-        "idx": 914,
+        "idx": 897,
         "artist_name": "Shir Levi",
         "track_title": "\u05e9\u05d0\u05e8\u05d9\u05d5\u05ea \u05de\u05e2\u05e6\u05de\u05d9",
         "track_number": 1,
@@ -12363,7 +12140,7 @@
         ]
     },
     {
-        "idx": 915,
+        "idx": 898,
         "artist_name": "Full Trunk",
         "track_title": "\u05e0\u05d2\u05e0\u05d1 \u05de\u05de\u05da",
         "track_number": 4,
@@ -12377,7 +12154,7 @@
         ]
     },
     {
-        "idx": 916,
+        "idx": 899,
         "artist_name": "Full Trunk",
         "track_title": "\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
         "track_number": 8,
@@ -12391,7 +12168,7 @@
         ]
     },
     {
-        "idx": 917,
+        "idx": 900,
         "artist_name": "Full Trunk",
         "track_title": "\u05de\u05de\u05d5\u05ea\u05d4",
         "track_number": 5,
@@ -12404,7 +12181,7 @@
         ]
     },
     {
-        "idx": 918,
+        "idx": 901,
         "artist_name": "Full Trunk",
         "track_title": "Let's Go",
         "track_number": 2,
@@ -12417,20 +12194,7 @@
         ]
     },
     {
-        "idx": 919,
-        "artist_name": "Peer Tasi",
-        "track_title": "\u05de\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05de\u05d7\u05e8",
-        "track_number": 7,
-        "isrc": "IL1012400915",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e0264262898e2dc5b99349e5b15",
-        "album_name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "release_date": "2024-05-26",
-        "artists": [
-            "Peer Tasi"
-        ]
-    },
-    {
-        "idx": 920,
+        "idx": 902,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e1\u05e8\u05d8 \u05e9\u05d7\u05d5\u05e8 \u05dc\u05d1\u05df",
         "track_number": 4,
@@ -12443,7 +12207,7 @@
         ]
     },
     {
-        "idx": 921,
+        "idx": 903,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d4\u05d5\u05d6\u05d4 \u05d0\u05d5\u05ea\u05da \u05de\u05d5\u05dc\u05d9",
         "track_number": 1,
@@ -12456,7 +12220,7 @@
         ]
     },
     {
-        "idx": 922,
+        "idx": 904,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d3\u05e8\u05da \u05dc\u05d7\u05d9\u05d9\u05dd",
         "track_number": 3,
@@ -12469,7 +12233,7 @@
         ]
     },
     {
-        "idx": 923,
+        "idx": 905,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e9\u05e7\u05e8\u05d9\u05dd",
         "track_number": 1,
@@ -12482,7 +12246,7 @@
         ]
     },
     {
-        "idx": 924,
+        "idx": 906,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d4\u05dc\u05d1 \u05e2\u05dc \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
         "track_number": 7,
@@ -12495,7 +12259,7 @@
         ]
     },
     {
-        "idx": 925,
+        "idx": 907,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d4\u05e2\u05e5 \u05e9\u05d1\u05d2\u05df",
         "track_number": 13,
@@ -12508,7 +12272,7 @@
         ]
     },
     {
-        "idx": 926,
+        "idx": 908,
         "artist_name": "Shir Levi",
         "track_title": "\u05d9\u05d5\u05dd \u05d0\u05d7\u05d3 \u05ea\u05d1\u05e7\u05e9\u05d9",
         "track_number": 1,
@@ -12521,20 +12285,7 @@
         ]
     },
     {
-        "idx": 927,
-        "artist_name": "Travis Scott",
-        "track_title": "MY EYES",
-        "track_number": 4,
-        "isrc": "USSM12305007",
-        "album_art": "https://i.scdn.co/image/ab67616d00001e02881d8d8378cd01099babcd44",
-        "album_name": "UTOPIA",
-        "release_date": "2023-07-28",
-        "artists": [
-            "Travis Scott"
-        ]
-    },
-    {
-        "idx": 928,
+        "idx": 909,
         "artist_name": "2Pac",
         "track_title": "Me Against The World",
         "track_number": 6,
@@ -12548,7 +12299,7 @@
         ]
     },
     {
-        "idx": 929,
+        "idx": 910,
         "artist_name": "Lupe Fiasco",
         "track_title": "The Show Goes On",
         "track_number": 6,
@@ -12561,7 +12312,7 @@
         ]
     },
     {
-        "idx": 930,
+        "idx": 911,
         "artist_name": "Eyal Golan",
         "track_title": "\u05ea\u05de\u05d5\u05e0\u05d4 \u05e9\u05d1\u05d5\u05e8\u05d4",
         "track_number": 16,
@@ -12574,7 +12325,7 @@
         ]
     },
     {
-        "idx": 931,
+        "idx": 912,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e8\u05e7 \u05de\u05ea\u05d2\u05e2\u05d2\u05e2",
         "track_number": 1,
@@ -12587,7 +12338,7 @@
         ]
     },
     {
-        "idx": 932,
+        "idx": 913,
         "artist_name": "Sharon Holzman",
         "track_title": "\u05de\u05d4 \u05e9\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4",
         "track_number": 1,
@@ -12600,7 +12351,7 @@
         ]
     },
     {
-        "idx": 933,
+        "idx": 914,
         "artist_name": "Eyal Golan",
         "track_title": "\u05db\u05de\u05d5 \u05d2\u05e9\u05dd \u05d1\u05de\u05d0\u05d9",
         "track_number": 12,
@@ -12613,7 +12364,7 @@
         ]
     },
     {
-        "idx": 934,
+        "idx": 915,
         "artist_name": "Eyal Golan",
         "track_title": "\u05dc\u05dc\u05db\u05ea \u05d0\u05d5 \u05dc\u05d4\u05d9\u05e9\u05d0\u05e8",
         "track_number": 9,
@@ -12626,7 +12377,7 @@
         ]
     },
     {
-        "idx": 935,
+        "idx": 916,
         "artist_name": "Eyal Golan",
         "track_title": "\u05e4\u05d9\u05e6\u05d9\u05e8\u05d9\u05e7\u05d4",
         "track_number": 6,
@@ -12640,7 +12391,7 @@
         ]
     },
     {
-        "idx": 936,
+        "idx": 917,
         "artist_name": "Sharon Holzman",
         "track_title": "\u05e1\u05d9\u05db\u05d5\u05d9 \u05e7\u05dc\u05d5\u05e9",
         "track_number": 2,
@@ -12653,7 +12404,7 @@
         ]
     },
     {
-        "idx": 937,
+        "idx": 918,
         "artist_name": "Eyal Golan",
         "track_title": "\u05de\u05dc\u05db\u05ea \u05d4\u05d9\u05d5\u05e4\u05d9 \u05e9\u05dc\u05d9",
         "track_number": 2,
@@ -12666,7 +12417,7 @@
         ]
     },
     {
-        "idx": 938,
+        "idx": 919,
         "artist_name": "Eyal Golan",
         "track_title": "\u05d7\u05d5\u05e3 \u05d0\u05dc \u05d7\u05d5\u05e3",
         "track_number": 3,
@@ -12676,6 +12427,1815 @@
         "release_date": "2005-03-29",
         "artists": [
             "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 920,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d9\u05e4\u05d4 \u05e9\u05dc\u05d9",
+        "track_number": 1,
+        "isrc": "IL1011122199",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022ddff72ae4387ae94bd40bf3",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 921,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "track_number": 10,
+        "isrc": "IL1011122208",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022ddff72ae4387ae94bd40bf3",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 922,
+        "artist_name": "Teapacks",
+        "track_title": "\u05d0\u05d9\u05d6\u05d4 \u05e2\u05d5\u05dc\u05dd",
+        "track_number": 2,
+        "isrc": "IL2020309020",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0223507323ccbdfeb6fac23754",
+        "album_name": "\u05db\u05dc \u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd",
+        "release_date": "2003-01-01",
+        "artists": [
+            "Teapacks"
+        ]
+    },
+    {
+        "idx": 923,
+        "artist_name": "Scorpions",
+        "track_title": "Wind Of Change",
+        "track_number": 4,
+        "isrc": "USPG19090037",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02787674b6a114f98cad6f834b",
+        "album_name": "Crazy World",
+        "release_date": "1990-01-01",
+        "artists": [
+            "Scorpions"
+        ]
+    },
+    {
+        "idx": 924,
+        "artist_name": "Beit Habubot",
+        "track_title": "\u05e2\u05d5\u05de\u05d3 \u05de\u05d5\u05dc \u05e8\u05d0\u05d9",
+        "track_number": 2,
+        "isrc": "IL4070901035",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bc5e9bb8e6c001e28d9ba258",
+        "album_name": "\u05de\u05d3\u05e4\u05d9\u05dd",
+        "release_date": "2005-01-01",
+        "artists": [
+            "Beit Habubot"
+        ]
+    },
+    {
+        "idx": 925,
+        "artist_name": "Led Zeppelin",
+        "track_title": "Dazed and Confused - 1990 Remaster",
+        "track_number": 4,
+        "isrc": "USAT29900537",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026f2f499c1df1f210c9b34b32",
+        "album_name": "Led Zeppelin",
+        "release_date": "1969-01-12",
+        "artists": [
+            "Led Zeppelin"
+        ]
+    },
+    {
+        "idx": 926,
+        "artist_name": "Kendrick Lamar",
+        "track_title": "Count Me Out",
+        "track_number": 1,
+        "isrc": "USUM72208980",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022e02117d76426a08ac7c174f",
+        "album_name": "Mr. Morale & The Big Steppers",
+        "release_date": "2022-05-13",
+        "artists": [
+            "Kendrick Lamar"
+        ]
+    },
+    {
+        "idx": 927,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d5\u05d0\u05d5\u05dc\u05d9 \u05d1\u05d9\u05d5\u05dd \u05d9\u05e4\u05d4",
+        "track_number": 9,
+        "isrc": "IL1011121829",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e90b75f991c16f3ced317948",
+        "album_name": "\u05d9\u05de\u05d9\u05dd \u05d9\u05d2\u05d9\u05d3\u05d5",
+        "release_date": "2014-04-07",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 928,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d1\u05d7\u05d5\u05e3 \u05e9\u05dc \u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc",
+        "track_number": 6,
+        "isrc": "IL1011122204",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f15827d8da0058ac66dcd50c",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 929,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e4\u05e8\u05e4\u05e8",
+        "track_number": 4,
+        "isrc": "IL1011121790",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 930,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05dc\u05d1 \u05e9\u05d1\u05d5\u05e8",
+        "track_number": 8,
+        "isrc": "IL1011122161",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0247d114ef05b4011ad8d70e90",
+        "album_name": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "release_date": "2005-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 931,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05de\u05d0\u05d5\u05d4\u05d1 \u05db\u05dc \u05d4\u05dc\u05d9\u05dc\u05d4",
+        "track_number": 13,
+        "isrc": "IL1011121743",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020b3c9a7ebbf6f71c4eb2c6cd",
+        "album_name": "\u05d4\u05d5\u05d6\u05d4 \u05d0\u05d5\u05ea\u05da \u05de\u05d5\u05dc\u05d9",
+        "release_date": "2008-03-07",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 932,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d2\u05e2\u05d2\u05d5\u05e2\u05d9\u05dd",
+        "track_number": 4,
+        "isrc": "IL1011121807",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c24c4c41dbcaeb370605685c",
+        "album_name": "\u05d4\u05dc\u05d1 \u05e2\u05dc \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
+        "release_date": "2013-03-18",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 933,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e9\u05e7\u05dc\u05d9\u05dd",
+        "track_number": 7,
+        "isrc": "IL1011122205",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f15827d8da0058ac66dcd50c",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 934,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d0\u05d9\u05d9\u05dc \u05d2\u05d5\u05dc\u05df \u05e7\u05d5\u05e8\u05d0 \u05dc\u05da",
+        "track_number": 16,
+        "isrc": "IL1011121867",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 935,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05db\u05e9\u05d0\u05ea \u05e6\u05d5\u05d7\u05e7\u05ea",
+        "track_number": 9,
+        "isrc": "IL1011122160",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0247d114ef05b4011ad8d70e90",
+        "album_name": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "release_date": "2005-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 936,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05ea\u05e8\u05e7\u05d3\u05d9",
+        "track_number": 5,
+        "isrc": "IL1011122168",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0247d114ef05b4011ad8d70e90",
+        "album_name": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "release_date": "2005-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 937,
+        "artist_name": "Eyal Golan",
+        "track_title": "Goda Boba (feat. VIVO)",
+        "track_number": 10,
+        "isrc": "IL1011122043",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0219b36e42a0b0790b5b2c8827",
+        "album_name": "\u05dc\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e4\u05e9\u05d5\u05d8",
+        "release_date": "2017-03-29",
+        "artists": [
+            "Eyal Golan",
+            "Vivo"
+        ]
+    },
+    {
+        "idx": 938,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05db\u05dc \u05db\u05da \u05d9\u05e4\u05d4",
+        "track_number": 7,
+        "isrc": "IL1011121793",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 939,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05dc\u05d1\u05d3\u05d9",
+        "track_number": 8,
+        "isrc": "IL1011121794",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 940,
+        "artist_name": "Mobb Deep",
+        "track_title": "Shook Ones, Pt. II",
+        "track_number": 15,
+        "isrc": "USRC19401295",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02a2203fa0656cede30f879b97",
+        "album_name": "The Infamous",
+        "release_date": "1995-04-25",
+        "artists": [
+            "Mobb Deep"
+        ]
+    },
+    {
+        "idx": 941,
+        "artist_name": "Wu-Tang Clan",
+        "track_title": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+        "track_number": 8,
+        "isrc": "USRC19300133",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025901aaa980d3e714bf01171c",
+        "album_name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "release_date": "1993-11-09",
+        "artists": [
+            "Wu-Tang Clan"
+        ]
+    },
+    {
+        "idx": 942,
+        "artist_name": "Montell Jordan",
+        "track_title": "This Is How We Do It",
+        "track_number": 1,
+        "isrc": "USUM70728132",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02430debb283066ac6725483cf",
+        "album_name": "Best Of Montell Jordan",
+        "release_date": "2015-09-25",
+        "artists": [
+            "Montell Jordan"
+        ]
+    },
+    {
+        "idx": 943,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "track_number": 5,
+        "isrc": "IL1011122534",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e9c55932a1782573631d5ffb",
+        "album_name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "release_date": "2001-03-22",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 944,
+        "artist_name": "Mobb Deep",
+        "track_title": "Eye for a Eye (Your Beef Is Mines) (feat. Nas & Raekwon)",
+        "track_number": 4,
+        "isrc": "USRC19501712",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02a2203fa0656cede30f879b97",
+        "album_name": "The Infamous",
+        "release_date": "1995-04-25",
+        "artists": [
+            "Mobb Deep",
+            "Nas",
+            "Raekwon"
+        ]
+    },
+    {
+        "idx": 945,
+        "artist_name": "Nas",
+        "track_title": "Nas Is Like",
+        "track_number": 13,
+        "isrc": "USSM19804988",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e80a5aa8d7224edc04b1dc28",
+        "album_name": "I Am...",
+        "release_date": "1999-04-06",
+        "artists": [
+            "Nas"
+        ]
+    },
+    {
+        "idx": 946,
+        "artist_name": "Fugees",
+        "track_title": "Fu-Gee-La",
+        "track_number": 6,
+        "isrc": "USSM19600054",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137",
+        "album_name": "The Score (Expanded Edition)",
+        "release_date": "1996-02-13",
+        "artists": [
+            "Fugees",
+            "Ms. Lauryn Hill",
+            "Wyclef Jean",
+            "Pras"
+        ]
+    },
+    {
+        "idx": 947,
+        "artist_name": "Mobb Deep",
+        "track_title": "Outro: Outta Control - Remix",
+        "track_number": 12,
+        "isrc": "UK8D41401223",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022b7690d6023e3b5b5f2e4c76",
+        "album_name": "Murda Murda",
+        "release_date": "2015",
+        "artists": [
+            "Mobb Deep"
+        ]
+    },
+    {
+        "idx": 948,
+        "artist_name": "Gary Glitter",
+        "track_title": "Rock 'n' Roll (Part 1)",
+        "track_number": 1,
+        "isrc": "GBCQV7200001",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0220a1f5b13c13e633c1b4f37e",
+        "album_name": "Glitter",
+        "release_date": "1973",
+        "artists": [
+            "Gary Glitter"
+        ]
+    },
+    {
+        "idx": 949,
+        "artist_name": "Coldplay",
+        "track_title": "Trouble",
+        "track_number": 6,
+        "isrc": "GBAYE0000560",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029164bafe9aaa168d93f4816a",
+        "album_name": "Parachutes",
+        "release_date": "2000-07-10",
+        "artists": [
+            "Coldplay"
+        ]
+    },
+    {
+        "idx": 950,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05db\u05de\u05d5 \u05e6\u05d5\u05e2\u05e0\u05d9",
+        "track_number": 12,
+        "isrc": "IL1011121863",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 951,
+        "artist_name": "Mobb Deep",
+        "track_title": "Give Up the Goods (Just Step) (feat. Big Noyd)",
+        "track_number": 6,
+        "isrc": "USRC19501714",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02a2203fa0656cede30f879b97",
+        "album_name": "The Infamous",
+        "release_date": "1995-04-25",
+        "artists": [
+            "Mobb Deep",
+            "Big Noyd"
+        ]
+    },
+    {
+        "idx": 952,
+        "artist_name": "Kendrick Lamar",
+        "track_title": "Not Like Us",
+        "track_number": 1,
+        "isrc": "USUG12400910",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021ea0c62b2339cbf493a999ad",
+        "album_name": "Not Like Us",
+        "release_date": "2024-05-04",
+        "artists": [
+            "Kendrick Lamar"
+        ]
+    },
+    {
+        "idx": 953,
+        "artist_name": "Rose Royce",
+        "track_title": "Wishing On A Star",
+        "track_number": 4,
+        "isrc": "USA560627660",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0217127bce2e31901c604c0314",
+        "album_name": "Greatest Hits",
+        "release_date": "2000-07-13",
+        "artists": [
+            "Rose Royce"
+        ]
+    },
+    {
+        "idx": 954,
+        "artist_name": "Red Hot Chili Peppers",
+        "track_title": "Soul to Squeeze",
+        "track_number": 5,
+        "isrc": "USWB10102659",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e025590b4ee88187cb06a5b102d",
+        "album_name": "Greatest Hits",
+        "release_date": "2003-11-18",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "idx": 955,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "track_number": 1,
+        "isrc": "IL1011122163",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0247d114ef05b4011ad8d70e90",
+        "album_name": "\u05de\u05e6\u05d9\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05ea",
+        "release_date": "2005-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 956,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "track_number": 5,
+        "isrc": "IL1011121856",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 957,
+        "artist_name": "Red Hot Chili Peppers",
+        "track_title": "Under the Bridge",
+        "track_number": 11,
+        "isrc": "USWB19901576",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70",
+        "album_name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "release_date": "1991-09-24",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "idx": 958,
+        "artist_name": "Red Hot Chili Peppers",
+        "track_title": "Can't Stop",
+        "track_number": 7,
+        "isrc": "USWB10201694",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02de1af2785a83cc660155a0c4",
+        "album_name": "By the Way (Deluxe Edition)",
+        "release_date": "2002-07-09",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "idx": 959,
+        "artist_name": "Red Hot Chili Peppers",
+        "track_title": "Scar Tissue",
+        "track_number": 3,
+        "isrc": "USWB19900674",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+        "album_name": "Californication (Deluxe Edition)",
+        "release_date": "1999-06-08",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "idx": 960,
+        "artist_name": "Red Hot Chili Peppers",
+        "track_title": "Otherside",
+        "track_number": 4,
+        "isrc": "USWB19900693",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+        "album_name": "Californication (Deluxe Edition)",
+        "release_date": "1999-06-08",
+        "artists": [
+            "Red Hot Chili Peppers"
+        ]
+    },
+    {
+        "idx": 961,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e4\u05e8\u05d7\u05d9\u05dd \u05d1\u05de\u05d3\u05d1\u05e8",
+        "track_number": 4,
+        "isrc": "IL1011122146",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0219b36e42a0b0790b5b2c8827",
+        "album_name": "\u05dc\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e4\u05e9\u05d5\u05d8",
+        "release_date": "2017-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 962,
+        "artist_name": "Arik Einstein",
+        "track_title": "\u05dc\u05d1\u05db\u05d5\u05ea \u05dc\u05da",
+        "track_number": 3,
+        "isrc": "IL1010003318",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d21d191933f9ffd81e6d2858",
+        "album_name": "\u05d4\u05de\u05d9\u05d8\u05d1",
+        "release_date": "2015-03-10",
+        "artists": [
+            "Arik Einstein",
+            "Shem-Tov Levy"
+        ]
+    },
+    {
+        "idx": 963,
+        "artist_name": "Player",
+        "track_title": "Baby Come Back",
+        "track_number": 2,
+        "isrc": "NLF057790013",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0281eae9a98487ae512df29469",
+        "album_name": "Player",
+        "release_date": "1977-09-01",
+        "artists": [
+            "Player"
+        ]
+    },
+    {
+        "idx": 964,
+        "artist_name": "\u05d9\u05e6\u05d9\u05d0\u05ea \u05d7\u05d9\u05e8\u05d5\u05dd",
+        "track_title": "\u05e7\u05d7\u05d9 \u05dc\u05da \u05d6\u05de\u05df",
+        "track_number": 3,
+        "isrc": "il5849808142",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d0557a985b2e0d684bf80c90",
+        "album_name": "\u05d9\u05e6\u05d9\u05d0\u05ea \u05d7\u05d9\u05e8\u05d5\u05dd",
+        "release_date": "1998-01-01",
+        "artists": [
+            "\u05d9\u05e6\u05d9\u05d0\u05ea \u05d7\u05d9\u05e8\u05d5\u05dd"
+        ]
+    },
+    {
+        "idx": 965,
+        "artist_name": "Ludacris",
+        "track_title": "Area Codes",
+        "track_number": 7,
+        "isrc": "USDJ20110475",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0245b6350245f9ab800433a3c5",
+        "album_name": "Word Of Mouf",
+        "release_date": "2001-01-01",
+        "artists": [
+            "Ludacris",
+            "Nate Dogg"
+        ]
+    },
+    {
+        "idx": 966,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "track_number": 15,
+        "isrc": "IL1011121801",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 967,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05dc\u05d1 \u05e9\u05dc \u05d2\u05d1\u05e8",
+        "track_number": 1,
+        "isrc": "IL1011122248",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020223defe253dee31c65862b4",
+        "album_name": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05da",
+        "release_date": "1997-02-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 968,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d6\u05e8\u05d4",
+        "track_number": 3,
+        "isrc": "IL1011122201",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f15827d8da0058ac66dcd50c",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 969,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d9\u05dd \u05e9\u05dc \u05d8\u05e2\u05d5\u05d9\u05d5\u05ea",
+        "track_number": 5,
+        "isrc": "IL1011122194",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e15edd2eaccd1e9d2ee4a71c",
+        "album_name": "\u05d4\u05e1\u05ea\u05db\u05dc\u05d9 \u05d0\u05dc\u05d9",
+        "release_date": "1999-03-20",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 970,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05e9\u05d9\u05e8 \u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+        "track_number": 10,
+        "isrc": "IL1011122244",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020223defe253dee31c65862b4",
+        "album_name": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05da",
+        "release_date": "1997-02-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 971,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d6\u05d4 \u05d0\u05e0\u05d9",
+        "track_number": 1,
+        "isrc": "IL1011121744",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0257586cfb7833d2b4823639ba",
+        "album_name": "\u05d6\u05d4 \u05d0\u05e0\u05d9",
+        "release_date": "2009-05-09",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 972,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05db\u05e9\u05d0\u05d7\u05e8",
+        "track_number": 5,
+        "isrc": "IL1011121774",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e029fcaf580708555a57967c878",
+        "album_name": "\u05d7\u05dc\u05e7 \u05de\u05d7\u05d9\u05d9",
+        "release_date": "2011-04-12",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 973,
+        "artist_name": "Nathan Goshen",
+        "track_title": "\u05de\u05ea\u05d2\u05e2\u05d2\u05e2\u05ea",
+        "track_number": 6,
+        "isrc": "FR2X41900299",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022a0a77cfcd2474301fb8d0d5",
+        "album_name": "\u05d1\u05d0\u05ea\u05d9 \u05dc\u05d7\u05dc\u05d5\u05dd",
+        "release_date": "2020-02-16",
+        "artists": [
+            "Nathan Goshen"
+        ]
+    },
+    {
+        "idx": 974,
+        "artist_name": "ShrekDiMC",
+        "track_title": "\u05de\u05de\u05e9\u05d9\u05da \u05d4\u05dc\u05d0\u05d4",
+        "track_number": 15,
+        "isrc": "IL1471901574",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0205e2cdf77ea988f67f1cab44",
+        "album_name": "\u05d1\u05e8\u05d0\u05e9 \u05e9\u05dc\u05d9",
+        "release_date": "2019-08-01",
+        "artists": [
+            "ShrekDiMC",
+            "Almog Tabeka",
+            "Tzukush"
+        ]
+    },
+    {
+        "idx": 975,
+        "artist_name": "Ravid Plotnik",
+        "track_title": "\u05d1\u05d5\u05dd-\u05e9\u05d0\u05e7\u05d4-\u05dc\u05d0\u05e7",
+        "track_number": 6,
+        "isrc": "QMFME1598921",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024141f13dc323460250927606",
+        "album_name": "\u05e6\u05d3\u05d9\u05e7 \u05d0\u05d7\u05d3 \u05d1\u05e1\u05d3\u05d5\u05dd",
+        "release_date": "2011-08-01",
+        "artists": [
+            "Ravid Plotnik"
+        ]
+    },
+    {
+        "idx": 976,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e0\u05e2\u05e8\u05d4",
+        "track_number": 8,
+        "isrc": "IL1011122249",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020223defe253dee31c65862b4",
+        "album_name": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05da",
+        "release_date": "1997-02-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 977,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05d0\u05d4\u05d1\u05d4 \u05d4\u05d9\u05e9\u05e0\u05d4 \u05e9\u05dc\u05d9",
+        "track_number": 5,
+        "isrc": "IL1011121840",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021344e76812385607ce442239",
+        "album_name": "\u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "release_date": "2015-03-24",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 978,
+        "artist_name": "Fleetwood Mac",
+        "track_title": "The Chain - 2004 Remaster",
+        "track_number": 7,
+        "isrc": "USWB11301116",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+        "album_name": "Rumours (Super Deluxe)",
+        "release_date": "1977-02-04",
+        "artists": [
+            "Fleetwood Mac"
+        ]
+    },
+    {
+        "idx": 979,
+        "artist_name": "Fleetwood Mac",
+        "track_title": "Dreams - 2004 Remaster",
+        "track_number": 2,
+        "isrc": "USWB11301111",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+        "album_name": "Rumours (Super Deluxe)",
+        "release_date": "1977-02-04",
+        "artists": [
+            "Fleetwood Mac"
+        ]
+    },
+    {
+        "idx": 980,
+        "artist_name": "Fleetwood Mac",
+        "track_title": "Everywhere - 2017 Remaster",
+        "track_number": 3,
+        "isrc": "USRH11602189",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02aaba065944cd82a6f15c86b6",
+        "album_name": "Tango In the Night (Deluxe Edition)",
+        "release_date": "1987-04-13",
+        "artists": [
+            "Fleetwood Mac"
+        ]
+    },
+    {
+        "idx": 981,
+        "artist_name": "Santana",
+        "track_title": "Samba Pa Ti",
+        "track_number": 7,
+        "isrc": "USSM17000297",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f1594eeff2ea90e0f3873919",
+        "album_name": "Abraxas",
+        "release_date": "1970-09-23",
+        "artists": [
+            "Santana"
+        ]
+    },
+    {
+        "idx": 982,
+        "artist_name": "Pink Floyd",
+        "track_title": "Time",
+        "track_number": 4,
+        "isrc": "GBN9Y1100079",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
+        "album_name": "The Dark Side of the Moon",
+        "release_date": "1973-03-01",
+        "artists": [
+            "Pink Floyd"
+        ]
+    },
+    {
+        "idx": 983,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d0\u05d5\u05e7\u05d9\u05d9\u05e0\u05d5\u05e1",
+        "track_number": 8,
+        "isrc": "IL1011121811",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c24c4c41dbcaeb370605685c",
+        "album_name": "\u05d4\u05dc\u05d1 \u05e2\u05dc \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
+        "release_date": "2013-03-18",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 984,
+        "artist_name": "Pink Floyd",
+        "track_title": "Wish You Were Here",
+        "track_number": 4,
+        "isrc": "GBN9Y1100088",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021a84d71391df7469c5ab8539",
+        "album_name": "Wish You Were Here",
+        "release_date": "1975-09-12",
+        "artists": [
+            "Pink Floyd"
+        ]
+    },
+    {
+        "idx": 985,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d3\u05de\u05e2\u05d5\u05ea",
+        "track_number": 4,
+        "isrc": "IL1011122202",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f15827d8da0058ac66dcd50c",
+        "album_name": "\u05d7\u05d9\u05d9\u05dc \u05e9\u05dc \u05d0\u05d4\u05d1\u05d4",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 986,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e2\u05dc \u05d7\u05d1\u05dc \u05d3\u05e7",
+        "track_number": 13,
+        "isrc": "IL1011121769",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ff172d157c2c73665e9757a6",
+        "album_name": "\u05d3\u05e8\u05da \u05dc\u05d7\u05d9\u05d9\u05dd",
+        "release_date": "2010-03-03",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 987,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d0\u05d7 \u05d9\u05e7\u05e8",
+        "track_number": 3,
+        "isrc": "IL1011121854",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 988,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d1\u05d2\u05d3\u05d9\u05dd \u05d5\u05de\u05ea\u05e0\u05d5\u05ea",
+        "track_number": 3,
+        "isrc": "IL1011122152",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0219b36e42a0b0790b5b2c8827",
+        "album_name": "\u05dc\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e4\u05e9\u05d5\u05d8",
+        "release_date": "2017-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 989,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05dc\u05d9\u05dc\u05d5\u05ea",
+        "track_number": 6,
+        "isrc": "IL1011121857",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 990,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05de\u05e0\u05d2\u05d9\u05e0\u05d4",
+        "track_number": 13,
+        "isrc": "IL1011121799",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 991,
+        "artist_name": "Crocoloko",
+        "track_title": "Hasparnua",
+        "track_number": 4,
+        "isrc": "CAHQJ2380117",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021fb80337a3f12f6c37171dcb",
+        "album_name": "Memories",
+        "release_date": "2023-03-31",
+        "artists": [
+            "Crocoloko"
+        ]
+    },
+    {
+        "idx": 992,
+        "artist_name": "Dor Daniel",
+        "track_title": "\u05de\u05e7\u05d5\u05dd \u05dc\u05e6\u05d9\u05d3\u05da",
+        "track_number": 4,
+        "isrc": "IL1020802499",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020f44e47ea153e7da3c83ba9e",
+        "album_name": "\u05d1\u05d9\u05df \u05d4\u05d7\u05dc\u05d5\u05de\u05d5\u05ea",
+        "release_date": "2009-01-01",
+        "artists": [
+            "Dor Daniel"
+        ]
+    },
+    {
+        "idx": 993,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "track_number": 7,
+        "isrc": "IL1011121842",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021344e76812385607ce442239",
+        "album_name": "\u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "release_date": "2015-03-24",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 994,
+        "artist_name": "Eden Ben Zaken",
+        "track_title": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 \u05d1\u05dc\u05d9\u05dc\u05d4",
+        "track_number": 11,
+        "isrc": "IL4431801133",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020749c0b5d2265473e24b25f7",
+        "album_name": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9",
+        "release_date": "2019-04-14",
+        "artists": [
+            "Eden Ben Zaken"
+        ]
+    },
+    {
+        "idx": 995,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e0\u05e2\u05e6\u05e8 \u05d4\u05e2\u05d5\u05dc\u05dd",
+        "track_number": 3,
+        "isrc": "IL1011121838",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021344e76812385607ce442239",
+        "album_name": "\u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "release_date": "2015-03-24",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 996,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05dc\u05d0\u05df \u05d4\u05d2\u05e2\u05e0\u05d5",
+        "track_number": 10,
+        "isrc": "IL1011121861",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 997,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05d5\u05e4\u05d4 \u05e4\u05d4",
+        "track_number": 8,
+        "isrc": "IL1011121859",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 998,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05de\u05e0\u05d2\u05d9\u05e0\u05ea \u05d4\u05dc\u05d1",
+        "track_number": 9,
+        "isrc": "IL1011122533",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e9c55932a1782573631d5ffb",
+        "album_name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "release_date": "2001-03-22",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 999,
+        "artist_name": "Lynyrd Skynyrd",
+        "track_title": "Free Bird",
+        "track_number": 8,
+        "isrc": "USMC17301722",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02128450651c9f0442780d8eb8",
+        "album_name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "release_date": "1973-01-01",
+        "artists": [
+            "Lynyrd Skynyrd"
+        ]
+    },
+    {
+        "idx": 1000,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05de\u05d9\u05dc\u05d9\u05d5\u05df \u05d0\u05d5 \u05d3\u05d5\u05dc\u05e8",
+        "track_number": 2,
+        "isrc": "IL1011122532",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e9c55932a1782573631d5ffb",
+        "album_name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "release_date": "2001-03-22",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1001,
+        "artist_name": "Billy Joel",
+        "track_title": "Piano Man",
+        "track_number": 2,
+        "isrc": "USSM17300504",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02aff4aef671b2510be7c115b3",
+        "album_name": "Piano Man (Legacy Edition)",
+        "release_date": "1973-11-07",
+        "artists": [
+            "Billy Joel"
+        ]
+    },
+    {
+        "idx": 1002,
+        "artist_name": "Pink Floyd",
+        "track_title": "Breathe (In the Air)",
+        "track_number": 2,
+        "isrc": "GBN9Y1100077",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ea7caaff71dea1051d49b2fe",
+        "album_name": "The Dark Side of the Moon",
+        "release_date": "1973-03-01",
+        "artists": [
+            "Pink Floyd"
+        ]
+    },
+    {
+        "idx": 1003,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d1\u05d9\u05df \u05d4\u05d8\u05d5\u05d1 \u05d5\u05d4\u05e8\u05e2",
+        "track_number": 3,
+        "isrc": "IL1011122526",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e9c55932a1782573631d5ffb",
+        "album_name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "release_date": "2001-03-22",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1004,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05d3\u05e8\u05da \u05d0\u05e8\u05d5\u05db\u05d4",
+        "track_number": 8,
+        "isrc": "IL1011122527",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e9c55932a1782573631d5ffb",
+        "album_name": "\u05e6\u05dc\u05d9\u05dc \u05de\u05d9\u05ea\u05e8",
+        "release_date": "2001-03-22",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1005,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05e4\u05d5\u05da \u05de\u05d4\u05d9\u05e7\u05d5\u05dd",
+        "track_number": 6,
+        "isrc": "IL1011900796",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b20548e96d4a16e048a650bb",
+        "album_name": "\u05d4\u05e4\u05d5\u05da \u05de\u05d4\u05d9\u05e7\u05d5\u05dd - \u05d7\u05dc\u05e7 \u05e8\u05d0\u05e9\u05d5\u05df",
+        "release_date": "2019-04-14",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1006,
+        "artist_name": "The Revivo Project",
+        "track_title": "\u05e9\u05d9\u05e8 \u05dc\u05d3\u05e8\u05da",
+        "track_number": 9,
+        "isrc": "FRX991586263",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0201defc78fceac6305ce43186",
+        "album_name": "\u05de\u05d4 \u05e0\u05d5\u05ea\u05e8 \u05de\u05d0\u05dc\u05d4",
+        "release_date": "2012",
+        "artists": [
+            "The Revivo Project"
+        ]
+    },
+    {
+        "idx": 1007,
+        "artist_name": "The Police",
+        "track_title": "Roxanne",
+        "track_number": 3,
+        "isrc": "GBAAM0201086",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022043dd3544a339547d04b436",
+        "album_name": "Outlandos D'Amour (Remastered 2003)",
+        "release_date": "1978-11-02",
+        "artists": [
+            "The Police"
+        ]
+    },
+    {
+        "idx": 1008,
+        "artist_name": "Ten Years After",
+        "track_title": "I'd Love to Change the World - 2004 Remaster",
+        "track_number": 3,
+        "isrc": "GBAYK0400087",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024aa7956a8d5742ac762699b2",
+        "album_name": "A Space in Time (Deluxe Version)",
+        "release_date": "1971-08",
+        "artists": [
+            "Ten Years After"
+        ]
+    },
+    {
+        "idx": 1009,
+        "artist_name": "Led Zeppelin",
+        "track_title": "Black Dog - Remaster",
+        "track_number": 1,
+        "isrc": "USAT21300956",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c8a11e48c91a982d086afc69",
+        "album_name": "Led Zeppelin IV (Deluxe Edition)",
+        "release_date": "1971-11-08",
+        "artists": [
+            "Led Zeppelin"
+        ]
+    },
+    {
+        "idx": 1010,
+        "artist_name": "America",
+        "track_title": "A Horse with No Name",
+        "track_number": 5,
+        "isrc": "USWB19901792",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ab3b105e28a0d26df5be8d16",
+        "album_name": "America",
+        "release_date": "1972",
+        "artists": [
+            "America",
+            "George Martin"
+        ]
+    },
+    {
+        "idx": 1011,
+        "artist_name": "Buffalo Springfield",
+        "track_title": "For What It's Worth",
+        "track_number": 1,
+        "isrc": "USEE10170607",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d231bd1716b71b6444e25f89",
+        "album_name": "Buffalo Springfield",
+        "release_date": "1966-12-05",
+        "artists": [
+            "Buffalo Springfield"
+        ]
+    },
+    {
+        "idx": 1012,
+        "artist_name": "Cream",
+        "track_title": "Sunshine Of Your Love",
+        "track_number": 2,
+        "isrc": "GBA076700020",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02db1fb2dede292908e86d94d7",
+        "album_name": "Disraeli Gears (Deluxe Edition)",
+        "release_date": "1967-11",
+        "artists": [
+            "Cream"
+        ]
+    },
+    {
+        "idx": 1013,
+        "artist_name": "Led Zeppelin",
+        "track_title": "Bring It on Home - Remaster",
+        "track_number": 9,
+        "isrc": "USAT21300933",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f396ea414b735ef23e2ed1a9",
+        "album_name": "Led Zeppelin II (Remaster)",
+        "release_date": "1969-10-22",
+        "artists": [
+            "Led Zeppelin"
+        ]
+    },
+    {
+        "idx": 1014,
+        "artist_name": "The Animals",
+        "track_title": "House of the Rising Sun",
+        "track_number": 3,
+        "isrc": "GBAYE6400209",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02015c484a7aca592df1a77828",
+        "album_name": "The Singles Plus",
+        "release_date": "1987-10-19",
+        "artists": [
+            "The Animals"
+        ]
+    },
+    {
+        "idx": 1015,
+        "artist_name": "Black Sabbath",
+        "track_title": "Paranoid - 2009 Remaster",
+        "track_number": 2,
+        "isrc": "GBAJE7000057",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02605b25c031f809d78054a13c",
+        "album_name": "Paranoid",
+        "release_date": "1970-09-18",
+        "artists": [
+            "Black Sabbath"
+        ]
+    },
+    {
+        "idx": 1016,
+        "artist_name": "Eagles",
+        "track_title": "Hotel California - 2013 Remaster",
+        "track_number": 1,
+        "isrc": "USEE11300353",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778",
+        "album_name": "Hotel California (2013 Remaster)",
+        "release_date": "1976-12-08",
+        "artists": [
+            "Eagles"
+        ]
+    },
+    {
+        "idx": 1017,
+        "artist_name": "Led Zeppelin",
+        "track_title": "Ramble On - 1990 Remaster",
+        "track_number": 7,
+        "isrc": "USAT29900477",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02fc4f17340773c6c3579fea0d",
+        "album_name": "Led Zeppelin II (1994 Remaster)",
+        "release_date": "1969-10-22",
+        "artists": [
+            "Led Zeppelin"
+        ]
+    },
+    {
+        "idx": 1018,
+        "artist_name": "Over T.T",
+        "track_title": "Be a Tribe",
+        "track_number": 2,
+        "isrc": "UKU932333754",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0241e6c4f2fd27a777e292e1be",
+        "album_name": "Be a Tribe",
+        "release_date": "2023-12-29",
+        "artists": [
+            "Over T.T"
+        ]
+    },
+    {
+        "idx": 1019,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d5\u05d0\u05e0\u05d9 \u05e7\u05d5\u05e8\u05d0 \u05dc\u05da",
+        "track_number": 5,
+        "isrc": "IL1011122184",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0212aad403f403557dfbe71376",
+        "album_name": "\u05d5\u05d0\u05e0\u05d9 \u05e7\u05d5\u05e8\u05d0 \u05dc\u05da",
+        "release_date": "2002-04-01",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1020,
+        "artist_name": "The Revivo Project",
+        "track_title": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05d9\u05de\u05d9\u05dd",
+        "track_number": 13,
+        "isrc": "FRX991585218",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02b0b5160cbec3af7e79f58b2c",
+        "album_name": "\u05e9\u05d9\u05d3\u05e2 \u05db\u05dc \u05d4\u05e2\u05d5\u05dc\u05dd",
+        "release_date": "2014",
+        "artists": [
+            "The Revivo Project"
+        ]
+    },
+    {
+        "idx": 1021,
+        "artist_name": "Bee Gees",
+        "track_title": "You Should Be Dancing",
+        "track_number": 4,
+        "isrc": "NLF057690020",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "album_name": "Greatest",
+        "release_date": "1979-01-01",
+        "artists": [
+            "Bee Gees"
+        ]
+    },
+    {
+        "idx": 1022,
+        "artist_name": "Bee Gees",
+        "track_title": "How Deep Is Your Love",
+        "track_number": 6,
+        "isrc": "GBAKW7701005",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "album_name": "Greatest",
+        "release_date": "1979-01-01",
+        "artists": [
+            "Bee Gees"
+        ]
+    },
+    {
+        "idx": 1023,
+        "artist_name": "Bee Gees",
+        "track_title": "More Than A Woman",
+        "track_number": 4,
+        "isrc": "NLF057790033",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "album_name": "Greatest",
+        "release_date": "1979-01-01",
+        "artists": [
+            "Bee Gees"
+        ]
+    },
+    {
+        "idx": 1024,
+        "artist_name": "Bee Gees",
+        "track_title": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+        "track_number": 2,
+        "isrc": "NLF057790035",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0252038992fc6d7868f31d23b7",
+        "album_name": "Greatest",
+        "release_date": "1979-01-01",
+        "artists": [
+            "Bee Gees"
+        ]
+    },
+    {
+        "idx": 1025,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05e6\u05d0\u05d9 \u05d0\u05dc \u05d4\u05d7\u05dc\u05d5\u05df",
+        "track_number": 3,
+        "isrc": "IL1011122252",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020223defe253dee31c65862b4",
+        "album_name": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05d9\u05da",
+        "release_date": "1997-02-01",
+        "artists": [
+            "Eyal Golan",
+            "Ethnix"
+        ]
+    },
+    {
+        "idx": 1026,
+        "artist_name": "Empire Of The Sun",
+        "track_title": "Walking On A Dream",
+        "track_number": 2,
+        "isrc": "AUEI10800039",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f3aa0e6ca22a382007f61e4d",
+        "album_name": "Walking On A Dream (10th Anniversary Edition)",
+        "release_date": "2008-10-03",
+        "artists": [
+            "Empire Of The Sun"
+        ]
+    },
+    {
+        "idx": 1027,
+        "artist_name": "Hatikva 6",
+        "track_title": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
+        "track_number": 1,
+        "isrc": "IL1012400236",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0208c24250910199a70c84c70b",
+        "album_name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
+        "release_date": "2024-02-19",
+        "artists": [
+            "Hatikva 6"
+        ]
+    },
+    {
+        "idx": 1028,
+        "artist_name": "Hatikva 6",
+        "track_title": "\u05dc\u05d7\u05d6\u05d5\u05e8 \u05d4\u05d1\u05d9\u05ea\u05d4",
+        "track_number": 3,
+        "isrc": "IL1022011638",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bdaa282c6408cd9f6f05f770",
+        "album_name": "\u05de\u05e4\u05d4 \u05dc\u05e9\u05dd",
+        "release_date": "2020-12-10",
+        "artists": [
+            "Hatikva 6"
+        ]
+    },
+    {
+        "idx": 1029,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d0\u05dd \u05d9\u05e9 \u05d2\u05df \u05e2\u05d3\u05df",
+        "track_number": 1,
+        "isrc": "IL1011121718",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02cc8daaf91c397672003d8cc5",
+        "album_name": "\u05d1\u05e9\u05d1\u05d9\u05dc\u05da \u05e0\u05d5\u05e6\u05e8\u05ea\u05d9",
+        "release_date": "2007-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1030,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05dc\u05d5\u05d7\u05de\u05ea",
+        "track_number": 3,
+        "isrc": "IL1011121720",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02cc8daaf91c397672003d8cc5",
+        "album_name": "\u05d1\u05e9\u05d1\u05d9\u05dc\u05da \u05e0\u05d5\u05e6\u05e8\u05ea\u05d9",
+        "release_date": "2007-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1031,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05de\u05d9\u05dd",
+        "track_number": 9,
+        "isrc": "IL1011121795",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02392cc8313787a97b1442145d",
+        "album_name": "\u05e0\u05d2\u05e2\u05ea \u05dc\u05d9 \u05d1\u05dc\u05d1",
+        "release_date": "2012-03-25",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1032,
+        "artist_name": "Childish Gambino",
+        "track_title": "Retro (Rough)",
+        "track_number": 3,
+        "isrc": "USYAH1400033",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02811e18d061fb03580767a0f3",
+        "album_name": "Kauai",
+        "release_date": "2014-10-03",
+        "artists": [
+            "Childish Gambino"
+        ]
+    },
+    {
+        "idx": 1033,
+        "artist_name": "MC Xangai",
+        "track_title": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
+        "track_number": 1,
+        "isrc": "BCHFD2400181",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02d573e34051d2ea14634e7ec7",
+        "album_name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
+        "release_date": "2024-10-19",
+        "artists": [
+            "MC Xangai",
+            "DJ DAVY FELIPE",
+            "DJ TAK VADI\u00c3O"
+        ]
+    },
+    {
+        "idx": 1034,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d3\u05d5\u05d4\u05e8 \u05d0\u05dc \u05ea\u05d5\u05da \u05d4\u05e4\u05e7\u05e7",
+        "track_number": 6,
+        "isrc": "IL1011121762",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ff172d157c2c73665e9757a6",
+        "album_name": "\u05d3\u05e8\u05da \u05dc\u05d7\u05d9\u05d9\u05dd",
+        "release_date": "2010-03-03",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1035,
+        "artist_name": "Ely Oaks",
+        "track_title": "Running Around",
+        "track_number": 1,
+        "isrc": "DE1N12500007",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e026e2c3a9218378061c1a1b2b0",
+        "album_name": "Running Around",
+        "release_date": "2025-01-31",
+        "artists": [
+            "Ely Oaks"
+        ]
+    },
+    {
+        "idx": 1036,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d0\u05ea",
+        "track_number": 15,
+        "isrc": "IL1011121818",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c24c4c41dbcaeb370605685c",
+        "album_name": "\u05d4\u05dc\u05d1 \u05e2\u05dc \u05d4\u05e9\u05d5\u05dc\u05d7\u05df",
+        "release_date": "2013-03-18",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1037,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d4\u05d7\u05d9\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05d9\u05da",
+        "track_number": 9,
+        "isrc": "IL1011121844",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e021344e76812385607ce442239",
+        "album_name": "\u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05d9\u05d5\u05dd",
+        "release_date": "2015-03-24",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1038,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05d8\u05d5\u05d1 \u05dc\u05da \u05d0\u05d9\u05ea\u05d5",
+        "track_number": 15,
+        "isrc": "IL1011121866",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0228aebc3739ee52a16c616221",
+        "album_name": "\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d0\u05df",
+        "release_date": "2016-04-10",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1039,
+        "artist_name": "Gabi Shoshan",
+        "track_title": "Shesh Esre Malou La'naar",
+        "track_number": 3,
+        "isrc": "FRX201633259",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02bc2bb8b6ef812aefa5e333d8",
+        "album_name": "Naar Shachor Einaim",
+        "release_date": "1973-01-01",
+        "artists": [
+            "Gabi Shoshan"
+        ]
+    },
+    {
+        "idx": 1040,
+        "artist_name": "Kanye West",
+        "track_title": "Through The Wire",
+        "track_number": 19,
+        "isrc": "USDJ20400086",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e022892dd14331eaa4cee20194d",
+        "album_name": "The College Dropout",
+        "release_date": "2004-02-13",
+        "artists": [
+            "Kanye West"
+        ]
+    },
+    {
+        "idx": 1041,
+        "artist_name": "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9",
+        "track_title": "\u05de\u05d3\u05d5\u05e8\u05d4 \u05d1\u05d7\u05d5\u05dc\u05d5\u05ea",
+        "track_number": 3,
+        "isrc": "IL1011122256",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ff732549f784f4cbbebadba6",
+        "album_name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d4\u05d5\u05d0 \u05d7\u05d5\u05dc",
+        "release_date": "2016-02-23",
+        "artists": [
+            "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9"
+        ]
+    },
+    {
+        "idx": 1042,
+        "artist_name": "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9",
+        "track_title": "\u05d0\u05d4\u05d1\u05ea \u05d0\u05d3\u05dd",
+        "track_number": 9,
+        "isrc": "IL1011122492",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e027dbc30c738a302415d1dc7d5",
+        "album_name": "\u05d4\u05d0\u05d7\u05ea \u05e9\u05dc\u05d9",
+        "release_date": "2011-03-07",
+        "artists": [
+            "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9"
+        ]
+    },
+    {
+        "idx": 1043,
+        "artist_name": "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9",
+        "track_title": "\u05dc\u05d0 \u05e1\u05d9\u05de\u05e4\u05d8\u05d9",
+        "track_number": 6,
+        "isrc": "IL1011122254",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02ff732549f784f4cbbebadba6",
+        "album_name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d4\u05d5\u05d0 \u05d7\u05d5\u05dc",
+        "release_date": "2016-02-23",
+        "artists": [
+            "\u05d9\u05e9\u05d9 \u05dc\u05d5\u05d9"
+        ]
+    },
+    {
+        "idx": 1044,
+        "artist_name": "Eagles Of Death Metal",
+        "track_title": "Miss Alissa",
+        "track_number": 15,
+        "isrc": "US4N80500094",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02e8833f906a4e728c556b1802",
+        "album_name": "Peace Love Death Metal",
+        "release_date": "2004-03-23",
+        "artists": [
+            "Eagles Of Death Metal"
+        ]
+    },
+    {
+        "idx": 1045,
+        "artist_name": "The Revivo Project",
+        "track_title": "\u05d0\u05e0\u05d9 \u05e9\u05e8",
+        "track_number": 4,
+        "isrc": "FRX991586258",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0201defc78fceac6305ce43186",
+        "album_name": "\u05de\u05d4 \u05e0\u05d5\u05ea\u05e8 \u05de\u05d0\u05dc\u05d4",
+        "release_date": "2012",
+        "artists": [
+            "The Revivo Project"
+        ]
+    },
+    {
+        "idx": 1046,
+        "artist_name": "Eyal Golan",
+        "track_title": "\u05ea\u05d7\u05d6\u05d9\u05e8 \u05dc\u05d9 \u05d0\u05d5\u05ea\u05d4",
+        "track_number": 1,
+        "isrc": "IL1011122143",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0219b36e42a0b0790b5b2c8827",
+        "album_name": "\u05dc\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05d4\u05d9\u05d5\u05ea \u05e4\u05e9\u05d5\u05d8",
+        "release_date": "2017-03-29",
+        "artists": [
+            "Eyal Golan"
+        ]
+    },
+    {
+        "idx": 1047,
+        "artist_name": "Haim Moshe",
+        "track_title": "\u05d4\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05e9\u05d1\u05d0\u05dc\u05d1\u05d5\u05dd",
+        "track_number": 3,
+        "isrc": "il5849800837",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e0208da746ba8d354163cfc8c95",
+        "album_name": "\u05d4\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05e9\u05d1\u05d0\u05dc\u05d1\u05d5\u05dd",
+        "release_date": "1998-01-01",
+        "artists": [
+            "Haim Moshe"
+        ]
+    },
+    {
+        "idx": 1048,
+        "artist_name": "Haim Moshe",
+        "track_title": "\u05d4\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05dc \u05e4\u05d9\u05e8\u05d0\u05d5\u05e1",
+        "track_number": 7,
+        "isrc": "il5841301969",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e020db11ed53737e0280308a51e",
+        "album_name": "\u05d4\u05de\u05d5\u05e4\u05e2",
+        "release_date": "2013-01-01",
+        "artists": [
+            "Haim Moshe"
+        ]
+    },
+    {
+        "idx": 1049,
+        "artist_name": "Hi Five",
+        "track_title": "\u05e2\u05d5\u05de\u05d3 \u05e2\u05dc \u05e6\u05d5\u05e7",
+        "track_number": 4,
+        "isrc": "IL1000000552",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f5039442e84e2b3cea39bc22",
+        "album_name": "\u05d4\u05d0\u05d7\u05e8\u05d5\u05df",
+        "release_date": "2000-01-01",
+        "artists": [
+            "Hi Five"
+        ]
+    },
+    {
+        "idx": 1050,
+        "artist_name": "Hi Five",
+        "track_title": "\u05db\u05d5\u05dc\u05dd \u05e8\u05d5\u05e7\u05d3\u05d9\u05dd \u05e2\u05db\u05e9\u05d9\u05d5",
+        "track_number": 2,
+        "isrc": "IL1000000512",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f070431449fa1a72a8a37ea4",
+        "album_name": "\u05db\u05d5\u05dc\u05dd \u05e8\u05d5\u05e7\u05d3\u05d9\u05dd \u05e2\u05db\u05e9\u05d9\u05d5",
+        "release_date": "1998-06-01",
+        "artists": [
+            "Hi Five"
+        ]
+    },
+    {
+        "idx": 1051,
+        "artist_name": "Margalit Tzan'ani",
+        "track_title": "\u05db\u05dc \u05db\u05da \u05de\u05d5\u05db\u05e8",
+        "track_number": 1,
+        "isrc": "il5848901758",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02701560b0196d31e0d4b2cadc",
+        "album_name": "\u05de\u05e0\u05d8\u05d4",
+        "release_date": "1989-01-01",
+        "artists": [
+            "Margalit Tzan'ani"
+        ]
+    },
+    {
+        "idx": 1052,
+        "artist_name": "Margalit Tzan'ani",
+        "track_title": "\u05db\u05dc \u05db\u05da \u05de\u05d5\u05db\u05e8 - \u05d1\u05d1\u05d0 \u05d2\u05d5\u05d6\u05de\u05d1\u05d0 - \u05e8\u05de\u05d9\u05e7\u05e1",
+        "track_number": 1,
+        "isrc": "il5841822464",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02c9aa3f93f206187f57f00541",
+        "album_name": "\u05db\u05dc \u05db\u05da \u05de\u05d5\u05db\u05e8 - \u05d1\u05d1\u05d0 \u05d2\u05d5\u05d6\u05de\u05d1\u05d0 - \u05e8\u05de\u05d9\u05e7\u05e1",
+        "release_date": "2018-08-02",
+        "artists": [
+            "Margalit Tzan'ani"
+        ]
+    },
+    {
+        "idx": 1053,
+        "artist_name": "Hi Five",
+        "track_title": "\u05d9\u05d5\u05dd \u05de\u05e2\u05d5\u05e0\u05df",
+        "track_number": 11,
+        "isrc": "IL1000000571",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02872d7df2297a811a10f40646",
+        "album_name": "Hfive",
+        "release_date": "1997-01-01",
+        "artists": [
+            "Hi Five"
+        ]
+    },
+    {
+        "idx": 1054,
+        "artist_name": "Jack Johnson",
+        "track_title": "Upside Down",
+        "track_number": 1,
+        "isrc": "USUG10500591",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f401bb58442523100aee4869",
+        "album_name": "Upside Down",
+        "release_date": "2006-02-24",
+        "artists": [
+            "Jack Johnson"
+        ]
+    },
+    {
+        "idx": 1055,
+        "artist_name": "Jack Johnson",
+        "track_title": "Better Together",
+        "track_number": 1,
+        "isrc": "USMC60400027",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02628dba01c669d89586967dc5",
+        "album_name": "In Between Dreams",
+        "release_date": "2005-01-01",
+        "artists": [
+            "Jack Johnson"
+        ]
+    },
+    {
+        "idx": 1056,
+        "artist_name": "Ethnix",
+        "track_title": "\u05e6\u05d9\u05e4\u05d5\u05e8 \u05de\u05d3\u05d1\u05e8",
+        "track_number": 2,
+        "isrc": "IL1029000582",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02f24e0364c42d69bdf26ad687",
+        "album_name": "\u05d0\u05ea\u05e0\u05d9\u05e7\u05e1",
+        "release_date": "1990-01-01",
+        "artists": [
+            "Ethnix"
+        ]
+    },
+    {
+        "idx": 1057,
+        "artist_name": "Ethnix",
+        "track_title": "\u05ea\u05d5\u05ea\u05d9\u05dd",
+        "track_number": 2,
+        "isrc": "IL1029200600",
+        "album_art": "https://i.scdn.co/image/ab67616d00001e02265b83a5539401088db09592",
+        "album_name": "\u05d9\u05dc\u05dc\u05ea \u05ea\u05df",
+        "release_date": "1992-01-01",
+        "artists": [
+            "Ethnix"
         ]
     }
 ]
