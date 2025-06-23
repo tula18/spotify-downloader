@@ -1,0 +1,9 @@
+spotipy
+moviepy
+pytube
+rich
+mutagen
+numpy
+yt-dlp
+tqdm
+requests
